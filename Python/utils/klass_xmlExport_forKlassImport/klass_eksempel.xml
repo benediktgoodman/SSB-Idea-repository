@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="true"?>
-<ns1:version xmlns:ns1="http://klass.ssb.no/version">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:versjon xmlns:ns1="http://klass.ssb.no/version">
 	<ns1:element>
-		<ns1:kode>a</ns:kode>
-		<ns1:navn_bokmål>b</ns:navn_bokmål>
-		<ns1:navn_engelsk>c</ns:navn_engelsk>
-		<ns1:kilde_kode>d</ns:kilde_kode>
-		<ns1:forelder>e</ns:forelder>
+		<ns1:kode>1</ns1:kode>
+		<ns1:navn_bokmål>Ugift</ns1:navn_bokmål>
+		<ns1:navn_engelsk>Unmarried</ns1:navn_engelsk>
+		<ns1:kilde_kode>a</ns1:kilde_kode>
+		<ns1:forelder/>
 	</ns1:element>
-</ns1:version>
+	<ns1:element>
+		<ns1:kode>2</ns1:kode>
+		<ns1:navn_bokmål>Gift</ns1:navn_bokmål>
+		<ns1:navn_engelsk>Married</ns1:navn_engelsk>
+		<ns1:kilde_kode>b</ns1:kilde_kode>
+		<ns1:forelder/>
+	</ns1:element>
+</ns1:versjon>
