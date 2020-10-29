@@ -2,7 +2,7 @@
 A repository to collect good ideas, an interesting solutions you want to share with other in SSB
 
 ## Intro (english)
-During development you occationally develop an interessting piece of code. Something that solves a particular need, something you think others might find usefull. This repository serves as a one stop shop if you wonder if someone has had the same idea as yourself. It will also serve as an idea box for the development centrally managed functions.
+During development you occasionally develop an interessting piece of code. Something that solves a particular need, something you think others might find useful. This repository serves as a one-stop-shop for checking for similar ideas, and sharing your solutions. It will also serve as an idea box for the development of centrally managed functions.
 
 This is a private repo so only members of SSB can view it.
 
@@ -10,8 +10,8 @@ This is a private repo so only members of SSB can view it.
 * Clone this repo
 * Create a new branch
 * Put your code into a notebook
-* Add some example data if nessecary
-* Give it an appropriate title. 
+* Add some example data if necessary
+* Give it an appropriate title
 * Domument what your code does in the notebook
 
 * Commit code
@@ -22,14 +22,14 @@ This is a private repo so only members of SSB can view it.
 
 ## Introduksjon (Norsk)
 
-Under kode utvikling hender det seg at man utvikler en spessielt niftig ide. noe som løser ett spessielt behov. Kanskje du tenker at dette er noe som noen andre kan ha bruk for. Dette repoet skal fungere som ett sammle punkt for denne typen ideer. Har du en god ide last den opp her, og andre som ser etter løsninger kan komme hit og se etter løsninger på sine problemer. Dette vil også fungere som en forslags kasse for utviklingen av sentrale funksjoner og metoder for metode biblioteket.
+Under kodeutvikling hender det seg at man utvikler en spesielt niftig ide. Kanskje du tenker at dette er noe som noen andre kan ha bruk for? Dette repoet skal fungere som ett samlepunkt for denne typen ideer. Har du en god ide, last den opp her, og andre som ser etter løsninger kan komme hit og se om noen har løst lignende ting tidligere. Dette vil også fungere som en forslagskasse for utviklingen av sentrale funksjoner og metoder til bibliotekene.
 
 ## Hvordan laste opp kode
 
 * Clone dette repoet
 * Lag en ny Branch
-* Skriv koden inn i en notebpook under passende mappe.
-* Legg til evt eksempel data.
+* Skriv koden inn i en notebook under passende mappe
+* Legg til evt. eksempeldata
 * Beskriv/dokumenter hva koden gjør
 * Gi notebooken en passende titel
 
