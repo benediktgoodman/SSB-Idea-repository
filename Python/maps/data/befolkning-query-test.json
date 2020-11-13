@@ -1,0 +1,25 @@
+{
+    "query": [
+        {
+            "code": "Grunnkretser",
+            "selection": {
+                "filter": "vs:Grunnkretser01",
+                "values": [
+                    "03010612"
+                ]
+            }
+        },
+        {
+            "code": "Tid",
+            "selection": {
+                "filter": "item",
+                "values": [
+                    "2020"
+                ]
+            }
+        }
+    ],
+    "response": {
+        "format": "json-stat2"
+    }
+}
