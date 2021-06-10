@@ -1,0 +1,22 @@
+[FELLES]
+
+fel = 'felles/'
+
+    [FELLES.MOCK]
+    mock = 'mock_sysselsatte/'
+    
+        [FELLES.MOCK.TEST]
+        test = 'test'
+        
+        [FELLES.MOCK.TEST2]
+        test = 'test2'
+    
+    [FELLES.KURS]
+    kurs = 'kurs'
+    
+[PRODUCT]
+prod = 'product/'
+
+    [PRODUCT.KAG]
+    kag = 'kag'
+    
