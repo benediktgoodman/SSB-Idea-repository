@@ -1,0 +1,4 @@
+test = "felles/mock_sysselsatte/test"
+test2 = "felles/mock_sysselsatte/test2"
+kurs = "felles/kurs"
+kag = "product/kag"

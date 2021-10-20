@@ -1,0 +1,43 @@
+periode = '20192020'
+
+
+[FEATURES]
+    production = true
+    log_kvalitet = true
+    valuation = 'internal'
+
+
+[PATHS]
+
+mock = '/felles/mock_sysselsatte'
+kurs = '/felles/kurs'
+
+    [PATHS.KAG]
+    root = '/product/kag'
+    utpakk = '/product/kag/klargjort/utpakk'
+    
+    
+
+[FORMATS]
+
+    [FORMATS.POP]
+    
+        [FORMATS.POP.sex]
+        'Menn' = 1
+        'Kvinner' = 2
+        
+        
+        [FORMATS.POP.age_ranges]
+        '0' = 0
+        'barn' = [1, 2, 3, 4]
+        '10' = [5, 10]
+        '20' = [11, 20]
+        '30' = [21, 30]
+        '40' = [31, 40]
+        '50' = [41, 50]
+        '60' = [51, 60]
+        '70' = [61, 70]
+        '80' = [71, 80]
+        '90' = [81, 90]
+        '100' = [91, 100]
+        '110' = [101, 110]
