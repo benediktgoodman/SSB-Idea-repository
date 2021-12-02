@@ -37,3 +37,7 @@ Under kodeutvikling hender det seg at man utvikler en spesielt niftig ide. Kansk
 * Push til Github
 * Send en pull request
     * Sett @ssvenkerud, @ansei or  @gitremy som reviewer
+
+
+# Går an å hente fra github i prodsonen
+git -c http.sslVerify=false clone https://github.com/statisticsnorway/SSB-Idea-repository.git
