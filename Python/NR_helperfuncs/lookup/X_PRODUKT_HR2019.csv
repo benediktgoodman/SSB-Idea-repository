@@ -1,0 +1,1008 @@
+PRODUKT,GYLDIG_FOM,GYLDIG_TOM,LAGER_MOTTAK,PRODUKT_KORT,PRODUKT_LANG,GRLPRODUKT,KNRPRODUKT,A64N_PRODUKT,A64_PRODUKT,IKKE_VHM,A38NP,A64NP,PUBAGG,I_U,V_T,A64EU_PRODUKT
+019138,1970,9999,87400,Inv.arb.B&A,"Investeringsarbeider jordbruk, bygninger og anlegg",011,011,011,010,,01_03,,prim,,V,CPA_A01
+021020,1970,9999,87400,"Inv. skogkultur","Investeringsarbeid, skogkultur",022,020,020,020,,01_03,,prim,,V,CPA_A02
+022010,1970,9999,87000,"Tømmer,bartre","Rundtømmer av bartrær",022,020,020,020,,01_03,,prim,I,V,CPA_A02
+022020,1970,9999,87000,"Tømmer,løv,trop.","Rundtømmer av løvtrær og tropiske tresorter",022,020,020,020,,01_03,,prim,I,V,CPA_A02
+022040,1970,9999,87000,Ved,Ved,021,020,020,020,,01_03,,prim,I,V,CPA_A02
+022049,1970,9999,87000,"Ved, EB.","Ved. Eget bruk",021,020,020,020,1,01_03,,prim,,V,CPA_A02
+023000,1970,9999,87000,"Pyntegrønt mv.","Pyntegrønt og andre viltvoksende produkter av annet enn tre",022,020,020,020,,01_03,,prim,I,V,CPA_A02
+024010,1970,9999,87400,Tj.skogbruk,"Tjenester tilknyttet skogbruk",022,020,020,020,,01_03,,prim,,V,CPA_A02
+024020,1970,9999,87400,"Entrep.tj. skog","Entrepenørtjenester tilknyttet skogbruk",022,020,020,020,,01_03,,prim,,V,CPA_A02
+029029,1970,9999,87940,"Lagerendr. skog","Lagerendring, vekst i dyrket skog",022,020,020,020,,01_03,,prim,,V,CPA_A02
+029118,1970,9999,87400,Inv.arb.Skog/vei,"Investeringsarbeider skogbruk, vegbygging",022,020,020,020,,01_03,,prim,,V,CPA_A02
+031110,1970,9999,87000,"Laks,ørret,fersk","Laks og ørret, fersk eller kjølt",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031120,1970,9999,87000,"Sild,brisling mv","Sild, brisling og lodde, fersk eller kjølt",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031130,1970,9999,87000,"Torsk, fersk","Torsk, fersk eller kjølt",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031140,1970,9999,87000,"Sei,hyse mv.","Sei, hyse mv.",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031150,1970,9999,87000,"Makrell, fersk","Makrell, fersk eller kjølt",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031160,1970,9999,87000,"Fisk fersk INAS","Fiskeslag ellers, fersk eller kjølt",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031169,1970,9999,87000,"Fisk EB.","Fisk. Eget bruk",031,031,031,030,1,01_03,,prim,,V,CPA_A03
+031310,1970,9999,87000,"Skalldyr mv.","Reker, andre skalldyr og bløtdyr",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031380,1970,9999,87000,"Sjøprodukt,inas","Sjøprodukter ellers",031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031500,1970,9999,87000,Perler,Perler,031,031,031,030,,01_03,,prim,I,V,CPA_A03
+031690,1970,9999,87000,"Sel,hvalfangst","Sel- og hvalfangst",031,031,031,030,,01_03,,prim,,V,CPA_A03
+031700,1970,9999,87400,Tj.fiske_fangst,"Tjenester tilknyttet fiske og fangst",031,031,031,030,,01_03,,prim,,V,CPA_A03
+032199,1970,9999,87930,Lagerendr.fiskop,"Lagerendring fiskeoppdrett",032,032,032,030,,01_03,,prim,,V,CPA_A03
+032310,1970,9999,87000,"Laks,ørret,oppdr","Laks og ørret, oppdrett",032,032,032,030,,01_03,,prim,B,V,CPA_A03
+032320,1970,9999,87000,"Torsk, oppdrett","Torsk, fersk eller kjølt, oppdrett",032,032,032,030,,01_03,,prim,B,V,CPA_A03
+032330,1970,9999,87000,"Fiske inas oppdr","Fiskeslag ellers, fersk eller kjølt, oppdrett",032,032,032,030,,01_03,,prim,B,V,CPA_A03
+032350,1970,9999,87000,"yngel,settef. mv","Fiskeyngel, settefisk, akvariefisk mv",032,032,032,030,,01_03,,prim,I,V,CPA_A03
+039118,1970,9999,87400,Inv.fiske/mask.m,"Investeringsarbeider fiske, maskiner mv.",031,031,031,030,,01_03,,prim,,V,CPA_A03
+039129,1970,9999,87400,"Inntekt fraktfar","Inntekt av fraktfart",031,031,031,030,,01_03,,prim,,V,CPA_A03
+050000,1970,9999,87000,"Bryting,steinkul","Bryting av steinkull",051,050,050,060,,05_09,,050,I,V,CPA_B
+060010,1970,9999,87000,Råolje,Råolje,061,061,061,060,,05_09,,oljegs,I,V,CPA_B
+060020,1970,9999,87000,Naturgass,Naturgass,064,062,062,060,,05_09,,oljegs,I,V,CPA_B
+060030,1970,9999,87000,"Naturgass (LNG)","Naturgass i flytende form (LNG)",065,062,062,060,,05_09,,oljegs,I,V,CPA_B
+060058,1970,9999,87400,"Eg.inv. oljeV.","Egne investeringsarbeider i oljevirksomhet",394,392,392,060,,05_09,,tjllers,,T,CPA_B
+070000,1970,9999,87000,"Metallhold malm","Metallholdig malm",075,050,050,060,1,05_09,,050,I,V,CPA_B
+081100,1970,9999,87000,"Bryting,stein mv","Bryting av stein til bygge- og anleggsvirksomhet,kalkstein,gips, kritt og skifer",075,050,050,060,,05_09,,050,I,V,CPA_B
+081200,1970,9999,87000,"Grus,sand, mv","Grus, sand leire og kaolin",075,050,050,060,,05_09,,050,I,V,CPA_B
+089100,1970,9999,87000,"Kjemiske mineral","Kjemiske mineraler og gjødselsmineraler",075,050,050,060,,05_09,,050,I,V,CPA_B
+089900,1970,9999,87000,"pim-, slipestein","pimpesten slipessten granat  naturlig asfalt",075,050,050,060,1,05_09,,050,I,V,CPA_B
+091010,1970,9999,87300,"Boring,olje,gass","Boring etter olje og gass (inkl. legging av rør)",090,090,090,060,,05_09,,oljdiv,U,T,CPA_B
+091090,1970,9999,87950,A.tj.ojeV.,"Andre tjenester tilknyttet olje- og gassutvinning",090,090,090,060,,05_09,,oljdiv,U,T,CPA_B
+099000,1970,9999,87300,"Tj.A.bergverk,ut","Tjenester tilknyttet annen bergverksdrift og utvinning",079,050,050,060,,05_09,,050,,V,CPA_B
+101110,1970,9999,87000,"Kjøtt,storfe ffk","Kjøtt av storfe, ferskt, fryst eller kjølt",101,100,101,100,,10_12,,nyt,B,V,CPA_C10T12
+101120,1970,9999,87000,"Kjøtt,svin, ffk","Kjøtt av svin, ferskt , fryst eller kjølt",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101130,1970,9999,87000,"Kjøtt av sau og","Kjøtt av sau og geit",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101140,1970,9999,87000,"Slakteavfall, sp","Slakteavfall, spiselig",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101190,1970,9999,87000,"Kjøtt- og slakte","Kjøtt- og slakteavfall ellers",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101210,1970,9999,87000,"Kjøtt av fjerkre","Kjøtt og slakteavfall av fjerkre, fersk, fryst eller kjølt",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101250,1970,9999,87000,"Dun og fjær","Dun og fjær",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101310,1970,9999,87000,"Kjøtt- og slakte","Kjøtt- og slakteavfall, saltet, tørket eller røkt",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101320,1970,9999,87000,"Kjøtt o.l. tilbe","Kjøtt o.l. tilberedt eller konservert",101,100,101,100,,10_12,,nyt,B,V,CPA_C10T12
+101330,1970,9999,87000,"Mel og pelleter","Mel og pelleter av kjøtt",101,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+101340,1970,9999,87000,"Matlaging og til","Matlaging og tilberedning",101,100,101,100,,10_12,,nyt,,V,CPA_C10T12
+102010,1970,9999,87000,"Fisk,fileter kjø","Fisk og fiskefileter, kjølt",102,102,102,100,,10_12,,nyt,I,V,CPA_C10T12
+102020,1970,9999,87000,"Fisk,fileter fry","Fisk og fiskefileter, fryst",102,102,102,100,,10_12,,nyt,B,V,CPA_C10T12
+102030,1970,9999,87000,"Fisk,saltet,tørk","Fisk, saltet, tørket eller røkt",102,102,102,100,,10_12,,nyt,I,V,CPA_C10T12
+102040,1970,9999,87000,"Fisk, tilberedt","Fisk, tilberedt eller konservert",102,102,102,100,,10_12,,nyt,B,V,CPA_C10T12
+102050,1970,9999,87000,"Skalldyr tilbere","Kreps, reker og bløtdyr, fryst, tlberedt eller konservert",102,102,102,100,,10_12,,nyt,I,V,CPA_C10T12
+102060,1970,9999,87000,"Fiskemel o.l.","Fiskemel o.l.",102,102,102,100,,10_12,,nyt,I,V,CPA_C10T12
+102070,1970,9999,87000,"Industrifisk mv.","Industrifisk, hoder og annet fiskeavfall",102,102,102,100,,10_12,,nyt,I,V,CPA_C10T12
+103100,1970,9999,87000,"tørket,potet mv.","tørket, potet, Mel og flak av poteter",103,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+103200,1970,9999,87000,"Frukt.og gr.saft","Frukt- og grønnsaksaft",103,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+103910,1970,9999,87000,"Frosne grønnsak","Frosne grønnsaker",103,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+103920,1970,9999,87000,"Frukt,nøtter,tør","Frukt og nøtter, tørket eller konservert",103,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+103930,1970,9999,87000,"Syltetøy,purè","Syltetøy, fruktgele samt puré og mos av frukter og nøtter",103,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+104000,1970,9999,87000,"Veget,anim olje","Vegetabilske og animalske oljer og fettstoffer",104,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+105100,1970,9999,87000,"Melk og fløte","Melk og fløte",105,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+105110,1970,9999,87400,Returmelk,Returmelk,105,100,101,100,,10_12,,nyt,,V,CPA_C10T12
+105120,1970,9999,87000,Melkepulver,Melkepulver,105,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+105130,1970,9999,87000,Smør,Smør,105,100,101,100,,10_12,,nyt,B,V,CPA_C10T12
+105140,1970,9999,87000,Ost,Ost,105,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+105150,1970,9999,87000,A.melkeprodukt,"Andre melkeprodukter, yoghurt, milkshake mv.",105,100,101,100,,10_12,,nyt,I,V,CPA_C10T12
+105200,1970,9999,87000,"Iskrem,spiseis","Iskrem og spiseis",105,100,101,100,,10_12,,nyt,B,V,CPA_C10T12
+106110,1970,9999,87000,"Mel,kakemiks","Mel, finmalt og kakemiks o.l. til baking",106,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+106120,1970,9999,87000,Kornvarer,Kornvarer,106,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+106200,1970,9999,87000,"Stivelse og stiv","Stivelse og stivelsesprodukter",106,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+107100,1970,9999,87000,"Brød og kaker","Brød og kaker",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+107200,1970,9999,87000,Konditorvarer,"Kavringer, kjeks og andre konserverte konditorvarer",119,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+107300,1970,9999,87000,Pastavarer,Pastavarer,119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108100,1970,9999,87000,Sukker,Sukker,013,013,013,010,,01_03,,prim,I,V,CPA_A01
+108210,1970,9999,87000,Kakao,Kakao,119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108220,1970,9999,87000,S.lade.sukkerVar,"Sjokolade og sukkervarer",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108310,1970,9999,87000,"Kaffe, brent ol.","Kaffe, brent eller koffeinfri, kaffeerstatninger og -ekstrakter",119,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+108330,1970,9999,87000,"Te, teekstrakter","Te, teekstrakter, urtete",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108400,1970,9999,87000,"Eddik og sauser","Eddik og sauser",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108500,1970,9999,87000,"Ferdig mat","Ferdig mat",119,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+108600,1970,9999,87000,Homog.næringsmid,"Homogeniserte næringsmidler (barnemat)",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108910,1970,9999,87000,"Supper,buljonger","Supper og buljonger",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108920,1970,9999,87000,"Eggeplommer,mv.","Eggeplommer, eggealbumin o.l",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108930,1970,9999,87000,Gjær,Gjær,119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108940,1970,9999,87000,Veg.saf.ekstr.mv,"Vegetabilske safter og ekstrakter m.v. (ikke mat)",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+108990,1970,9999,87000,"Matvarer ellers","Matvarer ellers",119,100,103,100,,10_12,,nyt,B,V,CPA_C10T12
+109100,1970,9999,87000,Kraftforblanding,"Kraftforblanding for husdyr",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+109200,1970,9999,87000,"Dyrefor,kjæledyr","Dyrefor for kjæledyr",119,100,103,100,,10_12,,nyt,I,V,CPA_C10T12
+110100,1970,9999,87000,"Brennevin o.a.","Brennevin o.a. destillerte alkoholholdige drikkevarer",110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110200,1970,9999,87000,Vin,Vin,110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110300,1970,9999,87000,"Eplesider o.a.","Eplesider o.a. gjærede drikkevarer",110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110500,1970,9999,87000,Øl,Øl,110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110600,1970,9999,87000,Malt,Malt,110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110710,1970,9999,87000,"Drikkevann,","Drikkevann, detaljpakket",110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110720,1970,9999,87000,"Mineralvann,","Mineralvann, alkoholfritt øl og vin t.o.m. 0,5%",110,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+110900,2002,9999,87000,Alko.imp.ulovlig,"Alkoholholdige drikkevarer, importert ulovlig",110,115,110,100,,10_12,,nyt,U,V,CPA_C10T12
+120000,1970,9999,87000,Tobakksvarer,Tobakksvarer,120,115,110,100,,10_12,,nyt,I,V,CPA_C10T12
+131000,1970,9999,87000,Tekstilfibre,Tekstilfibre,135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+132000,1970,9999,87000,"Vevede tekstiler","Vevede tekstiler og etterbehandling av tekstiler",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139100,1970,9999,87000,Trikotasjestoffe,Trikotasjestoffer,135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139210,1970,9999,87000,"A. tekstilvarer","Andre tekstilvarer",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139220,1970,9999,87000,Sekk.poser.Embal,"Sekker og poser (emballasje)",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139230,1970,9999,87000,"Presenninger,mv.","Presenninger, telt, markiser, seil",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139240,1970,9999,87000,"Matter,tepper mv","Matter, vatterte tepper, Soveposer, dyner",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139290,1970,9999,87000,"Redningsvest,mv.","Redningsvester, kluter, flagg, vimpler",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139300,1970,9999,87000,Gulvtepper,Gulvtepper,135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139400,1970,9999,87000,"Tauverk og nett","Tauverk og nett",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139500,1970,9999,87000,"Fiberduker,","Fiberduker, ikke-vevde tekstiler unntatt klær",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+139600,1970,9999,87000,"Andre tekstiler","Andre tekstiler til teknisk og industriell bruk",135,130,130,130,,13_15,,130,I,V,CPA_C13T15
+140000,1970,9999,87000,Klær,Klær,140,130,130,130,,13_15,,130,I,V,CPA_C13T15
+151000,1970,9999,87000,"lær og pelskinn","Garvet og beredt lær, beredte og fargede pelsskinn",150,130,130,130,,13_15,,130,I,V,CPA_C13T15
+151200,1970,9999,87000,"Reiseeffekter mv","Reiseeffekter mv.",150,130,130,130,,13_15,,130,I,V,CPA_C13T15
+152000,1970,9999,87000,"Sko m. tilhørend","Sko m. tilhørende deler",150,130,130,130,,13_15,,130,I,V,CPA_C13T15
+161010,1970,9999,87000,"Trelast, saget e","Trelast, saget eller kuttet",160,160,160,160,,16_18,,160,I,V,CPA_C16
+161020,1970,9999,87000,"Trelast ellers","Trelast ellers",160,160,160,160,,16_18,,160,I,V,CPA_C16
+161030,1970,9999,87000,"Tømmer m.v. impr","Tømmer m.v. impregnert, ledningsstolper",160,160,160,160,,16_18,,160,I,V,CPA_C16
+161090,1970,9999,87000,Treimpregnerings,Treimpregneringsverk,160,160,160,160,,16_18,,160,,V,CPA_C16
+162110,1970,9999,87000,Treplater,Treplater,160,160,160,160,,16_18,,160,I,V,CPA_C16
+162120,1970,9999,87000,"Finer og fortett","Finer og fortettet tre",160,160,160,160,,16_18,,160,I,V,CPA_C16
+162200,1970,9999,87000,"Parkett, takspon","Parkett, takspon",160,160,160,160,,16_18,,160,I,V,CPA_C16
+000014,1970,9999,87400,Matv.e.kantiner,"Matvarer til egne kantiner, institusjoner, skip o.l",0014,0014,0014,,,,,,,F,
+000016,1970,9999,87400,Repr.Forr.reiser,"Representasjon (Forretningsreiser)",0016,0016,0016,,,,,,,F,
+000018,1970,9999,87400,"Arb.tøy,verkt.mv","Verneutstyr, kantineutstyr, arbeidstøy, verktøy",0018,0018,0018,,,,,,,F,
+000020,1970,9999,87400,Rekv.rengj.midl.,"Kontorrekvisita, rengjøringsmidler",0020,0020,0020,,,,,,,F,
+000026,1970,9999,87400,Bank&fors.gebyr,"Bank og forsikringstjenester, offentlige gebyrer og aviser.",0026,0026,0026,,,,,,,F,
+000030,1970,9999,87400,Godstr.,"Godstransport, lasting, lagring",0030,0030,0030,,,,,,,F,
+000031,1970,9999,87400,Forr.tj.y.rengtj,"Post, Telefontjenester og internett og andre forretningsmessige tjenester, (regnskap, it, reklame, rettshjelp, teknisk konsulenttjenester)",0031,0031,0031,,,,,,,F,
+000033,1970,9999,87400,Hotelltj.innenl.,"Hotelltjenester, personreiser innenlands",0033,0033,0033,,,,,,,F,
+000035,1970,9999,87400,"Andre reiseutg.","Andre reiseutgifter mv.",0035,0035,0035,,,,,,,F,
+000040,1970,9999,87400,Utleie,"Utleie av biler, datamaskiner og maskiner og utstyr ellers",0040,0040,0040,,,,,,,F,
+000045,1970,9999,87400,Entreprenørlev.,Entreprenørleveranser,0045,0045,0045,,,,,,,F,
+000050,2009,2011,87400,Fj.kost.oljeinnr,"Fjerningskostnader for olje- og gassinnretninger",0050,0050,0050,,,,,,,F,
+000076,1970,9999,87400,Emballasje,Emballasje,0076,0076,0076,,,,,,,F,
+000150,1970,9999,87400,"Rep.av maskiner","Reparasjon av maskiner, redskap, inventar",0150,0150,0150,,,,,,,F,
+000160,1970,9999,87400,"Rep. av B&A","Reparasjon av bygg og anlegg",0160,0160,0160,,,,,,,F,
+000350,1970,9999,27500,Handelsvarer,"Handelsvarer (salg-forbruk), avanse",455,450,460,460,,45_47,,tjllers,U,T,CPA_G46
+000371,1970,9999,87400,"Pros. innenl.","Prosesseringstjenester, innenlands",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+000372,1970,9999,87400,"Pros. utenl.","Prosesseringstjenester, utenlands",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+000374,1970,2007,87400,Uspes.rep.ar.i&b,"Uspesifisert reparasjonsarbeid i bergverksdrift, industri og e-verk.",330,330,330,330,,31_33,,tjllers,,T,CPA_C33
+000375,1970,2007,87400,Mont.arb.ind.&be,"Monteringsarbeid i bergverksdrift, industri og e-verk.",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+000379,1970,9999,87400,"Honorarer,a.tj.","Honorarer og diverse andre tjenester (industri)",735,730,740,740,,73_75,,fin,U,T,CPA_M74_75
+000382,1970,9999,87400,Egn.inv.arb.mask,"Egne investeringsarbeider på maskiner",394,392,392,280,,05_09,,tjllers,,T,CPA_C28
+000383,1970,9999,87400,Egn.inv.arb.b&an,"Egne investeringsarbeider på bygg og anlegg",394,392,392,410,,05_09,,tjllers,,T,CPA_F
+000384,1970,9999,87920,V.u.arb.ind.berg,"Varer under arbeid i bergverksdrift og industri, ekskl. skip, oljeborerigger og oljeutvinningsplattformer",283,280,280,280,,28,,verksted,,V,CPA_C28
+000385,1970,9999,87400,Egn.inv.arb.EDB,"Egne investeringsarbeider, EDB-programvare",394,392,392,620,,05_09,,tjllers,,T,CPA_J62_63
+000386,2002,9999,87400,Egn.inv.immatri,"Egne investeringsarbeider, immatrielle eiendeler",394,392,392,590,,05_09,,tjllers,,T,CPA_J59_60
+000387,1970,9999,87400,Egn.inv.FoU,"Egne investeringsarbeider, forskning og utvikling",396,392,392,720,,05_09,,tjllers,,T,CPA_M72
+000389,1970,9999,87400,Eg.inva.kommf.,"Egne investeringsarbeider i kommuneforvaltningen",394,392,392,410,,41_43,,tjllers,,T,CPA_F
+000390,1970,1995,87000,Verdreg.vari.ind,"Verdiregulering av vareinnsats i bergverksdrift og industri",283,280,280,280,,28,,verksted,,V,CPA_C28
+000910,1970,2015,87300,"Korr. HR2014","Korreksjon HR2014 Annet",283,280,280,280,,28,,verksted,,V,CPA_C28
+000940,1970,2008,87300,"Korr. FoU","Korreksjon HR2014 Forskning og utvikling",720,720,720,720,,72,,fin,U,T,CPA_M72
+000950,1970,2008,87300,"Korr. våpensys","Korreksjon HR2014 Våpensystemer",283,280,280,280,,28,,verksted,,V,CPA_C28
+000970,1970,9999,87970,"korr. mva og inv","korreksjonsbeløp merverdiavgift(historisk investeringsavgift)",0097,0097,0097,,,,,,,F,
+000990,1970,9999,87990,Skiftvirkninger,"Skiftvirkninger i faste priser (korreksjon av industri)",283,280,280,280,,28,,verksted,,V,CPA_ZZZ
+005045,1970,9999,87400,"Korr.invest. SAS","Korreksjon for avvik mellom faktiske investeringer og fordelte investeringer ut fra 2/7 av luftfartsaktiva i SAS",304,304,303,300,,29_30,,skiplfly,,V,CPA_C30
+005046,1970,9999,87400,Korr.inv.kontsok,"Korreksjon for utenlands andel av olje- og gassfeltene på kontinentalsokkelen, investeringsutgifter",007,007,007,300,,28,,skiplfly,U,V,CPA_C30
+005048,1970,9999,87400,"Korr.drift,kont.","Korreksjon for utenlands andel av olje- og gassfeltene på kontinentalsokkelen, driftsutgifter",006,006,006,300,,69_71,,oljdiv,U,T,CPA_C30
+005051,1970,9999,87400,Dr.utg.utl.fiske,"Fiskeri- og hvalfangstens driftsutgifter i utlandet",008,008,008,300,,69_71,,tjllers,,T,CPA_C30
+005053,1970,9999,87400,Dr.utg.utl.sjøf.,"Skipsfartens driftsutgifter i utlandet, ekskl. bunkers",005,005,005,520,,49_53,,005,U,T,CPA_H52
+005055,1970,9999,87400,Dr.utg.utl.luft.,"Luftfartens driftsutgifter i utlandet",008,008,008,520,,49_53,,tjllers,U,T,CPA_H52
+005056,1970,9999,87400,Dr.utg.utl.bor.,"Driftsutgifter i utlandet ved boring etter olje og gass, inklusive uspesifisert tjenesteimport",004,004,004,280,,28,,oljdiv,U,T,CPA_C28
+005057,1970,9999,87400,Dr.utg.utl.oljet,"Driftsutgifter i utlandet, olje- og gasstransport med rør",006,006,006,280,,69_71,,oljdiv,U,T,CPA_C28
+005059,1970,9999,87400,Imp.honorar.a.tj,"Import av honorarer og diverse andre tjenester",008,008,008,690,,69_71,,tjllers,U,T,CPA_M69_70
+005060,1970,9999,87400,Usp.imp.utv.olje,"Uspesifisert vareimport for utvinning av olje og gass, drifts- og investeringsutgifter",007,007,007,300,,28,,skiplfly,U,V,CPA_C30
+005061,1970,9999,87400,"Usp.små vare.imp","Annen uspesifisert vareimport(verdibeløp under kr 200)",595,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+005062,1970,9999,87400,Usp.v.imp.tr.olj,"Uspesifisert vareimport for olje- og gasstransport med rør, drifts- og investeringsutgifter",007,007,007,280,,28,,skiplfly,U,V,CPA_C28
+005063,1970,9999,87400,Usp.tj.imp.utv.o,"Uspesifisert tjenesteimport for utvinning av olje og gass, drifts- og investeringsutgifter",006,006,006,690,,69_71,,oljdiv,U,T,CPA_M69_70
+005064,1970,9999,87400,Usp.tj.imp.tra.o,"Uspesifisert tjenesteimport for olje- og gasstransport med rør, drifts- og investeringsutgifter",006,006,006,690,,69_71,,oljdiv,U,T,CPA_M69_70
+005065,1970,9999,87400,Usp.tj.imp.statf,"Uspesifisert tjenesteimport, statsforvaltningen",008,008,008,690,,69_71,,tjllers,U,T,CPA_M69_70
+005066,1970,2015,87400,"Norske turis.i u","Norske turister i utlandet",009,009,009,X02,,X02,,reise,U,T,X02
+005067,1970,9999,87400,"Nordm.i utl.ell.","Nordmenn i utlandet, ellers",009,009,009,X02,,X02,,reise,U,T,X02
+005068,1970,9999,87400,Forretningsreise,"Forretningsreiser (vareinnsats)",009,009,009,550,,X02,,reise,U,T,CPA_I
+005069,1970,9999,87400,Imp.turoperatør,"Import,turoperatørtjenester (produktinnsats)",009,009,009,550,,X02,,reise,U,T,CPA_I
+005070,1970,9999,87400,"Utlendinger i N.","Utlendinger i Norge",010,010,010,X01,,X01,,reise,U,T,X01
+005071,2016,9999,87400,"No turis.i u,dag","Norske turister i utlandet, dagsreiser, grensehandel",009,009,009,X02,,X02,,reise,U,T,X02
+005072,2016,9999,87400,"No turis.i u,ove","Norske turister i utlandet, overnatting,",009,009,009,X02,,X02,,reise,U,T,X02
+008100,1970,9999,87400,Boliger,"Boliger,leiligheter,fritidshus",0810,0815,0810,,,,0810,0815,,I,
+008108,1970,9999,87400,"Bolig egn invarb","Boliger egne investereingsarbeider",0810,0815,0810,,,,0810,0815,,I,
+008180,1970,9999,87400,"Br.bolig tr.kost","Brukte boliger, transaksjonskostnader",0810,0815,0810,,,,0810,0815,,I,
+008190,1970,9999,87400,Tr.kost.grunn,"Transaksjonskostnader, tomter og grunn",0810,0815,0810,,,,0810,0815,,I,
+008200,1970,9999,87400,Næringsbygg,Næringsbygg,0820,0815,0820,,,,0820,0815,,I,
+008208,1970,9999,87400,"Nær.byg.egn inv","Næringsbygg, egne investeringsarbeider",0820,0815,0820,,,,0820,0815,,I,
+008290,1970,9999,87400,Br.nær.byg.tr.ko,"Brukte næringsbygg, transaksjonskostnader",0820,0815,0820,,,,0820,0815,,I,
+008300,1970,9999,87400,Gr.frb.jord.skog,"Grunnforbedringer i jord- og skogbruk",0831,0815,0830,,,,0830,0815,,I,
+008308,1970,9999,87400,Gr.frb.lan.e.inv,"Grunnforbedringer i jord- og skogbruk, egne investeringsarbeider",0831,0815,0830,,,,0830,0815,,I,
+008310,1970,9999,87400,"Jernbane ol.","Jernbane, medregnet forstadsbane og bruer",0831,0815,0830,,,,0830,0815,,I,
+008320,1970,9999,87400,Kraftoverf.linje,Kraftoverføringslinjer,0832,0815,0830,,,,0830,0815,,I,
+008328,1970,9999,87400,Kraftovf.l.e.inv,"Kraftoverføringslinjer, egne investeringsarbeider",0832,0815,0830,,,,0830,0815,,I,
+008330,1970,9999,87400,Kraftprod.anlegg,Kraftproduksjonsanlegg,0833,0815,0830,,,,0830,0815,,I,
+008338,1970,9999,87400,Krftprd.anl.einv,"Kraftproduksjonsanlegg, egne investeringsarbeider",0833,0815,0830,,,,0830,0815,,I,
+008340,1970,9999,87400,"Veier og gater","Veier og gater",0831,0815,0830,,,,0830,0815,,I,
+008348,1970,9999,87400,"Veier egn.inv.","Veier og gater, egne investeringsarbeider",0831,0815,0830,,,,0830,0815,,I,
+008350,1970,9999,87400,"Andre anlegg","Andre anlegg",0831,0815,0830,,,,0830,0815,,I,
+008358,1970,9999,87400,"A.anlegg,egn inv","Andre anlegg, egne investeringsarbeider",0831,0815,0830,,,,0830,0815,,I,
+008370,1970,9999,87400,"Prod.hull olje","Produksjonshull for olje- og gassutvinning",0837,0837,0837,,,,0837,0836,,I,
+008378,1970,9999,87400,Pr.hul.olj+e.inv,"Produksjonshull for olje- og gassutvinning, egne investeringsarbeider",0837,0837,0837,,,,0837,0836,,I,
+008380,1970,9999,87400,"Oljeutv.plat mm","Oljeutvinningsplattformer, borerigger og moduler",0838,0838,0838,,,,0838,0838,,I,
+008388,1970,9999,87400,Olj.utv.pl.e.inv,"Oljeutvinningsplattformer, borerigger og moduler, egne investeringsarbeider",0838,0838,0838,,,,0838,0838,,I,
+008389,1970,9999,87400,Fj.kost.oljeinnr,"Fjerningskostnader for olje- og gassinnretninger",0838,0838,0838,,,,0838,0838,,I,
+008390,1970,9999,87400,Olje-gassrørled,"Olje- og gassrørledninger",0839,0839,0839,,,,0839,0836,,I,
+008398,1970,9999,87400,Olj.gasled.e.inv,"Olje- og gassrørledninger, egne investeringsarbeider",0839,0839,0839,,,,0839,0836,,I,
+008410,1970,9999,87400,"Skip og båter","Skip og båter",0841,0841,0841,,,,0841,0841,,I,
+008420,1970,9999,87400,"Fly,helikoptre","Fly og helikoptre",0842,0842,0842,,,,0842,0844,,I,
+008430,1970,9999,87400,Personbiler,"Personbiler, stasjonsvogner",0843,0843,0843,,,,0843,0844,,I,
+008440,1970,9999,87400,Busser,Busser,0843,0843,0843,,,,0843,0844,,I,
+008450,1970,9999,87400,"Lastebiler o.l.","Varebiler, lastebiler, kranbiler, trekkvogner mv.",0843,0843,0843,,,,0843,0844,,I,
+008460,1970,9999,87400,"Persbiler utleie","Personbiler til yrkesmessig utleie",0843,0843,0843,,,,0843,0844,,I,
+008470,1970,9999,87400,Lokomotiv.vogner,"Lokomotiver, passasjer- og godsvogner mv.",0843,0843,0843,,,,0843,0844,,I,
+008508,1970,9999,87400,Mask.utst.e.inv,"Maskiner og utstyr, egne investeringsarbeider",0850,0855,0855,,,,0855,0855,,I,
+008510,1970,9999,87400,Land.skog.mask.,"Landbruks- og skogbruksmaskiner",0850,0855,0855,,,,0855,0855,,I,
+008520,1970,9999,87400,Bergv.ind.mask,"Maskiner og utstyr til bergverk og industri",0850,0855,0855,,,,0855,0855,,I,
+008530,1970,9999,87400,Elektr.gas.mask,"Maskiner og utstyr til elektrisitets- og gassverk",0850,0855,0855,,,,0855,0855,,I,
+008540,1970,9999,87400,"B&A mask.utst","Maskiner og utstyr til bygge- og anleggsverksomhet",0850,0855,0855,,,,0855,0855,,I,
+008550,1970,9999,87400,A.nær.mask.utst.,"Maskiner og utstyr til andre næringer",0850,0855,0855,,,,0855,0855,,I,
+008560,1970,9999,87400,EDB/kont.utstyr,"EDB-utstyr, kontorutstyr og kontormaskiner ellers",0856,0855,0856,,,,0856,0855,,I,
+008570,1970,9999,87400,"Utstyr til tele","Utstyr til telekommunikasjon",0850,0855,0857,,,,0857,0855,,I,
+008590,1970,9999,87400,Våpensystemer,Våpensystemer,0859,0855,0859,,,,0859,0855,,I,
+008610,1970,9999,87400,"Endring i livdyr","Endring i livdyrbestand",0860,0860,0860,,,,0860,0815,,I,
+008650,1970,9999,87400,"Endring frukttre","Endring i frukttrebestand",0860,0860,0860,,,,0860,0815,,I,
+008710,1970,9999,87400,"Leting olje mm.","Leting etter olje, gass og mineraler",0871,0871,0871,,,,0871,0836,,I,
+008718,1970,9999,87400,Let.olj.mm.e.inv,"Leting etter olje, gass og mineraler, egne investeringsarbeider",0871,0871,0871,,,,0871,0836,,I,
+008720,1970,9999,87400,FoU,"Forskning og utvikling",0879,0879,0872,,,,0872,0855,,I,
+008728,1970,9999,87400,"FoU, e. inv.","Forskning og utvikling, egne investeringsarbeider",0879,0879,0872,,,,0872,0855,,I,
+008740,1970,9999,87400,EDB-programvare,EDB-programvare,0879,0879,0874,,,,0874,0855,,I,
+008748,1970,9999,87400,EDB-prg.e.inv.,"EDB-programvare, egne investeringsarbeider",0879,0879,0874,,,,0874,0855,,I,
+008760,1970,9999,87400,Lit.kunst.org.v,"Litterære og kunstneriske orginalverk",0879,0879,0876,,,,0876,0855,,I,
+008768,1970,9999,87400,Lit.kunst.org.ei,"Litterære og kunstneriske orginalverk, egne investeringsarbeider",0879,0879,0876,,,,0876,0855,,I,
+008790,1970,9999,87400,"Annen fast im.ka","Annen fast,immatriell kapital",0879,0879,0879,,,,0879,0855,,I,
+008990,1970,9999,87400,Verdigjenstander,"Antikviteter, kunstgjenstander og andre verdigjenstander",0890,0890,0899,,,,0899,0890,,I,
+009100,1970,9999,87400,"Brukt bolig K/S","Brukte boliger kjøp og salg",0910,0915,0910,410,,,0810,,,V,CPA_F
+009200,1970,9999,87400,Næringsbygg,Næringsbygg,0920,0915,0920,410,,,0820,,,V,CPA_F
+009320,1970,9999,87400,Kraftoverf.linje,Kraftoverføringslinjer,0932,0915,0930,410,,,0830,,,V,CPA_F
+009330,1970,9999,87400,Kraftanlegg,Kraftproduksjonsanlegg,0933,0915,0930,410,,,0830,,,V,CPA_F
+009350,1970,9999,87400,"Andre anlegg","Andre anlegg",0931,0915,0930,410,,,0830,,,V,CPA_F
+009370,1970,9999,87400,"Prod.hull olje","Produksjonshull for olje- og gassutvinning",0937,0937,0937,060,,,0837,,,V,CPA_B
+009380,1970,9999,87400,"Oljeutv.plat mm","Oljeutvinningsplattformer, borerigger og moduler",0938,0938,0938,300,,,0838,skiplfly,I,V,CPA_C30
+009389,1970,9999,87400,Oljepl.korr.utl.,"Oljeutvinningsplattformer, korreksjon for utenlandske eierandeler",0938,0938,0938,300,,,0838,skiplfly,U,V,CPA_C30
+009390,1970,9999,87400,Olje-gassrørled,"Olje- og gassrørledninger",0939,0939,0939,300,,,0839,,,V,CPA_C30
+009410,1970,9999,87400,"Skip og båter","Skip og båter",0941,0941,0941,300,,,0841,skiplfly,I,V,CPA_C30
+009420,1970,9999,87400,"Fly,helikoptre","Fly og helikoptre",0942,0942,0942,300,,,0842,skiplfly,I,V,CPA_C30
+009429,1970,9999,87400,"Fly,korr.utl.eie","Fly, korreksjon for utenlandske eiendeler",0942,0942,0942,300,,,0842,skiplfly,,V,CPA_C30
+009430,1970,9999,87400,Personbiler,"Personbiler, stasjonsvogner",0943,0943,0943,290,,,0843,verksted,,V,CPA_C29
+009440,1970,9999,87400,Busser,Busser,0943,0943,0943,290,,,0843,verksted,,V,CPA_C29
+009450,1970,9999,87400,"Lastebiler o.l.","Varebiler, lastebiler, kranbiler, trekkvogner mv.",0943,0943,0943,290,,,0843,verksted,,V,CPA_C29
+009460,1970,9999,87400,"Persbiler utleie","Personbiler til yrkesmessig utleie",0943,0943,0943,290,,,0843,verksted,,V,CPA_C29
+009470,1970,9999,87400,Lokomotiv.vogner,"Lokomotiver, passasjer- og godsvogner mv.",0943,0943,0955,280,,,0843,verksted,,V,CPA_C28
+009510,1970,9999,87400,Land.skog.mask.,"Landbruks- og skogbruksmaskiner",0950,0955,0955,280,,,0855,,,V,CPA_C28
+009520,1970,9999,87400,Bergv.ind.mask,"Maskiner og utstyr til bergverk og industri",0950,0955,0955,280,,,0855,,,V,CPA_C28
+009530,1970,9999,87400,Elektr.gas.mask,"Maskiner og utstyr til elektrisitets- og gassverk",0950,0955,0955,280,,,0855,,,V,CPA_C28
+009540,1970,9999,87400,"B&A mask.utst","Maskiner og utstyr til bygge- og anleggsverksomhet",0950,0955,0955,280,,,0855,,,V,CPA_C28
+009550,1970,9999,87400,Mask.uts.t.a.nær,"Maskiner og utstyr til andre næringer",0950,0955,0955,280,,,0855,,,V,CPA_C28
+009560,1970,9999,87400,EDB/kont.utstyr,"EDB-utstyr, kontorutstyr og kontormaskiner ellers",0956,0955,0956,260,,,0856,,,V,CPA_C26
+009570,1970,9999,87400,"Utstyr til tele","Utstyr til telekommunikasjon",0950,0955,0957,260,,,0857,,,V,CPA_C26
+009590,1970,9999,87000,Våpensystemer,Våpensystemer,0959,0955,0959,300,,,0859,,,V,CPA_C30
+009719,1970,9999,87400,Oljelet.korr.utl,"Olje- leting og boring, korreksjon for utenlandsk eierandeler",0971,0971,0971,060,,,0871,skiplfly,U,V,CPA_B
+009720,1970,9999,87400,FoU,"Forskning og utvikling",0979,0979,0972,720,,,0972,0972,,I,CPA_M72
+009740,1970,9999,87400,EDB-programvare,EDB-programvare,0979,0979,0974,620,,,0874,,,V,CPA_J62_63
+009760,1970,9999,87400,lit.kunst.retigh,"Litterære og kunstneriske opphavsrettigheter",0979,0979,0976,590,,,0876,,,V,CPA_J59_60
+009790,1970,9999,87400,A.f.imat.realkap,"Annen fast immateriell realkapital",0979,0979,0979,580,,,0879,,,V,CPA_J58
+009990,1970,9999,87400,Verdigjenstander,"Antikviteter, kunstgjenstander og andre verdigjenstander",0990,0990,0999,310,,,0899,,,V,CPA_C31_32
+011110,1970,9999,87000,Korn,Korn,011,011,011,010,,01_03,,prim,I,V,CPA_A01
+011190,1970,9999,87000,"Oljehold frø m.v","Oljeholdige frø m.v.",011,011,011,010,,01_03,,prim,I,V,CPA_A01
+011300,1970,9999,87000,"Frisk grønnsaker","Friske grønnsaker",011,011,011,010,,01_03,,prim,I,V,CPA_A01
+011309,1970,9999,87000,"Frisk gr.sak EB.","Friske grønnsaker, Eget bruk",011,011,011,010,1,01_03,,prim,,V,CPA_A01
+011350,1970,9999,87000,"Poteter mv.","Poteter, belgfrukter mv.",011,011,011,010,,01_03,,prim,I,V,CPA_A01
+011359,1970,9999,87000,"Poteter EB.","Poteter, belgfrukter mv. Eget bruk",011,011,011,010,1,01_03,,prim,,V,CPA_A01
+012010,1970,9999,87000,"Frukt,tropisk mv","Sitrus frukter,druer, bananer, meloner, oliven, nøtter mv.",013,013,011,010,,01_03,,prim,I,V,CPA_A01
+012400,1970,9999,87000,"Bær,epler frukt","Bær,epler frukt",011,011,011,010,,01_03,,prim,I,V,CPA_A01
+012409,1970,9999,87000,"Bær,frukt EB.","Bær,epler frukt. Eget bruk",011,011,011,010,1,01_03,,prim,,V,CPA_A01
+012700,1970,9999,87000,"Vekster t drikke","Vekster til fremstilling av drikkevarer",013,013,013,010,,01_03,,prim,I,V,CPA_A01
+012920,1970,9999,87000,Juletrær,Juletrær,022,020,020,020,,01_03,,prim,I,V,CPA_A02
+013010,1970,9999,87000,"Blomster planter","Blomster og planter",011,011,011,010,,01_03,,prim,I,V,CPA_A01
+013690,1970,9999,87000,Frø,Frø,011,011,011,010,,01_03,,prim,I,V,CPA_A01
+014120,1970,9999,87000,"Rå melk, storfe","Rå melk, storfe",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+014129,1970,9999,87000,"Rå melk. EB","Rå melk, storfe. Eget bruk.",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+014210,1970,9999,87000,"Storfe til slakt","Storfe til slakt",012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014220,1970,9999,87000,"Sæd,prod. dyr","Sæd, produksjonsdyr",012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014510,1970,9999,87000,"Sauer til slakt","Sauer til slakt",012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014520,1970,9999,87000,"Rå melk,sauer +","Rå melk fra sauer og geiter",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+014530,1970,9999,87000,"Ull og dyrehår","Ull og dyrehår",012,012,012,010,,01_03,,prim,I,V,CPA_A01
+014590,1970,9999,87000,"Rein,geiter hest","Reinsdyr, geiter, hester til slakt",012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014600,1970,9999,87000,"Svin til slakt","Svin til slakt",012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014710,1970,9999,87000,Fjærkre,Fjærkre,012,012,012,010,1,01_03,,prim,I,V,CPA_A01
+014720,1970,9999,87000,Egg,Egg,012,012,012,010,,01_03,,prim,I,V,CPA_A01
+014729,1970,9999,87000,"Egg. EB.","Egg, Eget bruk",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+014910,1970,9999,87000,"Levende dyr","Levende dyr",012,012,012,010,,01_03,,prim,I,V,CPA_A01
+014920,1970,9999,87000,"Honning, mv.","Honning og andre animalske produkter og produksjonsdyr",012,012,012,010,,01_03,,prim,I,V,CPA_A01
+014930,1970,9999,87000,"Rå pelsskinn","Rå pelsskinn",012,012,012,010,,01_03,,prim,I,V,CPA_A01
+014980,1970,9999,87000,"Kjøtt,storvilt","Kjøtt fra storvilt jakt",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+014990,1970,9999,87000,"Kjøtt,småvilt","Kjøtt fra småvilt jakt",012,012,012,010,1,01_03,,prim,,V,CPA_A01
+015000,1970,9999,87000,"Ubear planteprod","Ubearbeidde planteprodukter ellers",013,013,013,010,,01_03,,prim,I,V,CPA_A01
+016010,1970,9999,87400,"Tj. jordbruk","Tjenester tilknyttet jordbruk",012,012,012,010,,01_03,,prim,,V,CPA_A01
+016210,1970,9999,87400,"Inseminasjon,sæd","Inseminasjon, sæd av storfe",012,012,012,010,,01_03,,prim,,V,CPA_A01
+016220,1970,9999,87400,"Kjøreinnt, inv.","Kjøreinntekter, investering",012,012,012,010,,01_03,,prim,,V,CPA_A01
+016230,1970,9999,87400,"Oppstalling hest","Oppstalling hest",012,012,012,010,,01_03,,prim,,V,CPA_A01
+016240,1970,9999,87300,"Andre kjøreinnt.","Andre kjøreinntekter",012,012,012,010,,01_03,,prim,,V,CPA_A01
+017000,1970,9999,87400,"Tjenester jakt","Tjenester tilknyttet jakt",012,012,012,010,,01_03,,prim,,V,CPA_A01
+019019,1970,9999,87400,Endr.livdyrbesta,"Endring i livdyrbestand",012,012,012,010,,01_03,,prim,,V,CPA_A01
+019039,1970,9999,87930,Lagerendr.husdyr,"Lagerendring husdyrbestand",012,012,012,010,,01_03,,prim,,V,CPA_A01
+019048,1970,9999,87930,Endr.frukttre,"Endring i frukttrebestand",011,011,011,010,,01_03,,prim,,V,CPA_A01
+019118,1970,9999,87400,Inv.arb.grøft+,"Investeringsarbeider jordbruk, grøfting og nydyrking",011,011,011,010,,01_03,,prim,,V,CPA_A01
+019128,1970,9999,87400,Inv.arb.maskin+,"Investeringsarbeider jordbruk, maskiner og redskap",011,011,011,010,,01_03,,prim,,V,CPA_A01
+162310,1970,9999,87000,"Vinduer,dører mv","Vinduer, dører og dørkarmer",160,160,160,160,,16_18,,160,I,V,CPA_C16
+162320,1970,9999,87000,"Prefab. trebygg","Prefabrikerte bygninger av tre",160,160,160,160,1,16_18,,160,I,V,CPA_C16
+162390,1970,9999,87000,"Trapper,porter","Trapper, garasjeporter mv.",160,160,160,160,,16_18,,160,I,V,CPA_C16
+162410,1970,9999,87000,Treemball.paller,"Lastepaller, treemballasje m.v.",160,160,160,160,,16_18,,160,I,V,CPA_C16
+162910,1970,9999,87000,"Andre trevarer","Andre trevarer (likkister)",160,160,160,160,,16_18,,160,I,V,CPA_C16
+162920,1970,9999,87000,"Varer kork, mv.","Varer av kork, kurvmakerarbeid",160,160,160,160,,16_18,,160,I,V,CPA_C16
+171110,1970,9999,87000,Tremasse,Tremasse,170,170,170,170,,16_18,,170,I,V,CPA_C17
+171210,1970,9999,87000,"Papir avis graf.","Avispapir og annet papir til grafiske formål",170,170,170,170,,16_18,,170,I,V,CPA_C17
+171220,1970,9999,87000,"Papir toalet mv.","Papir til toalettpapir, kraftpapir og annet papir",170,170,170,170,,16_18,,170,I,V,CPA_C17
+171230,1970,9999,87000,"Papir.papp,ubes","Papir og papp, ubestrøket ellers",170,170,170,170,,16_18,,170,I,V,CPA_C17
+171260,1970,9999,87000,Pergamentpapir,"Pergamentpapir, smørpapir",170,170,170,170,,16_18,,170,I,V,CPA_C17
+171270,1970,9999,87000,Bearb.papir.papp,"Bearbeidet papir og papp",170,170,170,170,,16_18,,170,I,V,CPA_C17
+172100,1970,9999,87000,"Embal.papir ol.","Emballasje av papir og papp, sekker, poser esker o.l.",170,170,170,170,,16_18,,170,I,V,CPA_C17
+172200,1970,9999,87000,"Papir Hush.art","Husholdnings og toalettartikler av papir",170,170,170,170,,16_18,,170,I,V,CPA_C17
+172300,1970,9999,87000,"Papir Kontorart.","Kontorartikler av papir",170,170,170,170,,16_18,,170,I,V,CPA_C17
+172400,1970,9999,87000,"Tapeter,papir&te","Tapeter, papir og tekstil",170,170,170,170,,16_18,,170,I,V,CPA_C17
+172900,1970,9999,87000,"Varer papir mv.","Varer av papir og papp ellers (inkl sigarettappir)",170,170,170,170,,16_18,,170,I,V,CPA_C17
+181110,1970,9999,87300,"Trykking avis(T)","Trykking av aviser, tjeneste",180,180,180,180,,16_18,,180,,V,CPA_C18
+181200,1970,9999,87300,"Trykk prod el. T","Trykte produkter ellers tjeneste",180,180,180,180,,16_18,,180,,V,CPA_C18
+181300,1970,9999,87000,"Ferdiggjøring fø","Ferdiggjøring før tryikking og publisering",180,180,180,180,1,16_18,,180,I,V,CPA_C18
+181400,1970,9999,87300,Bokbinding.mv.Tj,"Bokbinding og ferdiggjøring av trykksaker, tjeneste",180,180,180,180,,16_18,,180,,V,CPA_C18
+182000,1970,9999,87300,"Reproduksjon av","Reproduksjon av innspilte opptak",180,180,180,180,,16_18,,180,,V,CPA_C18
+191000,1970,9999,87000,"Koks, tjære og b","Koks, tjære og briketter",1910,191,191,190,,19,,oljegs,I,V,CPA_C19
+192210,1970,9999,87000,"Bensin, ink. fly","Bensin for stempeldrevne forbrenningsmotorer herunder flybensin",1921,192,192,190,,19,,raff,I,V,CPA_C19
+192220,1970,9999,87000,Jetparafin/bensi,"Jetparafin, jetbensin",1922,192,192,190,,19,,raff,B,V,CPA_C19
+192229,2007,9999,87400,Jetparaf.kj.utl.,"Jetparafin mv. kjøpt i utlandet",1922,192,192,190,,19,,raff,B,V,CPA_C19
+192230,1970,9999,87000,"Råbensin, whites","Llette destillater , deriblant nafta, white spirit og andre lette petroleumsprod. ikke nevnt annet sted (INAS)",066,063,063,060,,19,,oljegs,I,V,CPA_B
+192240,1970,9999,87000,Parafin.fyring,"Parafin inklusiv fyringsparafin",1924,193,193,190,,19,,raff,I,V,CPA_C19
+192260,1970,9999,87000,"Gassoljer,diesel","Gassoljer, inkl. diesel og marinegassoljer",1926,194,194,190,,19,,raff,B,V,CPA_C19
+192269,2013,9999,87400,"Gassolje kj. utl","Gassolje, diesel kjøpt i utlandet",1926,194,194,190,,19,,raff,B,V,CPA_C19
+192270,1970,9999,87000,"ml.tung fyr.olje","Mellomtunge petroleumsoljer, inkl fyringsoljer",1927,191,191,190,,19,,oljegs,I,V,CPA_C19
+192280,1970,9999,87000,"Tunge petr.oljer","Tunge peroleumsoljer, inkl. Marindiesel, bunkersoljer",1928,193,193,190,,19,,raff,B,V,CPA_C19
+192289,2013,9999,87400,"Tunge olj.kj utl","Tunge petroleumsprodukter olje. kjøpt i utlandet",1928,193,193,190,,19,,raff,B,V,CPA_C19
+192290,1970,9999,87000,Smøreoljer,"Smøreoljer utvunnet av jordolje, tungdestillater ikke nevnt annet sted",1929,191,191,190,,19,,oljegs,B,V,CPA_C19
+192299,2013,9999,87400,"Smøreolje kj. ut","Smøreolje kjøpt i utlandet",1929,191,191,190,,19,,ojegs,B,V,CPA_C19
+192310,1970,9999,87000,"LPG,Propan,flyt","Propan, butan,gass gjort flytende (LPG)",068,063,063,060,,19,,oljegs,I,V,CPA_B
+192320,1970,9999,87000,J.oljegass.gassf,"Jordoljegasser i gassform",1931,191,191,190,,19,,oljegs,I,V,CPA_C19
+192410,1970,9999,87000,"Vaselin, voks","Vaselin, parafinvoks, jordoljevoks, og annen voks",1931,191,191,190,,19,,oljegs,I,V,CPA_C19
+192420,1970,9999,87000,Reststof.jo.olje,"Petrolkoks, jordoljebitumen og andre reststoffer fra jordolje",1932,191,191,190,,19,,oljegs,I,V,CPA_C19
+201100,1970,9999,87000,Industrigasser,"Industrigasser, hydrogen mv.",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201210,1970,9999,87000,Oksider,"Oksider, peroksider og hydroksider",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201220,1970,9999,87000,Garve/farvestoff,"Garvestoffer og fargestoffer",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201310,1970,9999,87000,"Anriket uran mv.","Anriket uran og plutonium, avsvekket uran og thorium, andre radioaktive grunnstoffer",233,190,200,200,,20,,kjemin,I,V,CPA_C20
+201320,1970,9999,87000,"Kjemi.gr.st INAS","Kjemiske grunnstoffer(uorganiske kjemikalier) ellers",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201330,1970,9999,87000,"Sulfider mv.","Sulfider, sulfater, nitrater, fosfater, karbonater",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201350,1970,9999,87000,"Salter a.metall","Salter av andre metaller",201,190,200,200,1,20,,kjemin,I,V,CPA_C20
+201360,1970,9999,87000,"Isotoper,cyanid","Isotoper, cyanider, silikater",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201370,1970,9999,87000,"Superrent silisi","(Superrent)Silisium, med innhold av minst 99,99 vekt % silisium",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201380,1970,9999,87000,"Rent silisium,","(Rent)Silisium, med innhold under 99,99 vekt% silisium",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201410,1970,9999,87000,Hydrokarboner,"Hydrokarboner o.l. derivater",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201420,1970,9999,87000,"Etylalkohol,","Etylalkohol, (etanol)",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201430,1970,9999,87000,"Fettsyrer mv.","Fettsyrer, karboksylsyrer o.l. derivater",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201440,1970,9999,87000,Nitrogenforbind.,Nitrogenforbindelser,201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201450,1970,9999,87000,"Uorg-org.f,ester","Uorganiske-organiske forbindelser, estere",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201460,1970,9999,87000,"Etere, perokside","Etere, peroksidere, oksidere og diverse forbindelser",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201470,1970,9999,87000,"Diverse organisk","Diverse organiske kjemiske råvarer",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201480,1970,9999,87000,"Avlut tremasse","Avlut fra fabrikasjon av tremasse",206,190,200,200,,20,,kjemin,I,V,CPA_C20
+201510,1970,9999,87000,"Ammoniakk,saltpe","Ammoniakk, saltpetersyre, salmiakk",201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201530,1970,9999,87000,Kunstgjødsel,Kunstgjødsel,201,190,200,200,,20,,kjemin,I,V,CPA_C20
+201600,1970,9999,87000,Basisplast,Basisplast,208,200,200,200,,20,,kjemin,I,V,CPA_C20
+201700,1970,9999,87000,"Gummi, syntetisk","Gummi, syntetisk",208,200,200,200,,20,,kjemin,I,V,CPA_C20
+202000,1970,9999,87000,"Plantevern mv","Plantevern- og skadedyrmidler og andre landbrukskjemiske produkter",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+203010,1970,9999,87000,"Maling, lakker","Maling, lakker",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+203020,1970,9999,87000,"Sparkel, lakk","Sparkel, kitt lakkmaling mv.",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+203030,1970,9999,87000,"Fargestifter o.l","Kunst-, trykkfarger, tusj, blekk o.l.",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+204110,1970,9999,87000,"Overfl akt.stoff","Overflateaktive stoffer, organiske samt glyserol",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+204130,1970,9999,87000,"Såpe,rengjørmidl","Såpe og rengjøringsmidler",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+204200,1970,9999,87000,"Parfyme,kosmetik","Parfyme, kosmetikk- og toalettpreparater",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205100,1970,9999,87000,Eksplosiver,Eksplosiver,207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205200,1970,9999,87000,"Lim, gelatin el","Lim, gelatin og klebemidler ellers",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205300,1970,9999,87000,Flykt.vegetabolj,"Flyktige vegetabilske oljer (brukes i næringsmiddel- og drikkevareindustrien)",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205910,1970,9999,87000,"Film til foto","Film til fotografering",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205920,1970,9999,87000,"Frostvæske o.l.","Frostvæske o.l.",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205930,1970,9999,87000,"Div.kjemisk prod","Diverse kjemiske produkter",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+205940,1970,9999,87000,Smøremidler,Smøremidler,207,200,200,200,,20,,kjemin,I,V,CPA_C20
+206000,1970,9999,87000,"Syntetiske fibre","Syntetiske og kunstige fibre",207,200,200,200,,20,,kjemin,I,V,CPA_C20
+211000,1970,9999,87000,Farmas.råvarer,"Farmasøytiske råvarer",210,210,210,210,,21,,kjemin,I,V,CPA_C21
+211050,1970,9999,87000,Narkotika,Narkotika,210,210,210,210,,21,,kjemin,U,V,CPA_C21
+212010,1970,9999,87000,Farmas.preparat,"Farmasøytiske preparater",210,210,210,210,,21,,kjemin,I,V,CPA_C21
+212020,1970,9999,87000,Farmas.produkter,"Farmasøytisk produkter ellers",210,210,210,210,,21,,kjemin,I,V,CPA_C21
+221110,1970,9999,87000,Dekk.p-bil.sykle,"Dekk til personbiler og sykler",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+221120,1970,9999,87000,"Gummidekk, brukt","Gummidekk, brukte&regummierte",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+221130,1970,9999,87000,Dekk.t.a.kjøret.,"Dekk til busser, lastebiler, fly og landbruksmaskiner",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+221150,1970,9999,87000,"Slanger mv. til","Slanger mv. til alle transportmidler",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+221900,1970,9999,87000,Gummiprod.ellers,"Gummiprodukter ellers",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+222100,1970,9999,87000,"Plast, halvfabr.","Plast, halvfabrikata",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+222210,1970,9999,87000,Bærepose.sekk.pl,"Bæreposer og sekker av plast",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+222230,1970,9999,87000,A.embalasj.plast,"Annen emballasje av plast o.l.",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+222300,1970,9999,87000,"Byggevarer av pl","Byggevarer av plast",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+222900,1970,9999,87000,A.plastprodukter,"Andre plastprodukter",220,220,220,220,,22_23,,kjemin,I,V,CPA_C22
+231100,1970,9999,87000,"Planglass, uarbe","Planglass, uarbeidet glass",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+231200,1970,9999,87000,"Planglass, bearb","Planglass, bearbeidet glass",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+231300,1970,9999,87000,Emb.hushart.glas,"Emballasje og husholdningsartikler av glass og krystaller",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+231400,1970,9999,87000,Glassfibrer,Glassfibrer,239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+231900,1970,9999,87000,Prod.tekn.glass,"Produksjon av teknisk glass og  andre glassvarer",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+232000,1970,9999,87000,"Ildfaste produkt","Ildfaste produkter",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+233100,1970,9999,87000,Keramisk.bygning,"Keramiske bygningsvarer, fliser, takstein mv.",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+234100,1970,9999,87000,Ker.h-art.dekor,"Keramiske husholdningsartikler og dekorasjonsgjenstander",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+234200,1970,9999,87000,Sanitær.keramisk,"Sanitærutstyr av keramiske materiale",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+234300,1970,9999,87000,A.keramisk.tekn.,"Andre keramiske produkter til teknisk bruk",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+235100,1970,9999,87000,Sement,Sement,235,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+235200,1970,9999,87000,"Kalk og gips","Kalk og gips",235,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236110,1970,9999,87000,"Takstein ol.sem.","Takstein, heller og murstein av sement eller betong",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236120,1970,9999,87000,"Prefabr.B&A elem","Prefabrikerte elementer for B&A, sement, betong",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236130,1970,9999,87000,"Prefabr.bygg bet","Prefabrikerte bygninger av betong",239,230,230,230,,22_23,,kjemin,,V,CPA_C23
+236200,1970,9999,87000,"Gipsvarer B&A","Gipsvarer for bygg og anlegg",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236300,1970,9999,87000,"Ferdig-bl betong","Ferdig-blandet betong",239,230,230,230,,22_23,,kjemin,,V,CPA_C23
+236400,1970,9999,87000,"Mørtel, ikke ild","Mørtel, ikke ildfast",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236500,1970,9999,87000,Fibersement,Fibersement,239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+236900,1970,9999,87000,"A.betong ol.prod","Andre betong-, gips- og sementprodukter",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+237000,1970,9999,87000,Monum.bygg.stein,"Monument- og bygningsstein",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+239100,1970,9999,87000,"Slipestein m.v.","Slipestein m.v., slipestoffer",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+239910,1970,9999,87000,"Varer av asbest","Varer av asbest",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+239920,1970,9999,87000,"Varer av asfalt","Varer av asfalt",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+239940,1970,9999,87000,Elektrodemasse,Elektrodemasse,239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+239990,1970,9999,87000,I-met.miner.INAS,"Ikke metallholdige mineralprodukter ikke nevnt annet sted",239,230,230,230,,22_23,,kjemin,I,V,CPA_C23
+241010,1970,9999,87000,Ubeh.mat.jern.mv,"Ubearbeidede materialer av jern og stål, samt råstål",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+241020,1970,9999,87000,Ferrolegeringer,Ferrolegeringer,241,240,240,240,,24_25,,metall,I,V,CPA_C24
+241030,1970,9999,87000,Flatvals.jern.mv,"Flatvalsede produkter av jern eller stål, varmvalsede",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+241060,1970,9999,87000,Barrer.stenger,"Barrer og stenger, varmvalsede",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+241070,1970,9999,87000,"Profiler jern.mv","Profiler av jern eller stål, skinnemateriale, varmvalsede",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+501230,1970,9999,87300,"UR. kjemi+gass","Utenriks frakt av kjemikalier og gasser",505,505,505,500,,49_53,,501,U,T,CPA_H50
+501240,1970,9999,87300,UR.tørrbulkfrakt,"Utenriks tørrbulkfrakt",505,505,505,500,,49_53,,501,U,T,CPA_H50
+501900,1970,9999,87300,UR.Utl.skip+mnsk,"Utleie av skip med mannskap, utenriks",505,505,505,500,,49_53,,501,U,T,CPA_H50
+502030,1970,9999,87300,Slepebåter,Slepebåter,506,506,506,500,,49_53,,samf,,T,CPA_H50
+502040,1970,9999,87300,Ofshor.sjøtrsptj,"Forsyning og andre sjøtransporttjenester offshore",506,506,506,500,,49_53,,samf,,T,CPA_H50
+503010,1970,9999,87300,IR.sjøf.pas+bilf,"Innenriks sjøfart, passasjerer og bilferging",506,506,506,500,,49_53,,samf,,T,CPA_H50
+503020,1970,9999,87300,"Utleie av skip m","Utleie av skip med mannskap, innenriks",506,506,506,500,,49_53,,samf,,T,CPA_H50
+504010,1970,9999,87300,IR.Godstrsp.skip,"Godstransport med skip, innenriks",506,506,506,500,,49_53,,samf,,T,CPA_H50
+505007,1970,9999,27500,"Transportmargin,","Transportmargin, skip",499,450,506,450,,45_47,,tjllers,,T,CPA_G45
+511010,1970,9999,87300,"Flyreiser, passa","Flyreiser, passasjerer",510,510,510,510,,49_53,,samf,U,T,CPA_H51
+511020,1970,9999,87300,Utl.fly+manskap,"Utleie av fly med mannskap",510,510,510,510,,49_53,,samf,U,T,CPA_H51
+511030,1970,9999,87300,Helikopttrsp.olj,"Helikoptertransport for oljevirksomhet",510,510,510,510,,49_53,,samf,,T,CPA_H51
+512110,1970,9999,87300,"Godstrsport fly","Godstransport med fly",510,510,510,510,,49_53,,samf,U,T,CPA_H51
+520002,1970,9999,87400,"Tj.transport SK","Tjenester tilknyttet transport, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+520003,1970,9999,87400,"Tj.transport SG","Tjenester tilknyttet transport statlig gebyr",813,813,843,840,,84,,tjllers,U,T,CPA_O84
+520004,2016,9999,87400,"Tj.transport KK","Tjenester tilknyttet transport, kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+520005,2016,9999,87400,"Tj.transport KG","Tjenester tilknyttet transport kommunalt gebyr",815,805,845,840,,84,,tjllers,U,T,CPA_O84
+521000,1970,9999,87300,"Lagring av varer","Lagring av varer",522,520,521,520,,49_53,,samf,U,T,CPA_H52
+522130,1970,9999,87300,"Bomvei-,bro-tj.","Bomvei-, bro- og tunneltjenester",522,520,521,520,,49_53,,samf,,T,CPA_H52
+522140,1970,9999,87300,"Parkering av bil","Parkering av biler",522,520,521,520,,49_53,,samf,,T,CPA_H52
+522210,1970,9999,87300,Havnevesen,Havnevesen,521,520,521,520,,49_53,,samf,U,T,CPA_H52
+522220,1970,9999,87300,"Tjenester tilkny","Tjenester tilknyttet sjøtransport ellers",521,520,521,520,,49_53,,samf,U,T,CPA_H52
+522300,1970,9999,87300,"Tj. Luftfarttrsp","Tjenester tilknyttet lufttransport mv.",523,520,521,520,,49_53,,samf,U,T,CPA_H52
+522400,1970,9999,87300,Lasting-lossing,"Lasting og lossing",521,520,521,520,,49_53,,samf,U,T,CPA_H52
+522910,1970,9999,87300,Skipsmeklingstj,"Skipsmeklings- og befraktningstjenester",521,520,521,520,,49_53,,samf,U,T,CPA_H52
+522917,1970,9999,27500,"Trspmarg,spedisj","Transportmargin, spedisjonstjenester",499,450,521,450,,45_47,,tjllers,,T,CPA_G45
+522920,1970,9999,87300,SpedisjonstjINAS,"Spedisjonstjenester ellers",522,520,521,520,,49_53,,samf,U,T,CPA_H52
+522990,1970,9999,87300,Tj.trsp.INAS,"Tjenester tilknyttet transport ellers",522,520,521,520,,49_53,,samf,U,T,CPA_H52
+522997,1970,9999,27500,"Trspmarg ellers","Transportmargin, transport ellers",499,450,521,450,,45_47,,tjllers,,T,CPA_G45
+529889,1970,1994,87400,Tj.tilkn.jernbtr,"Tjenester tilknyttet jernbanetransport",522,520,521,520,,49_53,,samf,,T,CPA_H52
+530000,1970,9999,87300,Post.distribusj.,"Post og distribusjonsvirksomhet",530,530,530,530,,49_53,,samf,U,T,CPA_H53
+531010,1970,9999,87300,"Avis distribusjo","Avis distribusjon",530,530,530,530,,49_53,,samf,,T,CPA_H53
+531030,1970,9999,87300,Oppgj.utl.postV.,"Oppgjør med utenlandske postverk",530,530,530,530,,49_53,,samf,U,T,CPA_H53
+531040,1970,9999,87300,"Tjenesteyting fr","Tjenesteyting fra Postverket til Postsparebanken/postgiro",530,530,530,530,,49_53,,samf,,T,CPA_H53
+551000,1970,9999,87300,Overnattingsvirk,Overnattingsvirksomhet,550,550,550,550,,55_56,,tjllers,,T,CPA_I
+553000,1970,9999,87300,"Drift camp.hytte","Drift av campingplasser og turisthytter",550,550,550,550,,55_56,,tjllers,,T,CPA_I
+559090,1970,9999,87300,"Overnatting INAS","Overnatting ellers",550,550,550,550,,55_56,,tjllers,,T,CPA_I
+561010,1970,9999,87300,Serv.spisested,"Servering ved spisesteder",550,550,550,550,,55_56,,tjllers,,T,CPA_I
+561020,1970,9999,87300,Serv.gatekj.etc,"Servering ved gatekjøkken etc.",550,550,550,550,,55_56,,tjllers,,T,CPA_I
+562000,1970,9999,87300,Kantine.catering,"Kantine og cateringtjenester",550,550,550,550,,55_56,,tjllers,U,T,CPA_I
+563000,1970,9999,87300,Serv.skjenkested,"Servering ved skjenkesteder",550,550,550,550,,55_56,,tjllers,,T,CPA_I
+581100,1970,9999,87000,Bøker,Bøker,581,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+581310,1970,9999,87000,Aviser,Aviser,581,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+581330,1970,9999,87300,Annonseinnt.avis,"Annonseinntekter, avis",581,580,580,580,,58_60,,tjllers,,T,CPA_J58
+581400,1970,9999,87000,Ukeblader.tidskr,"Ukeblader og tidsskrifter",581,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+581900,1970,9999,87000,Forlagsvirk.inas,"Forlagsvirksomhet ellers, varer",581,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+582000,1970,9999,87000,"Programvare vare","Programvare, software (innspilt materiell med spesielle tekniske data), vare",581,580,580,580,,58_60,,tjllers,I,T,CPA_J58
+591010,1970,9999,87950,"Film,TVprogr.tj,","Film og fjernsynsprogrammer, tjenester",595,580,590,590,,58_60,,tjllers,U,T,CPA_J59_60
+591020,1970,9999,87000,"Film,TVprogr.VA,","Film og fjernsynsprogrammer, varer",595,580,590,590,,58_60,,tjllers,I,T,CPA_J59_60
+592010,1970,9999,87950,Pr.musik.lyd.tj.,"Produksjon av musikk og lydopptak, tjeneste",595,580,590,590,,58_60,,tjllers,U,T,CPA_J59_60
+592020,1970,9999,87000,Pr.musik.lyd.VA,"Produksjon av musikk og lydopptak, varer",595,580,590,590,,58_60,,tjllers,I,T,CPA_J59_60
+600010,1970,9999,87300,Kringkstj.lisens,"Kringkastingstjenester, lisens",595,580,600,590,,58_60,,tjllers,U,T,CPA_J59_60
+600020,1970,9999,87300,Kringkstj.reklam,"Kringkastingstjenester, reklame",595,580,600,590,,58_60,,tjllers,U,T,CPA_J59_60
+611000,2009,9999,87300,"Kabelbas telekom","Kablebasert telekommunikasjon",610,610,610,610,,61,,tjllers,U,T,CPA_J61
+611010,1970,2008,87300,"Kabel teleko pin","Kablebasert telekommunikasjon, produktinnsats",610,610,610,610,,61,,tjllers,U,T,CPA_J61
+611020,1970,2008,87400,"Kabel tele kons","Kablebasert telekommunikasjon, konsum i husholdninger",610,610,610,610,,61,,tjllers,U,T,CPA_J61
+612000,2009,9999,87300,"Trådløs telekom","Trådløs telekommunikasjon",610,610,610,610,,61,,tjllers,,T,CPA_J61
+612010,1970,2008,87300,"Trådløs tele pin","Trådløs telekommunikasjon, produktinnsats",610,610,610,610,,61,,tjllers,,T,CPA_J61
+612020,1970,2008,87400,"Trådløs telekons","Trådløs telekommunikasjon konsum husholdninger",610,610,610,610,,61,,tjllers,,T,CPA_J61
+613000,1970,9999,87300,Satellittbasert,"Satellittbasert telekommunikasjon",610,610,610,610,,61,,tjllers,U,T,CPA_J61
+619000,1970,9999,87300,Telekommunikasjo,"Telekommunikasjon ellers",610,610,610,610,,61,,tjllers,U,T,CPA_J61
+620100,1970,9999,87950,Programmeringstj,Programmeringstjenester,620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+620200,1970,9999,87950,Konsulentvirk.IT,"Konsulentvirksomhet knyttet til informasjonsteknologi",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+620300,1970,9999,87300,"Forvaltn IT syst","Forvaltning og drift av IT-systemer",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+620900,1970,9999,87300,"Andre tjenester","Andre tjenester tilknyttet informasjonsteknologi",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+631100,1970,9999,87300,Databehandling,"Databehandling, datalagring og tilknyttede tjenester",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+631200,1970,9999,87300,"Drift web-portal","Drift av web-portaler",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+639100,1970,9999,87300,Nyhetsbyråer,Nyhetsbyråer,620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+639900,1970,9999,87300,A.infotj.INAS,"Andre informasjonstjenester ikke nevnt annet sted",620,620,620,620,,62_63,,tjllers,U,T,CPA_J62_63
+641100,1970,9999,87400,Sentralbankvirks,"Sentralbankvirksomhet, betalte tjenester",641,641,641,640,,64_66,,fin,,T,CPA_K64
+641900,1970,9999,87300,"Bank betalte tj.","Bankvirksomhet ellers, betalte tjenester",641,641,641,640,,64_66,,fin,U,T,CPA_K64
+641936,1970,9999,87400,"FISIM husholdn.B","FISIM til husholdninger og ideelle organisasjoner, bankvirksomhet",642,642,642,640,,64_66,,fin,U,T,CPA_K64
+641946,1970,9999,87400,"FISIM i-fi.nær.B","FISIM til ikke-finansielle næringer, bankvirksomhet",642,642,642,640,,64_66,,fin,U,T,CPA_K64
+641956,1970,9999,87400,"FISIM stat.nær.B","FISIM til statlige næringer, bankvirksomhet",642,642,642,640,,64_66,,fin,U,T,CPA_K64
+641966,1970,9999,87400,"FISIM kom.nær. B","FISIM til kommunale næringer, bankvirksomhet",642,642,642,640,,64_66,,fin,U,T,CPA_K64
+642000,1970,9999,87300,Finans.hold.sels,"Finansielle holding selskaper",641,641,641,640,,64_66,,fin,,T,CPA_K64
+642020,1970,9999,87300,ik.Fin.hold.sels,"Ikke-finansielle holding selskaper",641,641,641,640,,64_66,,fin,,T,CPA_K64
+643000,1970,9999,87300,Invest.selskaper,"Verdipapirfond og investeringsselskap",641,641,641,640,,64_66,,fin,,T,CPA_K64
+649100,1970,9999,87300,"Finans. leasing","Finansiell leasing",641,641,641,640,,64_66,,fin,,T,CPA_K64
+649200,1970,9999,87300,A.kredgiv.bet.tj,"Annen kredittgivning, betalte tjenester",641,641,641,640,,64_66,,fin,U,T,CPA_K64
+649900,1970,9999,87300,"A.finans tj.","Andre finansielle tjenester utenom forsikring og pensjonsfond",641,641,641,640,,64_66,,fin,,T,CPA_K64
+649936,1970,9999,87400,"FISIM hush-Id AK","FISIM til husholdninger og ideelle organisasjoner, annnen kredittgivning",642,642,642,640,,64_66,,fin,,T,CPA_K64
+649946,1970,9999,87400,"FISIM i-fin.  AK","FISIM til ikke-finansielle næringer, annen kredittgivning",642,642,642,640,,64_66,,fin,U,T,CPA_K64
+649956,1970,9999,87400,"FISIM statnær AK","FISIM til statlige næringer, annen kredittgivning",642,642,642,640,,64_66,,fin,,T,CPA_K64
+649966,1970,9999,87400,"FISIM kom.nær AK","FISIM til kommunale næringer, annen kredittgivning",642,642,642,640,,64_66,,fin,,T,CPA_K64
+651100,1970,9999,87300,"Livsforsikr. tj",Livsforsikringstjenester,651,650,650,650,,64_66,,fin,U,T,CPA_K65
+651210,1970,9999,87300,A.skadeforsikrtj,"Andre skadeforsikringstjenester",654,650,650,650,,64_66,,fin,U,T,CPA_K65
+651220,1970,9999,87300,Bilforsikringstj,Bilforsikringstjenester,652,650,650,650,,64_66,,fin,,T,CPA_K65
+652000,1970,9999,87300,Gjenforsikring,Gjenforsikring,651,650,650,650,,64_66,,fin,U,T,CPA_K65
+653000,1970,9999,87400,Pensjonfondtj.,Pensjonfondtjenester,653,650,650,650,,64_66,,fin,,T,CPA_K65
+661100,1970,9999,87300,Adm.finansmarked,"Administrasjon av finansmarkeder",660,660,660,660,,64_66,,fin,,T,CPA_K66
+661200,1970,9999,87300,Verdipapirrmegl.,Verdipapirmegling,660,660,660,660,,64_66,,fin,U,T,CPA_K66
+661209,1970,9999,87400,Meglingsavanse,Meglingsavanse,660,660,660,660,,64_66,,fin,,T,CPA_K66
+661900,1970,9999,87400,A.tj.tilk.finans,"Andre tjenester tilknyttet finansieringsvirksomhet",660,660,660,660,,64_66,,fin,U,T,CPA_K66
+662000,2010,9999,87300,Tj.tilkn.Fors&PK,"Tjenester tilknyttet forsikringsvirksomhet og pensjonskasser",660,660,660,660,,64_66,,fin,U,T,CPA_K66
+663000,2010,9999,87300,"Fondsforvalt. tj",Fondsforvaltningsvirksomhet,660,660,660,660,,64_66,,fin,U,T,CPA_K66
+670002,1970,1995,87400,"Tj.kred/fin SK","Tjenester i tilknytting til kreditt- og finansieringsvirksomhet, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+670003,1970,1995,87400,"Tj.kred/fin SG","Tjenester i tilknytting til kreditt- og finansieringsvirksomhet, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+681000,1970,9999,87300,"Kj/s egen eiend.","Kjøp og salg av egen fast eiendom",681,681,681,670,,68,,fin,,T,CPA_L68B
+682010,1970,9999,87400,"Boligtjenester,","Boligtjenester, borettslag og sameie",681,681,681,670,,68,,fin,,T,CPA_L68B
+682020,1970,9999,87300,"Forretnbygg,leie","Forretningsbygg, husleie",681,681,681,670,,68,,fin,U,T,CPA_L68B
+682022,1970,9999,87400,"Boligtj.leie SK","Boligtjenester, husleie statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+682023,1970,9999,87400,"Boligtj.leie SG","Boligtjenester, husleie statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+682024,1970,9999,87400,"Boligtj.leie,kK","Boligtjenester, husleie kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+682025,1970,9999,87400,"Boligtj.leie,KG","Boligtjenester, husleie, kommunalt gebyr",815,805,845,840,,84,,tjllers,,T,CPA_O84
+682032,1970,9999,87400,For.byg.leie.SK,"Forretningsbygg statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+682033,1970,9999,87400,For.byg.leie.SG,"Forretningsbygg, husleie, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+682034,1970,9999,87400,"For.byg.leie,kk","Forretningsbygg kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+682035,1970,9999,87400,"For.byg.leie,KG","Forretningsbygg, husleie, kommunalt gebyr",815,805,845,840,,84,,tjllers,,T,CPA_O84
+682090,1970,9999,87400,Boligtj.husleie,"Boligtjenester, husleie utenom egen bolig",688,688,681,670,,68,,fin,,T,CPA_L68B
+683100,1970,9999,87400,Eiendomsmegling,Eiendomsmegling,681,681,681,670,,68,,fin,U,T,CPA_L68B
+683200,1970,9999,87300,Eiendomsforvaltn,Eiendomsforvaltning,681,681,681,670,,68,,fin,,T,CPA_L68B
+684000,1970,9999,87400,Boligtj.imp.leie,"Boligtjenester (imputert husleie)",684,684,684,680,,68,,fin,,T,CPA_L68A
+691000,2009,9999,87300,"Juridisk tj.yt.","Juridisk tjenesteyting",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+691010,1970,2008,87300,"Jus,utl.klient","Juridisk tjenesteyting, utenlandske klienter",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+691020,1970,2008,87400,"Jus,priv.klientr","Juridisk tjenesteyting, private klienter",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+691030,1970,2008,87300,Jus.næringsklien,"Juridisk tjenesteyting, næringsdrivende",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+692000,1970,9999,87300,"Revisjon,regnsk.","Revisjon og regnskapstjenester mv.",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+701000,1970,9999,87300,Hovedkontortj.,Hovedkontortjenester,690,690,690,690,,69_71,,fin,,T,CPA_M69_70
+241080,1970,9999,87000,"Råstål (halvfabr","Råstål (halvfabrikater)",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+242000,1970,9999,87000,"Andre rørdeler a","Andre rørdeler av jern eller stål(herav olje- og gassrør)",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+243100,1970,9999,87000,"Stenger, av prof","Stenger, av profilert jern eller stål",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+243200,1970,9999,87000,"Flatvalsede prod","Flatvalsede produkter av jern eller stål, kaldvalsing",241,240,240,240,1,24_25,,metall,I,V,CPA_C24
+243300,1970,9999,87000,"Profiler av jern","Profiler av jern eller stål, kaldvalsede/pressede",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+243400,1970,9999,87000,"Kald trukket trå","Kald trukket tråd",241,240,240,240,,24_25,,metall,I,V,CPA_C24
+244110,1970,9999,87000,Sølv,Sølv,246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244120,1970,9999,87000,Gull,Gull,246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244130,1970,9999,87000,Platina,Platina,246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244140,1970,9999,87000,Uekt.met.ha-fabr,"Uekte metall plettert med sølv, gull,platina , halvfabrikata",246,240,240,240,1,24_25,,metall,I,V,CPA_C24
+244210,1970,9999,87000,"Aluminium, ubear","Aluminium, ubearbeidd",243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244220,1970,9999,87000,Aluminiumoksyd,Aluminiumoksyd,243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244230,1970,9999,87000,"Aluminium, tråd","Aluminium, tråd",243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244240,1970,9999,87000,"Aluminium,plater","Aluminium, plater og bånd",243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244250,1970,9999,87000,Aluminiumsfolier,Aluminiumsfolier,243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244290,1970,9999,87000,A.halvfabralumin,"Andre halvfabrikata av aluminium el. Aluminiumslegeringer",243,240,240,240,,24_25,,metall,I,V,CPA_C24
+244310,1970,9999,87000,"Bly,sink,tin ubh","Bly, sink og tinn, ubehandlet",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244320,1970,9999,87000,"Bly,sink,tin fbr","Bly, sink og tinn, halvfabrikata",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244410,1970,9999,87000,"Koppermatte, ube","Koppermatte, ubearbeidd",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244420,1970,9999,87000,"Koppermatte,hfbr","Koppermatte, halvfabrikata",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244510,1970,9999,87000,"Nikkel, ubearbei","Nikkel, ubearbeidd",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244520,1970,9999,87000,Nikkelmatte,Nikkelmatte,246,240,240,240,,24_25,,metall,I,V,CPA_C24
+244530,1970,9999,87000,"Nikkel, halvfabr","Nikkel, halvfabrikata",246,240,240,240,1,24_25,,metall,I,V,CPA_C24
+244590,1970,9999,87000,"Metall ellers","Metall ellers, ikke jernholdige",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+245000,1970,9999,87000,"Støping av metal","Støping av metaller",246,240,240,240,,24_25,,metall,I,V,CPA_C24
+251110,1970,9999,87000,Bygg.met.prefabr,"Bygninger av metall, prefabrikerte",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+251120,1970,9999,87000,"Bro.tårn konstr.","Bro og tårn konstruksjoner",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+251130,1970,9999,87000,Jern.stålko.INAS,"Jern og stålkonstruksjoner ellers",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+251200,1970,9999,87000,"Dører,vinduer mv","Dører, vinduer m.v. av jern, stål eller aluminium",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+252100,1970,9999,87000,Radiatorer.sentr,"Radiatorer for sentraloppvarming, sentralvarmekjeler",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+252900,1970,9999,87000,"Beholdere metall","Tanker, cisterner og beholdere av metall",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+253000,1970,9999,87000,"kraftmaskin mv.","Dampkjeler og andre kraftmaskiner, samt deler",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+254010,1970,9999,87000,"Våpen, militære","Våpen til militært bruk untatt revolvere, pistoler og lignende",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+254020,1970,9999,87000,"I-milit skytevåp","Ikke militære skytevåpen og lignende",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+254030,1970,9999,87000,Ammunisjon,"Ammunisjon, militært og sivilt",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+254040,1970,9999,87000,"Deler til våpen,","Deler til våpen,",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+255000,2007,9999,87300,"Smiing, stansing","Smiing, stansing og valsing av metall, pulvermetallurgi",250,250,250,250,,24_25,,metall,,V,CPA_C25
+256000,2007,9999,87300,Overflatebehandl,"Overflatebehandling og bearbeiding av metaller",250,250,250,250,,24_25,,metall,,V,CPA_C25
+257100,1970,9999,87000,Kjøkkenredskaper,"Kjøkkenredskaper, skjære og klipperedskaper",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+257200,1970,9999,87000,"Låser og beslag","Låser og beslag",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+257300,1970,9999,87000,Håndverktøy,Håndverktøy,250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259100,1970,9999,87000,"Stålfat ol.jern","Stålfat og lignende beholdere av jern og stål",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259200,1970,9999,87000,"Emballa. lettmet","Emballasje av lettmetall",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259300,1970,9999,87000,"Varer av metall","Varer av metalltråd, kjetting og fjærer",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259400,1970,9999,87000,"Skruer, bolter,","Skruer,bolter,muttere m.v.",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259910,1970,9999,87000,"A.met.art bad.kj","Andre metallartikler for bad og kjøkken",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259960,1970,9999,87000,"Skipspropell ol.","Skipspropeller og propellblad",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+259990,1970,9999,87000,"A.met.art. INAS","Andre metallvarer ikke nevnt annet sted",250,250,250,250,,24_25,,metall,I,V,CPA_C25
+261000,1970,9999,87000,"Elektroniske kom","Elektroniske komponenter og kretskort",260,260,260,260,,26,,verksted,I,V,CPA_C26
+262000,1970,9999,87000,EDB-utstyr,EDB-utstyr,260,260,260,260,,26,,verksted,I,V,CPA_C26
+263010,1970,9999,87000,"Radio/TV sendere","Radio- og fjernsynssendere",260,260,260,260,,26,,verksted,I,V,CPA_C26
+263020,1970,9999,87000,Telefoner,"Telefoner til mobilnett, linje mv.",260,260,260,260,,26,,verksted,I,V,CPA_C26
+263030,1970,9999,87000,Fjernsynskamera,Fjernsynskameraer,260,260,260,260,,26,,verksted,I,V,CPA_C26
+263040,1970,9999,87000,"Antenner m. tilh","Antenner m. tilh. Deler",260,260,260,260,,26,,verksted,I,V,CPA_C26
+263050,1970,9999,87000,"Elektrisk signal","Elektrisk signal-/sikkerhets-/trafikkreguleringsutstyr (ikke stasjonært) -",260,260,260,260,,26,,verksted,I,V,CPA_C26
+264010,1970,9999,87000,"Radiomottak bil","Radiomottakere, bilradio",260,260,260,260,,26,,verksted,I,V,CPA_C26
+264020,1970,9999,87000,"TV mottakere",Fjernsynsmottakere,260,260,260,260,,26,,verksted,I,V,CPA_C26
+264030,1970,9999,87000,"Lyd/bilde utstyr","Apparater og utstyr for opptak og reproduksjon av lyd og bilde",260,260,260,260,,26,,verksted,I,V,CPA_C26
+264050,1970,9999,87000,Del.audiovisuelt,"Deler til platespillere, annet lydopptaksutstyr, TV- og radioutsyr",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265110,1970,9999,87000,Navig.mv.instr.,"Navigasjons-, meterologiske-, geofysiske-, instrumenter",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265120,1970,9999,87000,Radarapparater,"Radarapparater og radionavigeringsapparater",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265130,1970,9999,87000,Pres.vekt.mål.mv,"Presisjonsvekter, instrumenter til tegning, regning, lengdemåling og lignende",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265140,1970,9999,87000,Instr.mål.el.vol,"Instrumenter for  måling av elektriske mengder el. Ioniserende stråler",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265150,1970,9999,87000,Instr.fysikkjemi,"Instrumenter for måling av vær, gjennomstrømming, trykk, fysiske eller kjemiske analyser",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265160,1970,9999,87000,A.instr.mål.kont,"Andre instrumenter og apparater til måling,kontroll og prøving",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265170,1970,9999,87000,"Termostater ol.","Termostater og andre instrumenter og apparater til automatisk regulering eller kontroll",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265180,1970,9999,87000,Del.mål.kontr.ol,"Deler og tilbehør til måle-,kontroll- og navigasjonsutstyr",260,260,260,260,,26,,verksted,I,V,CPA_C26
+265200,1970,9999,87000,"Ur, urverk, ol.","Ur, urverk, stemplingsur o.l.",260,260,260,260,,26,,verksted,I,V,CPA_C26
+266000,1970,9999,87000,"Strål.elektro ut","Strålings-, elektromedisinsk og elektroterapautisk utstyr",260,260,260,260,,26,,verksted,I,V,CPA_C26
+267010,1970,9999,87000,Foto.utst+del,"Fotografisk utstyr og tilhørende deler",260,260,260,260,,26,,verksted,I,V,CPA_C26
+267020,1970,9999,87000,A.optisk.ins+del,"Andre optiske instrumenter og deler av disse",260,260,260,260,,26,,verksted,I,V,CPA_C26
+268000,1970,9999,87000,"Optisk media mm","Magnetisk og optiske media",260,260,260,260,,26,,verksted,I,V,CPA_C26
+271100,1970,9999,87000,"Elektromotor mv.","Elektromotorer, generatorer og transformatorer",270,270,270,270,,27,,verksted,I,V,CPA_C27
+271200,1970,9999,87000,"El.kontr.tavl mv","Elektriske fordelings- og kontrolltavler og paneler",270,270,270,270,,27,,verksted,I,V,CPA_C27
+272000,1970,9999,87000,Batteri.el.akku,"Batterier og elektriske akkumulatorer",270,270,270,270,,27,,verksted,I,V,CPA_C27
+273100,1970,9999,87000,"Isolert.kabel mv","Isolert tråd, kabel og andre elektriske ledere",270,270,270,270,,27,,verksted,I,V,CPA_C27
+274000,1970,9999,87000,Belsyningsutstyr,Belsyningsutstyr,270,270,270,270,,27,,verksted,I,V,CPA_C27
+275110,1970,9999,87000,Hush.mask.appara,"Husholdningsmaskiner og apparater",270,270,270,270,,27,,verksted,I,V,CPA_C27
+275120,1970,9999,87000,"El. hetelegmer","Elektriske hetelegemer (motorvarmere)",270,270,270,270,,27,,verksted,I,V,CPA_C27
+275130,1970,9999,87000,Barb.mask.hårtør,"Barbermaskiner, hårtørrere",270,270,270,270,,27,,verksted,I,V,CPA_C27
+275150,1970,9999,87000,Varmtvannsberede,Varmtvannsberedere,270,270,270,270,,27,,verksted,I,V,CPA_C27
+275160,1970,9999,87000,Panelovner,Panelovner,270,270,270,270,,27,,verksted,I,V,CPA_C27
+275200,1970,9999,87000,I-el.hushapp.del,"Ikke elektriske husholdningsapparater og deler",270,270,270,270,,27,,verksted,I,V,CPA_C27
+279010,1970,9999,87000,"Kullelektroder t","Kullelektroder til elektrisk formål, annet elektrisk utstyr",270,270,270,270,,27,,verksted,I,V,CPA_C27
+279050,1970,9999,87000,El.kondensat.mm,"Elektriske kondensater,motstandere samt deler",270,270,270,270,,27,,verksted,I,V,CPA_C27
+281110,1970,9999,87000,"Skipsmotorer mv.","Skipsmotorer, utenbordsmotorer m.v.",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281120,1970,9999,87000,Turbiner,Turbiner,282,280,280,280,,28,,verksted,I,V,CPA_C28
+281130,1970,9999,87000,Del.turb.skipsmo,"Deler til turbiner, deler til skipsmotorer",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281210,1970,9999,87000,Kraftmask.motor,"Kraftmaskiner og -motorer",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281220,1970,9999,87000,Del.kraftm.pumpe,"Deler til kraftmaskiner og pumper",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281310,1970,9999,87000,"Pumpe væsker mv.","Pumper for væsker, sentrifugalpumper m.v.",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281320,1970,9999,87000,"Pumpe luft gass","Pumper for luft og gass",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281410,1970,9999,87000,"Kran.ventil mv.","Kraner og ventiler for rør, kjeler, tanker m.v.",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281420,1970,9999,87000,"Del.kran ventil","Deler til kraner, ventiler o.l.",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281510,1970,9999,87000,Kule-.rullelagre,"Kule- eller rullelagre",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281520,1970,9999,87000,"Drivaksler, rull","Drivaksler, rullekjeder o.l.",282,280,280,280,,28,,verksted,I,V,CPA_C28
+281530,1970,9999,87000,Del.kule-.drivak,"Deler til kulelagre og drivaksler",282,280,280,280,,28,,verksted,I,V,CPA_C28
+282100,1970,9999,87000,Fyrbr.indovn.del,"Fyrbrennere, industri- og laboratorieovner, deler",282,280,280,280,,28,,verksted,I,V,CPA_C28
+282200,1970,9999,87000,"Løfte,håndteruts","Løfte og håndteringsutstyr",282,280,280,280,,28,,verksted,I,V,CPA_C28
+282300,1970,9999,87000,Kont.mask.i-data,"Kontormaskiner og utstyr unntatt damaskiner og tilleggsutstyr)",282,280,280,280,,28,,verksted,I,V,CPA_C28
+282500,1970,9999,87000,Kjø.vent.anl.ind,"Kjøle og ventilasjonsanlegg unntatt til husholdningsbruk",282,280,280,280,,28,,verksted,I,V,CPA_C28
+282900,1970,9999,87000,Mask.utst.INAS,"Maskiner og utstyr til generell bruk ikke nevnt annet sted",282,280,280,280,,28,,verksted,I,V,CPA_C28
+283000,1970,9999,87000,"Land.skog maskin","Landbruks- og skogbruksmaskiner",282,280,280,280,,28,,verksted,I,V,CPA_C28
+284000,1970,9999,87000,Mask.met.bear.mv,"Maskiner til metallbearbeiding og annet maskinverktøy",282,280,280,280,,28,,verksted,I,V,CPA_C28
+289000,1970,9999,87000,A.spesialmaskine,"Andre spesialmaskiner",282,280,280,280,,28,,verksted,I,V,CPA_C28
+291010,1970,9999,87000,Forbrenningsmot.,"Forbrenningsmotorer til motorvogner,bensin og diseldrevne",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+291020,1970,9999,87000,"Pers. bil forb.","Personbiler med forbenningsmotor",295,292,292,290,,29_30,,292,I,V,CPA_C29
+291030,1970,9999,87000,"Busser, inkl.kar","Busser, inkl. karosserier og understell med motor til busser",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+291040,1970,9999,87000,Motorkjøretøyer,"Motorkjøretøyer for godstransport og understell med motor",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+291050,1970,9999,87000,Motorkjt.spesmål,"Motorvogner for spesielle formål",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+291060,2012,9999,87000,"Pers. bil el","Personbiler med elmotor",294,292,292,290,,29_30,,292,I,V,CPA_C29
+292010,1970,9999,87000,"Containere, tilh","Containere, tilhengere og semitrailere m. tilhørende deler",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+292020,1970,9999,87000,Bobil.camp.vogn,"Bobiler og campingvogner",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+293100,1970,9999,87000,El.utst.motorkjt,"Elektrisk utstyr for motorkjøretøyer mv.",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+293200,1970,9999,87000,Del.utst.mot.vog,"Deler og utstyr til motorvogner",293,291,291,290,,29_30,,verksted,I,V,CPA_C29
+301100,1970,9999,87910,"Sivile fartøy","Sivile skip og båter",301,301,301,300,,29_30,,skiplfly,I,V,CPA_C30
+301109,1970,9999,87400,"Leiearbeid, skip","Leiearbeid, skipsbygging",301,301,301,300,,29_30,,skiplfly,,V,CPA_C30
+301110,1970,9999,87910,Marinefartøy,Marinefartøy,303,303,301,300,,29_30,,skiplfly,I,V,CPA_C30
+301150,1970,9999,87000,Flåte.flyt.matr.,"Flåter og annet flytende materiell",301,301,301,300,,29_30,,skiplfly,I,V,CPA_C30
+301160,1970,9999,87300,"Ombygg skip","Ombygging av skip og båter",301,301,301,300,,29_30,,skiplfly,U,V,CPA_C30
+301180,1970,9999,87910,"Borerigg modul","Borerigger og moduler til oljeplattformer",302,302,302,300,,29_30,,skiplfly,B,V,CPA_C30
+301190,1970,9999,87300,"Ombygg oljemodul","Ombygging av moduler til olje og gassutvinning",302,302,302,300,,29_30,,skiplfly,B,V,CPA_C30
+301200,1970,9999,87000,Fritidsbåter,Fritidsbåter,301,301,301,300,,29_30,,skiplfly,I,V,CPA_C30
+302000,1970,9999,87000,Ru.matr.jernbane,"Lokomotiver og annet rullende matriell til jernbane og sporvei",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+303010,1970,9999,87000,Flymot.turb+del,"Flymotorer, turbojetmotorer og deler",309,291,303,300,1,29_30,,verksted,I,V,CPA_C30
+303020,1970,9999,87000,"Ballong,seilfly","Ballonger, seilfly og hangglidere og lignende uten motorer",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+303030,1970,9999,87000,"Helikoptere, fly","Helikoptere, fly og romfartøy",304,304,303,300,1,29_30,,skiplfly,I,V,CPA_C30
+303050,1970,9999,87000,Del.luftfartøy,"Deler til luftfartøyer",309,291,303,300,1,29_30,,verksted,I,V,CPA_C30
+303080,1970,9999,87000,"Militære luftfar","Militære luftfartøyer, romfartøyer og lignende utstyr",303,303,303,300,,29_30,,skiplfly,,V,CPA_C30
+304000,1970,9999,87000,Stridsvogner,"Tanks og pansrede stridsvogner",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309110,1970,9999,87000,Motorsykler,"Motorsykler og sidevogner",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309120,1970,9999,87000,Del.motorsykler,"Deler til motorsykler",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309210,1970,9999,87000,Sykler.tilh.+del,"Sykler med tilhørende deler",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309220,1970,9999,87000,Invalidevogn+del,"Invalidevogner med tilhørende deler",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309240,1970,9999,87000,Barnevogner,Barnevogner,309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+309900,1970,9999,87000,A.transp.M.INAS,"Andre transportmidler ikke nevnt annet sted",309,291,303,300,,29_30,,verksted,I,V,CPA_C30
+310000,1970,9999,87000,Sittemøbler+del,"Sittemøbler og tilhørende deler, deler til møbler",311,310,310,310,,31_33,,310,I,V,CPA_C31_32
+310100,1970,9999,87000,Kontor.butikmøbl,"Kontor- og butikkmøbler",311,310,310,310,,31_33,,310,I,V,CPA_C31_32
+310200,1970,9999,87000,Kjøkkenmøbler,Kjøkkenmøbler,311,310,310,310,,31_33,,310,I,V,CPA_C31_32
+310300,1970,9999,87000,Madrasser/bunner,"Madrasser og sengebunner",311,310,310,310,,31_33,,310,I,V,CPA_C31_32
+310900,1970,9999,87000,"Møbler INAS","Møbler ellers",311,310,310,310,,31_33,,310,I,V,CPA_C31_32
+321100,1970,9999,87000,Mynter,Mynter,320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+321200,1970,9999,87000,"Gull og sølvvare","Gull og sølvvarer og lignende artikler",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+321300,1970,9999,87000,Bijouterivarer,"Bijouterivarer av uedelt metall",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+322000,1970,9999,87000,Musikkinstrument,Musikkinstrumenter,320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+323000,1970,9999,87000,Sportsartikler,Sportsartikler,320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+324000,1970,9999,87000,"Spill og leker","Spill og leker",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+325000,1970,9999,87000,"Medisinsk utstyr","Medisinsk og tannteknisk instrumenter og utstyr",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+329100,1970,9999,87000,"Koste og børste","Koster og børster",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+329900,1970,9999,87000,A.ind.prod.INAS,"Annen industriproduksjon ikke nevnt annet sted",320,310,310,310,,31_33,,310,I,V,CPA_C31_32
+331100,1970,9999,87300,Rep.bear.metprod,"Reparasjoner av bearbeide metallprodukter",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331200,1970,9999,87300,Rep.maskiner,"Reparasjoner av maskiner",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331300,1970,9999,87300,"Rep.el/opt. utst","Reparasjoner av elektrisk, elektronisk, optisk utstyr",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331510,1970,9999,87300,"Rep. Fartøy","Reparasjon av skip og fiskebåter",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331520,1970,9999,87300,Rep.oljeplatt,"Reparasjon av oljeplattformer",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331540,1970,9999,87300,Rep.vedl.fri.båt,"Reparasjon og vedlikehold av fritidsbåter",330,330,330,330,,31_33,,tjllers,,T,CPA_C33
+331600,1970,9999,87300,"Rep.ombygg fly","Reparasjon og ombygging av fly",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331700,1970,9999,87300,Rep.a.transp.mid,"Reparasjon av andre transportmidler",330,330,330,330,,31_33,,tjllers,,T,CPA_C33
+331800,1970,9999,87300,Rep.olj.rør.led.,"Reparasjon av olje- og gassrørledninger",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+331900,1970,9999,87300,Rep.utst.inas,"Reparasjon av utstyr ikke nevnt annet sted",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+332000,1970,9999,87300,Install.ind.mask,"Installasjon av industrimaskiner og utstyr",330,330,330,330,,31_33,,tjllers,U,T,CPA_C33
+351107,1970,9999,27500,Distrb/Oms.El,"Overføring og distribusjon av og handel med elektrisitet",352,352,352,350,,35,,,,T,CPA_D35
+351110,1970,9999,87300,Elektrisitet,"Elektrisk kraft utenom nettap",354,351,351,350,,35,,351,I,V,CPA_D35
+351120,1970,9999,87400,"Nettap av elektr","Nettap (verdi av den kraft som går tapt i nettet)",355,351,351,350,,35,,351,,V,CPA_D35
+351908,1970,9999,87400,Inv.arb.maskiner,"Investeringsarbeid, elektrisitet - maskiner",394,392,392,350,,05_09,,tjllers,,T,CPA_D35
+351918,1970,9999,87400,"Inv.arb. B&A","Investeringsarbeid, elektrisitet - B & A",394,392,392,350,,05_09,,tjllers,,T,CPA_D35
+352000,1970,9999,87300,"Gass gj ledning","Gass gjennom ledningsnett",353,353,353,350,,35,,,,T,CPA_D35
+353000,1970,9999,87300,Fjernvarme,"Fjernvarme (damp- og varmtvannsforsyning)",353,353,353,350,,35,,,,T,CPA_D35
+360000,1970,9999,87300,Vannfors.marked,Vannforsyning,360,361,361,360,,36_39,,tjllers,,T,CPA_E36
+360004,1970,9999,87400,Vannfors.Komkons,"Vannforsyning, kommunalt konsum",364,364,364,360,,36_39,,,,T,CPA_E36
+360005,1970,9999,87400,Vannfors.komgeby,"Vannforsyning, kommunalt gebyr",365,365,365,360,,36_39,,tjllers,,T,CPA_E36
+360041,2009,9999,87400,"Kapsl.Vann,.KK","Kapitalslit, vannforsyning, kommune",364,364,364,360,,36_39,,,,T,CPA_E36
+360046,2009,9999,87400,"FISIM Vann forsy","FISIMK, vannforsyning, kommune",364,364,364,360,,36_39,,,,T,CPA_E36
+370000,1970,9999,87300,Kloakktømming,Kloakktømming,379,361,370,370,,36_39,,tjllers,,T,CPA_E37T39
+370041,2009,9999,87400,"Kapsl.Kloakk,KK","Kapitalslit, kloakktømming, kommune",364,364,374,370,,36_39,,,,T,CPA_E37T39
+370046,2009,9999,87400,"FISIM Kloakktøm","FISIM, kloakktømming, kommune",364,364,374,370,,36_39,,,,T,CPA_E37T39
+370104,1970,9999,87400,"Kloakktømming,KK","Kloakktømming, kommunalt konsum",364,364,374,370,,36_39,,,,T,CPA_E37T39
+370105,1970,9999,87400,"Kloakktømming,KG","Kloakktømming, kommunalt gebyr",365,365,375,370,,36_39,,tjllers,,T,CPA_E37T39
+380046,2009,9999,87400,"FISIM Søppel","FISIM søppeltømming, kommune",364,364,374,370,,36_39,,,,T,CPA_E37T39
+381000,1970,9999,87300,"Innsamling avfal","Innsamling av avfall",379,361,370,370,,36_39,,tjllers,,T,CPA_E37T39
+381041,2009,9999,87400,"Kapsl.Søppel,KK","Kapitalslit, søppeltømming, kommune",364,364,374,370,,36_39,,,,T,CPA_E37T39
+381104,1970,9999,87400,"Søppeltømming,KK","Søppeltømming, kommunalt konsum",364,364,374,370,,36_39,,,,T,CPA_E37T39
+381105,1970,9999,87400,"Søppeltømming,KG","Søppeltømming, kommunalt gebyr",365,365,375,370,,36_39,,tjllers,,T,CPA_E37T39
+382000,1970,9999,87300,Beha.disp.avfall,"Behandling og disponering av avfall",379,361,370,370,,36_39,,tjllers,,T,CPA_E37T39
+383100,1970,9999,87300,Demont.matrgjenv,"Demontering,opphogging,sortering og bearbeiding av avfall for materialgjennvinning",379,361,370,370,,36_39,,tjllers,B,T,CPA_E37T39
+383200,1970,9999,87000,"Sekundære metall","Sekundære metallråmaterialer, gjenvinning",379,361,370,370,,36_39,,tjllers,I,T,CPA_E37T39
+383210,1970,9999,87000,Sek.råmate.glass,"Sekundære råmaterialer av glass, gjenvinning",379,361,370,370,,36_39,,tjllers,I,T,CPA_E37T39
+383220,1970,9999,87000,"Sek.råM. papir","Sekundære råmaterialer av papir og papp",379,361,370,370,,36_39,,tjllers,I,T,CPA_E37T39
+383230,1970,9999,87000,"Sek.råmat plas","Sekundære råmaterialer av plast",379,361,370,370,,36_39,,tjllers,I,T,CPA_E37T39
+383290,1970,9999,87000,A.sek.i-meth.mat,"Andre sekundære ikke-metallholdige råmaterialer",379,361,370,370,,36_39,,tjllers,I,T,CPA_E37T39
+390000,1970,9999,87300,"Miljørydding,mil","Miljørydding,miljørensing, og lignende",379,361,370,370,,36_39,,tjllers,B,T,CPA_E37T39
+410008,1970,9999,87400,"Hush.egen byggV.","Husholdningenes egen byggevirksomhet",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+410010,1970,9999,87300,"Oppføring bolig","Oppføring av boliger",420,420,420,410,,41_43,,tjllers,U,T,CPA_F
+410020,1970,9999,87300,"Oppføring bygg","Oppføring av andre bygninger",420,420,420,410,,41_43,,tjllers,U,T,CPA_F
+411010,1970,9999,87300,Boligbyggelag,Boligbyggelag,410,410,410,410,,41_43,,tjllers,,T,CPA_F
+411090,1970,9999,87300,"Utv/s egen eiend","Utvikling og salg av egen fast eiendom ellers",410,410,410,410,,41_43,,tjllers,,T,CPA_F
+420000,1970,9999,87300,Anleggsvirksomh.,Anleggsvirksomhet,420,420,420,410,,41_43,,tjllers,U,T,CPA_F
+431000,1970,9999,87300,Riving.grunnarb,"Riving og grunnarbeid",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+432100,1970,9999,87300,"Elektrisk instal","Elektrisk installasjonsarbeid",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+432200,1970,9999,87300,VVS-arbeid,VVS-arbeid,420,420,420,410,,41_43,,tjllers,,T,CPA_F
+432900,1970,9999,87300,"Annet installasj","Annet installasjonsarbeid",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433100,1970,9999,87300,Stukkatørarbeid,"Stukkatørarbeid og pussing",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433200,1970,9999,87300,Snekkerarbeid,Snekkerarbeid,420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433300,1970,9999,87300,"Gulvlegg tapetse","Gulvlegging og tapetsering",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433410,1970,9999,87300,Malerarbeid,Malerarbeid,420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433420,1970,9999,87300,Glassarbeid,Glassarbeid,420,420,420,410,,41_43,,tjllers,,T,CPA_F
+433900,1970,9999,87300,A.ferdigjør.bygg,"Annen ferdiggjøring av bygninger",420,420,420,410,,41_43,,tjllers,,T,CPA_F
+439100,1970,9999,87300,Takarbeid,Takarbeid,420,420,420,410,,41_43,,tjllers,,T,CPA_F
+451007,1970,9999,27500,"Avanse motorkjt","Avanse på motorkjøretøyer",455,450,450,450,,45_47,,tjllers,,T,CPA_G45
+451009,1970,9999,87400,Omreg.avg.br.bil,"Omregistreringsavgift på brukte biler",455,450,450,450,,45_47,,tjllers,,T,CPA_G45
+452010,1970,9999,87300,Rep.biler,"Reparasjon av biler",452,452,450,450,,45_47,,tjllers,,T,CPA_G45
+452030,1970,9999,87300,"Bilvask A.tjen","Bilvask og andre tjenester",452,452,450,450,,45_47,,tjllers,,T,CPA_G45
+454050,1970,9999,87300,"Rep. motorsykler","Reparasjon av motorsykler",452,452,450,450,,45_47,,tjllers,,T,CPA_G45
+460007,1970,9999,27500,Agent/Engroavans,"Agentur- og engroshandelsavanse",455,450,460,460,,45_47,,tjllers,,T,CPA_G46
+470000,1970,9999,87300,"Provisjon, kommi","Provisjoner, kommisjoner",455,450,470,470,,45_47,,tjllers,U,T,CPA_G47
+470007,1970,9999,27500,Detaljhandavanse,Detaljhandelsavanse,455,450,470,470,,45_47,,tjllers,,T,CPA_G47
+490008,1970,9999,87400,Inv.arb.kj.veg,"Investeringsarbeider, kjøreveg",394,392,392,490,,05_09,,tjllers,,T,CPA_H49
+491000,1970,9999,87300,"Jernbane person","Passasjertransport med jernbane",490,491,491,490,,49_53,,samf,U,T,CPA_H49
+491002,1970,9999,87400,"Kjøreveg NSB, SK","Kjøreveg NSB, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+491003,1970,9999,87400,"Kjøreveg NSB, SG","Kjøreveg NSB, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+491929,1970,2006,87400,Transpmarg.jernb,Transpmarg.jernb,499,450,491,450,,45_47,,tjllers,,T,CPA_G45
+491939,1970,2006,87400,Inv.arb.jernb,Inv.arb.jernb,394,392,392,490,,05_09,,tjllers,,T,CPA_H49
+492000,1970,9999,87300,"Jernbane godstr.","Godstransport med jernbane",490,491,491,490,,49_53,,samf,U,T,CPA_H49
+493110,1970,9999,87300,"Sporvei, T-bane","Sporveistransport og T-banereiser",498,491,491,490,,49_53,,samf,,T,CPA_H49
+493124,2016,9999,87400,"Kol.trans KK","Kollektivtransport, kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+493125,2016,9999,87400,"Kol.trans KG","Kollektivtransport, kommunalt gebyr",815,805,845,840,,84,,tjllers,,T,CPA_O84
+493200,1970,9999,87300,Drosjetjenester,"Drosjetjenester og bilutleie med sjåfør",497,491,491,490,,49_53,,samf,,T,CPA_H49
+493900,1970,9999,87300,Rutebiltransport,Rutebiltransport,493,491,492,490,,49_53,,samf,,T,CPA_H49
+493930,1970,9999,87300,L.trsp.pas.i-rut,"Landtransport med passasjerer, ikke rutetrafikk",493,491,492,490,,49_53,,samf,U,T,CPA_H49
+494000,1970,9999,87300,Godstransp.vei,"Godstransport på vei",494,492,492,490,,49_53,,samf,U,T,CPA_H49
+494120,1970,9999,87300,Utlei.lasteb.m/s,"Utleie av lastebil og varebil med sjåfør",494,492,492,490,,49_53,,samf,,T,CPA_H49
+494337,1970,9999,27500,"Trspmrg A.l-trsp","Transportmargin, annen landtransport",499,450,492,450,,45_47,,tjllers,,T,CPA_G45
+495010,1970,9999,87300,"Oljetransp rør","Oljetransport med rør",495,495,495,490,,49_53,,495,U,T,CPA_H49
+495020,1970,9999,87300,"Gasstransp rør","Gasstransport med rør",495,495,495,490,,49_53,,495,U,T,CPA_H49
+495037,1970,9999,27500,Transpmarg.olje,"Transportmargin, olje",496,496,495,490,,49_53,,samf,,T,CPA_H49
+495137,1970,9999,27500,Transpmarg.gass,"Transportmargin, gass",496,496,495,490,,49_53,,samf,,T,CPA_H49
+501010,1970,9999,87300,UR.sjøf.pas+bilf,"Utenriks sjøfart, passasjertransport ellers og bilferging",505,505,505,500,,49_53,,501,U,T,CPA_H50
+501210,1970,9999,87300,"UR. A.tørrlast","Utenriks frakt av annen tørrlast",505,505,505,500,,49_53,,501,U,T,CPA_H50
+501220,1970,9999,87300,UR.olje(rå+prod),"Utenriks råolje og oljeproduktfrakt",505,505,505,500,,49_53,,501,U,T,CPA_H50
+702000,1970,9999,87300,Bedriftsrådgivni,"Bedriftsrådgivning og annen administrativ rådgivning",690,690,690,690,,69_71,,fin,U,T,CPA_M69_70
+710002,1970,9999,87400,"Geologiske SK","Geologiske undersøkelser, kartproduksjon, landmåling o.l.,statlig konsum",812,812,710,710,,84,,,,T,CPA_M71
+710003,1970,9999,87400,"Geologiske SG","Geologiske undersøkelser, kartproduksjon, landmåling o.l.,statlig gebyr",813,813,710,710,,84,,tjllers,,T,CPA_M71
+711100,1970,9999,87950,Arkitektvirksomh,Arkitektvirksomhet,690,690,710,710,,69_71,,fin,I,T,CPA_M71
+711210,1970,9999,87950,Byggtekn.konsul.,"Byggeteknisk konsulentvirksomhet",690,690,710,710,,69_71,,fin,U,T,CPA_M71
+711230,1970,9999,87300,"Geologiske under","Geologiske undersøkelser",690,690,710,710,,69_71,,fin,,T,CPA_M71
+711290,1970,9999,87950,Gen.ingeniørtjen,"Generell rådgivende ingeniørtjenester mv.",690,690,710,710,,69_71,,fin,U,T,CPA_M71
+712000,1970,9999,87950,Tekn.utprøv.anal,"Teknisk utprøving og analyse",690,690,710,710,,69_71,,fin,U,T,CPA_M71
+712002,1970,9999,87400,Tekn.utprøv.SK,"Teknisk utprøving og analyse, statlig konsum",812,812,710,710,,84,,,,T,CPA_M71
+712003,1970,9999,87400,Tekn.utprøv,"Teknisk utprøving og analyse, statlig gebyr",813,813,710,710,,84,,tjllers,,T,CPA_M71
+720000,1970,9999,87400,"Forskning,utvikl","Forskning og utvikling",720,720,720,720,,72,,fin,U,T,CPA_M72
+720002,1970,9999,87400,"FoU SK","Forskning og utvikling, statlig konsum",852,852,852,850,,85,,,,T,CPA_P85
+720003,1970,9999,87400,"FoU SG","Forskning og utvikling, statlig gebyr",853,853,853,850,,85,,tjllers,,T,CPA_P85
+720010,1970,9999,87950,"rådgivning FoU","Rådgivning forskning og utvikling",720,720,720,720,,72,,fin,U,T,CPA_M72
+731000,1970,9999,87300,Annonse/reklameV,"Annonse- og reklamevirksomhet og markedsundersøkelser",735,730,730,730,,73_75,,fin,U,T,CPA_M73
+732000,1970,9999,87300,Markedsundersøk.,"Markeds- og opinionsundersøkelser",735,730,730,730,,73_75,,fin,U,T,CPA_M73
+741000,1970,9999,87300,"Spes.designer V","Spesialisert designer virksomhet",740,730,740,740,,73_75,,fin,U,T,CPA_M74_75
+742000,1970,9999,87300,Fotografvirksomh,Fotografvirksomhet,740,730,740,740,,73_75,,fin,I,T,CPA_M74_75
+743000,1970,9999,87300,Overset.tolke.tj,"Oversettelses og tolkevirksomhet",740,730,740,740,,73_75,,fin,,T,CPA_M74_75
+749000,1970,9999,87300,A.fag.vit.tekn.V,"Annen faglig, vitenskapelig og teknisk virksomhet",740,730,740,740,,73_75,,fin,U,T,CPA_M74_75
+750010,1970,9999,87400,"Veterinær kjæle","Veterinærtjenester for kjæledyr",750,730,740,740,,73_75,,fin,,T,CPA_M74_75
+750090,1970,9999,87300,"Veterinær INAS","Veterinærtjenester ellers",750,730,740,740,,73_75,,fin,,T,CPA_M74_75
+771100,1970,9999,87300,"Utleie personbil","Utleie av personbiler",772,770,770,770,,77_82,,fin,,T,CPA_N77
+771200,1970,9999,87300,"Utleie lastebil","Utleie av varebiler, lastebiler og busser",772,770,770,770,,77_82,,fin,,T,CPA_N77
+772000,1970,9999,87300,"Utleie hush.utst","Utleie av husholdningsutstyr m.m.",772,770,770,770,,77_82,,fin,,T,CPA_N77
+773100,1970,9999,87300,"Utleie land.mask","Utleie av landbruksmaskiner og utstyr",772,770,770,770,,77_82,,fin,,T,CPA_N77
+773200,1970,9999,87300,"Utleie B&A mask","Utleie av bygg- og anleggsmaskiner",772,770,770,770,,77_82,,fin,,T,CPA_N77
+773300,1970,9999,87300,"Utleie datamask","Utleie av datamaskiner og annet kontormateriell",772,770,770,770,,77_82,,fin,U,T,CPA_N77
+773400,1970,9999,87300,"Utleie av fartøy","Utleie av skip og båter",772,770,770,770,,77_82,,fin,U,T,CPA_N77
+773500,1970,9999,87300,"Utleie av fly","Utleie av fly",772,770,770,770,,77_82,,fin,,T,CPA_N77
+773910,1970,9999,87300,"Utleie mask.INAS","Utleie av maskiner og utstyr ellers",772,770,770,770,,77_82,,fin,U,T,CPA_N77
+773920,1970,9999,87300,"Utleie borerigg","Utleie av borerigger",090,090,770,770,,05_09,,oljdiv,U,T,CPA_N77
+774000,1970,9999,87300,"Leie lisenser mv","Leie av lisenser, patenter, royalities mv.",772,770,770,770,,77_82,,fin,U,T,CPA_N77
+780000,1970,9999,87300,Arbeidskrafttjen,Arbeidskrafttjenester,772,770,780,780,,77_82,,fin,U,T,CPA_N78
+780002,1970,2006,87400,"Vikartj. SK","Vikartjenester, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+780003,1970,2006,87400,"Vikartj. SG","Vikartjenester, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+791100,1970,9999,87300,Reisebyråtj.,Reisebyråtjenester,790,770,790,790,,77_82,,fin,,T,CPA_N79
+791200,1970,9999,87300,Turoperatørtj.,Turoperatørtjenester,790,770,790,790,,77_82,,fin,,T,CPA_N79
+799000,1970,9999,87300,Turistrel.tjen.,"Turistkontor og turistrelaterte tjenester INAS",790,770,790,790,,77_82,,fin,,T,CPA_N79
+801000,1970,9999,87300,"Private vakttj.","Private vakttjenester",772,770,800,800,,77_82,,fin,U,T,CPA_N80T82
+802300,1970,9999,87300,Tj.tilkn.Vakttj,"Tjenester tilknyttet vakttjenester",772,770,800,800,,77_82,,fin,,T,CPA_N80T82
+811000,1970,9999,87300,Komb.tj.eie.drif,"Kombinerte tjenester tilknyttet eiendomsdrift herunder vaktmestertjenester",772,770,800,800,,77_82,,fin,,T,CPA_N80T82
+812000,1970,9999,87300,Rengjøringstj.,Rengjøringstjenester,772,770,800,800,,77_82,,fin,,T,CPA_N80T82
+821000,1970,9999,87300,"Kontortj. mv.","Kontortjenester mv., kongress mv. virksomhet",772,770,800,800,,77_82,,fin,U,T,CPA_N80T82
+829100,1970,9999,87300,Inkaso/kredoplys,"Inkasso og kredittopplysningsvirksomhet",772,770,800,800,,77_82,,fin,U,T,CPA_N80T82
+829200,1970,9999,87300,Pakkeverksomhet,Pakkeverksomhet,772,770,800,800,,77_82,,fin,,T,CPA_N80T82
+829900,1970,9999,87300,A.forretn.INAS,"Annen  forretningsmessig tjenesteyting ikke nevnt annet sted",772,770,800,800,,77_82,,fin,U,T,CPA_N80T82
+841002,1970,9999,87400,"Admin SK","Administrasjon og forvaltning, sentrale myndigheter, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+841003,1970,9999,87400,Adm.Stat.geb.SG,"Administrasjon og forvaltning, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+841004,1970,9999,87400,Adm.kommunalt.KK,"Administrasjon og forvaltning, kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+841005,1970,9999,87400,Adm.kommunalt.KG,"Administrasjon og forvaltning, kommunalt gebyr",815,805,845,840,,84,,tjllers,,T,CPA_O84
+841021,1970,9999,87400,"Kaptalslit, offe","Kaptalslit, offentlig administrasjon, stat",812,812,842,840,,84,,,,T,CPA_O84
+841026,1970,9999,87400,"FISIM adm. SK","FISIM tilknyttet administasjon, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+841041,1970,9999,87400,"Kaptalslit, offe","Kaptalslit, offentlig administrasjon, kommune",814,804,844,840,,84,,,,T,CPA_O84
+841046,1970,9999,87400,"FISIM tilknyttet","FISIM tilknyttet administrasjon, kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+842021,1970,9999,87400,"Kapsl. forvar","Kapitalslit, forsvar",822,822,822,840,,84,,,,T,CPA_O84
+842026,1970,9999,87400,"FISIM forsvar SK","FISIM tilknyttet forsvar, statlig konsum",822,822,822,840,,84,,,,T,CPA_O84
+842102,1970,9999,87400,"Utenrikssaker SK","Offentlig administrasjon knyttet til utenrikssaker, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+842103,1970,9999,87400,"Utenriksaker SG","Administrasjon knyttet til utenrikssaker, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+842202,1970,9999,87400,"Forsvar SK","Forsvar, statlig konsum",822,822,822,840,,84,,,,T,CPA_O84
+842203,1970,9999,87400,"Forsvar SG","Forsvar, statlig gebyr",823,823,823,840,,84,,tjllers,U,T,CPA_O84
+842302,1970,9999,87400,"Rett& fengsel SK","Retts- og fengselsvesen, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+842303,1970,9999,87400,Rett&fengselSG,"Retts- og fengselsvesen, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+842402,1970,9999,87400,"Politivesen, SK","Politivesen, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+842403,1970,9999,87400,"Politivesen,  SG","Politivesen, statlig gebyr",813,813,843,840,,84,,tjllers,,T,CPA_O84
+842504,1970,9999,87400,"Brannvesen, KK","Brannvesen, kommunalt konsum",814,804,844,840,,84,,,,T,CPA_O84
+842505,1970,9999,87400,"Brannvesen, KG","Brannvesen, kommunalt gebyr",815,805,845,840,,84,,tjllers,,T,CPA_O84
+844021,1970,9999,87400,Kapsl.A.of.tj.SK,"Kapitalslit,Annen offentlig tjenesteyting, statlig konsum",812,812,842,840,,84,,,,T,CPA_O84
+844026,1970,9999,87400,"FISIM A.off.tj.y","FISIM. Annen offentlig tjenesteyting",812,812,842,840,,84,,,,T,CPA_O84
+850021,1970,9999,87400,"Kapsl.utd. stat","Kapitalslit, undervisning, stat",852,852,852,850,,85,,,,T,CPA_P85
+850026,1970,9999,87400,"FISIM stat.utd.","FISIM tilknyttet undervisning, statlig konsum",852,852,852,850,,85,,,,T,CPA_P85
+850041,1970,9999,87400,Kapsl.kom.utd,"Kapitalslit, undervisning, kommune",854,854,854,850,,85,,,,T,CPA_P85
+850046,1970,9999,87400,"FISIM kom.utd","FISIM tilknyttet undervisning, komunalt konsum",854,854,854,850,,85,,,,T,CPA_P85
+851000,1970,9999,87400,Underv.gr.skole,"Undervisningstjenester, grunnskoler",851,851,851,850,,32,,tjllers,,T,CPA_P85
+852002,1970,9999,87400,Underv.gr.sk.SK,"Undervisningstjenester, grunnskoler, statlig konsum",852,852,852,850,,85,,,,T,CPA_P85
+852003,1970,9999,87400,Underv.gr.sk.SG,"Undervisningstjenester, grunnskoler, statlig gebyr",853,853,853,850,,85,,tjllers,,T,CPA_P85
+852004,1970,9999,87400,Underv.gr.sk.KK,"Undervisningstjenester, grunnskoler, kommunalt konsum",854,854,854,850,,85,,,,T,CPA_P85
+852005,1970,9999,87400,Underv.gr.sk.SG,"Undervisningstjenester, grunnskoler, kommunalt gebyr",855,855,855,850,,85,,tjllers,,T,CPA_P85
+853000,1970,9999,87400,Underv.Vid.skole,"Undervisningstjenester, videregående skoler",851,851,851,850,,32,,tjllers,,T,CPA_P85
+853002,1970,9999,87400,Underv.Vid.sk.SK,"Undervisningstjenester, videregående skoler, statlig konsum",852,852,852,850,,85,,,,T,CPA_P85
+853003,1970,9999,87400,Underv.Vid.sk.SG,"Undervisningstjenester, videregående skoler, statlig gebyr",853,853,853,850,,85,,tjllers,,T,CPA_P85
+853004,1970,9999,87400,Underv.vid.sk.KK,"Undervisningstjenester, videregående skoler, kommunalt konsum",854,854,854,850,,85,,,,T,CPA_P85
+853005,1970,9999,87400,Underv.vid.sk.KG,"Undervisningstjenester, videregående skoler, kommunalt gebyr",855,855,855,850,,85,,tjllers,,T,CPA_P85
+854100,2015,9999,87400,Und.tje.fagskole,"Undervisningstjenester, fagskoler",851,851,851,850,,32,,tjllers,,T,CPA_P85
+854104,1970,9999,87400,Underv.fag.sk.KK,"Undervisningstjenester, fagskoler, kommunalt konsum",854,854,854,850,,85,,,,T,CPA_P85
+854105,1970,9999,87400,Underv.fag.sk.kG,"Undervisningstjenester, fagskoler, kommunalt gebyr",855,855,855,850,,85,,tjllers,,T,CPA_P85
+854200,1970,9999,87300,Underv.høy.utd.,"Undervisningstjenester, høyere utdanning",851,851,851,850,,32,,tjllers,,T,CPA_P85
+854202,1970,9999,87400,Underv.hø.utd.SK,"Undervisningstjenester, høyere utdanning, statlig konsum",852,852,852,850,,85,,,,T,CPA_P85
+854203,1970,9999,87400,Underv.hø.utd.SG,"Undervisningstjenester, høyere utdanning, statlig gebyr",853,853,853,850,,85,,tjllers,,T,CPA_P85
+855300,1970,9999,87300,Underv.kjøreskol,"Undervisningstjenester, kjøreskoler",851,851,851,850,,32,,tjllers,,T,CPA_P85
+855900,1970,9999,87300,Underv.a.underv.,"Undervisningstjenester, annen undervisning",851,851,851,850,,32,,tjllers,,T,CPA_P85
+855904,1970,9999,87400,Underv.a.utd.KK,"Undervisningstjenester, voksenopplæring mv., kommunalt konsum",854,854,854,850,,85,,,,T,CPA_P85
+855905,1970,9999,87400,Underv.a.utd.KG,"Undervisningstjenester, voksenopplæring mv., kommunalt gebyr",855,855,855,850,,85,,tjllers,,T,CPA_P85
+860046,1970,9999,87400,"FISIM helse KK","FISIM tilknyttet helsetjenester, kommunalt konsum",864,864,854,850,,86,,,,T,CPA_P85
+861002,1970,9999,87400,Syk.h.tj.soma.SK,"Sykehustjeneste, somatiske, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861003,1970,9999,87400,Syk.h.tj.soma.SG,"Sykehustjeneste, somatiske, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+861004,1970,9999,87400,Syk.h.tj.soma.KK,"Medfinansiering, somatiske tjenester, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+861005,1970,9999,87400,Syk.h.tj.soma.KG,"Medfinansiering, somatiske tjenester, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+861010,1970,9999,87400,Sykehustj.somat.,"Sykehustjenester, somatiske",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+861021,1970,9999,87400,Kapsl.stat.helse,"Kapitalslit, statlige helsetjenester",862,862,862,860,,86,,,,T,CPA_Q86
+861026,1970,9999,87400,"FISIM helse SK","FISIM tilknyttet helsetjenester, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861040,1970,9999,87400,Sykehustj.psykia,"Sykehustjenester, psykiatriske",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+861041,1970,9999,87400,Kapsl.kom.helse,"Kapitalslit, kommunal helsetjenester",864,864,864,860,,86,,,,T,CPA_Q86
+861042,1970,9999,87400,Syk.h.tj.psyk.SK,"Sykehustjeneste, psykiatriske, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861043,1970,9999,87400,Syk.h.tj.psyk.SG,"Sykehustjeneste, psykiatriske, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+861060,2015,9999,87400,"syk.tj rusbehand","Sykehustjenester, behandling av rusmiddelbrukere (dekker SN86.106 og SN 87.202)",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+861062,1970,9999,87400,Syk.h.tj.rus.SK,"Sykehustjeneste, behandling av rusmiddelbrukere, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861063,1970,9999,87400,Syk.h.tj.rus.SG,"Sykehustjeneste, behandling av rusmiddelbrukere, stalig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+861064,2015,9999,87400,Syk.h.tj.rus.KK,"Sykehustjenester. behandling av rusmiddelbrukere, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+861065,2015,9999,87400,Syk.h.tj.rus.KG,"Sykehustjenester. behandling av rusmiddelbrukere, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+861070,1970,9999,87400,Somat.tj.rehab,"Somatiske tjenester, rehabilitering",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+861072,1970,9999,87400,Somat.reha.tj.SK,"Somatiske tjenester, rehabilitering, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861073,1970,9999,87400,Somat.reha.tj.SG,"Somatiske tjenester, rehabilitering, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+861092,1970,9999,87400,Sykehustjenester,"Sykehustjenester, utadrettet og særskilte funksjoner, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+861093,1970,9999,87400,Sykehustjenester,"Sykehustjenester, utadrettet og særskilte funksjoner, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+862110,1970,9999,87400,Legetj.allmenn,"Legetjenester, allmennleger",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+862114,1970,9999,87400,"Legetjenester,KK","Legetjenester, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+862115,1970,9999,87400,"Legetjenester,KG","Legetjenester, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+862210,1970,9999,87400,Legetj.spesialis,"Legetjenester, spesialister",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+862220,1970,9999,87400,Legetj.psykiat+,"Legetjenester, psykiatere og kliniske psykologer",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+862300,1970,9999,87400,Tannlegetjeneste,Tannlegetjenester,861,861,861,860,,86,,tjllers,,T,CPA_Q86
+862314,1970,9999,87400,"Tannlegetj. KK","Tannlegetjenester, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+862315,1970,9999,87400,"Tannlegetj. KG","Tannlegetjenester, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+869014,1970,9999,87400,"Oms.i hjemmet KK","Omsorg og hjelp i hjemmet, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+869015,1970,9999,87400,"Oms.i hjemmet KG","Omsorg og hjelp i hjemmet, kommunalt gebyr",8715,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+869020,1970,9999,87400,Fysioterapeut.mv,"Fysioterapeuter, kiropraktorer",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+869040,1970,9999,87400,"Helsetj.foreb,","Helsetjenester forebyggende arbeid",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+869044,1970,9999,87400,Helsetj.foreb.KK,"Helsetjenester, forebygging - skole og helsestasjonstjeneste, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+869045,1970,9999,87400,Helsetj.foreb.KG,"Helsetjenester, forebygging - skole og helsestasjonstjeneste, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+869060,2015,9999,87400,Med.lab.røntgen,"Medisinske labratorietjenester, røntgen (SN86.906)",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+869062,1970,9999,87400,Somat.lab+.tj.SK,"Somatiske tjenester, røntgen, laboratorium, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+869063,1970,9999,87400,Somat.lab+.tj.SG,"Somatiske tjenester, røntgen, laboratorium, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+869070,1970,9999,87400,Ambulansetjenest,Ambulansetjenester,861,861,861,860,,86,,tjllers,,T,CPA_Q86
+869072,1970,9999,87400,Syk.h.tj.ambu.SK,"Sykehustjeneste, ambulanse, statlig konsum",862,862,862,860,,86,,,,T,CPA_Q86
+869073,1970,9999,87400,Syk.h.tj.ambu.SG,"Sykehustjeneste, ambulanse, statlig gebyr",863,863,863,860,,86,,tjllers,,T,CPA_Q86
+869074,2001,2001,87400,Syk.h.tj.ambu.kk,"Sykehustjeneste, ambulanse, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+869075,2001,2001,87400,Syk.h.tj.ambu.KG,"Sykehustjeneste, ambulanse, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+869090,1970,9999,87400,"Helsetj. INAS","Helsetjenester ellers",861,861,861,860,,86,,tjllers,,T,CPA_Q86
+869094,1970,9999,87400,"Helsetj.div   KK","Helsetjenester, diagnose, behandling, rehabilitering, kommunalt konsum",864,864,864,860,,86,,,,T,CPA_Q86
+869095,1970,9999,87400,"Helsetj.div.  KG","Helsetjenester, diagnose, behandling, rehabilitering, kommunalt gebyr",865,865,865,860,,86,,tjllers,,T,CPA_Q86
+870021,1970,9999,87400,"Kapsl.omsorg. SK","Kapitalslit, omsorgstjenester, stat",8712,872,872,870,,87_88,,,,T,CPA_Q87_88
+870026,1970,9999,87400,"FISIM omsorg SK","FISIM tilknyttet omsorg, statlig konsum",8712,872,872,870,,87_88,,,,T,CPA_Q87_88
+870041,1970,9999,87400,Kapsl.omsorg.KK,"Kapitalslit, omsorgstjenester, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+870046,1970,9999,87400,"FISIM omsorg KK","FISIM tilknyttet omsorg, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+871000,1970,9999,87400,"Omsorg i inst","Omsorg i institusjon",8710,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+871002,1970,9999,87400,"Oms.i inst SK","Omsorg i institusjon, statlig konsum",8712,872,872,870,,87_88,,,,T,CPA_Q87_88
+871003,1970,9999,87400,"Oms. i inst SG","Omsorg i institusjon, statlig gebyr",8713,873,873,870,,87_88,,tjllers,,T,CPA_Q87_88
+871024,1970,9999,87400,"Oms.i inst KK","Omsorg i institusjon, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+871025,1970,9999,87400,"Oms.i inst KG","Omsorgi institusjon, kommunalt gebyr",8715,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+873020,1970,9999,87400,"Omsorg eldr+fu","Omsorg for eldre og funksjonshemmede",8710,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+881024,1970,9999,87400,"Omsorg eldr+KK","Omsorg for eldre og funksjonshemmede, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+881025,1970,9999,87400,"Omsorg eld+fu KG","Omsorg for eldre og funksjonshemmede, kommunalt gebyr",8715,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+882041,1970,9999,87400,Kapsl.barn.KK,"Kapitalslit, SFO og barnehager, kommunalt konsum",8894,874,874,870,,87_88,,,,T,CPA_Q87_88
+882046,1970,9999,87400,"FISIM bhg.KK","FISIM tilknyttet barnehager og SFO, kommunalt konsum",8894,874,874,870,,87_88,,,,T,CPA_Q87_88
+889109,1970,9999,87400,Pr.bhg.of.Prodkj,"Priv. barnehagetjenester, off. produktkjøp",8890,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889110,1970,9999,87400,Priv.bhg.husKons,"Priv. barnehagetjenester, hush. konsum",8890,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889112,1970,9999,87400,"Barnehage  SK","Barnehage statlig konsum",8892,872,872,870,,87_88,,,,T,CPA_Q87_88
+889113,1970,9999,87400,"Barnehage  SG","Barnehage statlig gebyr",8893,873,873,870,,87_88,,tjllers,,T,CPA_Q87_88
+889114,1970,9999,87400,"Barnehagetj. KK","Barnehagetjenester, kommunalt konsum",8894,874,874,870,,87_88,,,,T,CPA_Q87_88
+889115,1970,9999,87400,"Barnehagetj. KG","Barnehagetjenester, kommunalt gebyr",8895,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+889120,1970,9999,87400,Dagmamma,Dagmamma,8890,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889134,1970,9999,87400,"SFO mv. KK","Skolefritidsordning (SFO) og andre tilbud for barn, kommunalt konsum",8894,874,874,870,,87_88,,,,T,CPA_Q87_88
+889135,1970,9999,87400,"SFO mv. KG","Skolefritidsordning (SFO) og andre tilbud for barn, kommunalt gebyr",8895,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+889910,2015,9999,87400,Barnevernstjenes,Barnevernstjenester,8710,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889912,1970,9999,87400,"Barnevernstj. SK","Barnevernstjenester, statlig konsum",8712,872,872,870,,87_88,,,,T,CPA_Q87_88
+889913,1970,9999,87400,"Barnevernstj. SG","Barnevernstjenester, statlig gebyr",8713,873,873,870,,87_88,,tjllers,,T,CPA_Q87_88
+889914,1970,9999,87400,"Barnevernstj. KK","Barnevernstjenester, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+889915,1970,9999,87400,"Barnevernstj. KG","Barnevernstjenester, kommunalt gebyr",8715,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+889950,1970,9999,87400,Tj.nødhjelps.org,"Tjenester fra katastrofe- og hjelpeorganisasjoner",8710,871,871,870,,87_88,,tjllers,U,T,CPA_Q87_88
+889960,2013,9999,87400,Asylmottak,"Drift av asyl- og flykningmottak",8710,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889990,2015,9999,87400,"Andre sos. tjen","Andre sosialtjenester (SN88.998 og 88.999)",8710,871,871,870,,87_88,,tjllers,,T,CPA_Q87_88
+889994,2015,9999,87400,And.sos.tj.KK,"Andre sosialtjenester, kommunalt konsum",8714,874,874,870,,87_88,,,,T,CPA_Q87_88
+889995,2015,9999,87400,And.sos.tj.KG,"Andre sosialtjenester, kommunalt gebyr",8715,875,875,870,,87_88,,tjllers,,T,CPA_Q87_88
+900100,1970,9999,87400,Kunst&U.virk,"Utøvende kunstnere og underholdningsvirksomhet",901,901,901,900,,90_93,,tjllers,U,T,CPA_R90T92
+900102,1970,9999,87400,"Kunst&U.virk. SK","Utøvende kunstnere og underholdningsvirksomhet, statlig konsum",902,902,902,900,,90_93,,,,T,CPA_R90T92
+900103,1970,9999,87400,"Kunst&U.virk. SG","Utøvende kunstnere og underholdningsvirksomhet, statlig gebyr",903,903,903,900,,90_93,,tjllers,,T,CPA_R90T92
+900104,1970,9999,87400,"Kunst&U.virk. KK","Utøvende kunstnere og underholdningsvirksomhet, kommunalt konsum",904,904,904,900,,90_93,,,,T,CPA_R90T92
+900105,1970,9999,87400,"Kunst&U.virk. KG","Utøvende kunstnere og underholdningsvirksomhet, kommunalt gebyr",905,905,905,900,,90_93,,tjllers,,T,CPA_R90T92
+900200,1970,9999,87400,Tj.Underh.virk,"Tjenester tilknyttet underholdningsvirksomhet",901,901,901,900,,90_93,,tjllers,U,T,CPA_R90T92
+900310,1970,9999,87950,Selvst.kunst.vir,"Selvstendig kunsterisk virksomhet",901,901,901,900,,90_93,,tjllers,,T,CPA_R90T92
+900390,1970,9999,87950,"Orginl kunstverk","Orginale kunstverk",901,901,901,900,,90_93,,tjllers,I,T,CPA_R90T92
+910000,1970,9999,87400,"Drift bibl/kultu","Drift av biblioteker, museer o.a. kulturvirksomhet",901,901,901,900,,90_93,,tjllers,B,T,CPA_R90T92
+910021,1970,9999,87400,Kapsl.bib.mus.St,"Kapitalslit, bibliotek, museer med mer, stat",902,902,902,900,,90_93,,,,T,CPA_R90T92
+910026,1970,9999,87400,"FISIM bib+.stat","FISIM tilknyttet bibliotek, museer med mer, stat",902,902,902,900,,90_93,,,,T,CPA_R90T92
+910041,1970,9999,87400,Kapsl.bib.mus.Ko,"Kapitalslit, bibliotek, museer med mer, kommunalt",904,904,904,900,,90_93,,,,T,CPA_R90T92
+910046,1970,9999,87400,"FISIM bib+.kom","FISIM tilknyttet bibliotek, museer med mer, kommunalt",904,904,904,900,,90_93,,,,T,CPA_R90T92
+910102,1970,9999,87400,"Bibl/ark.tj. SK","Bibliotek- og arkivtjenester, statlig konsum",902,902,902,900,,90_93,,,,T,CPA_R90T92
+910103,1970,9999,87400,"Bibl/ark.tj. SG","Bibliotek- og arkivtjenester, statlig gebyr",903,903,903,900,,90_93,,tjllers,,T,CPA_R90T92
+910104,1970,9999,87400,"Bibl/.ark.tj. KK","Bibliotek- og arkivtjenester, kommunalt konsum",904,904,904,900,,90_93,,,,T,CPA_R90T92
+910105,1970,9999,87400,"Bibl/.ark.tj. KG","Bibliotek- og arkivtjenester, kommunalt gebyr",905,905,905,900,,90_93,,tjllers,,T,CPA_R90T92
+910202,1970,9999,87400,"Museumstj. SK","Museumstjenester, statlig konsum",902,902,902,900,,90_93,,,,T,CPA_R90T92
+910203,1970,9999,87400,"Museumstj. SG","Museumstjenester, statlig gebyr",903,903,903,900,,90_93,,tjllers,,T,CPA_R90T92
+910204,1970,9999,87400,"Museumstj. KK","Museumstjenester, kommunalt konsum",904,904,904,900,,90_93,,,,T,CPA_R90T92
+910205,1970,9999,87400,"Museumstj. KG","Museumstjenester, kommunalt gebyr",905,905,905,900,,90_93,,tjllers,,T,CPA_R90T92
+910402,1970,9999,87400,"Botaniske,zoo SK","Botaniske og zoologiske hager, naturreservater og fredning av dyreliv, statlig konsum",902,902,902,900,,90_93,,,,T,CPA_R90T92
+910403,1970,9999,87400,"Botaniske,zoo SG","Botaniske og zoologiske hager, naturreservater og fredning av dyreliv, statlig gebyr",903,903,903,900,,90_93,,tjllers,,T,CPA_R90T92
+920000,1970,9999,87400,"Lotteri og spill","Lotteri og totalisatorspill",901,901,901,900,,90_93,,tjllers,,T,CPA_R90T92
+931004,1970,9999,87400,"Sport      KK","Sport og idrett, kommunalt konsum",934,804,804,840,,84,,,,T,CPA_O84
+931005,1970,9999,87400,"Sport      KG","Sport og idrett, kommunalt gebyr",935,805,805,840,,84,,tjllers,,T,CPA_O84
+931008,1970,9999,87400,Sport.egn.invarb,"Sport og idrett, egne investeringsarbeider",394,392,392,930,,05_09,,tjllers,,T,CPA_R93
+931100,1970,9999,87300,"Drift idrett&anl","Drift av idrettsanlegg",931,931,931,930,,90_93,,tjllers,U,T,CPA_R93
+931200,1970,9999,87300,"Idrettslag,klubb","Idrettslag og klubber",931,931,931,930,,90_93,,tjllers,,T,CPA_R93
+931300,1970,9999,87300,Treningssentre,Treningssentre,931,931,931,930,,90_93,,tjllers,,T,CPA_R93
+931900,1970,9999,87300,A.sportsaktivit,"Andre sportsaktiviteter",931,931,931,930,,90_93,,tjllers,U,T,CPA_R93
+932100,1970,9999,87300,"Drft fornøye.etb","Drift av fornøyelsesetablissementer",931,931,931,930,,90_93,,tjllers,,T,CPA_R93
+932900,1970,9999,87300,A.fritidsaktivit,"Andre fritidsaktiviteter",931,931,931,930,,90_93,,tjllers,U,T,CPA_R93
+941000,1970,9999,87300,Tj.nærin.liv.org,"Tjenester fra næringslivs-, arbeidsgiverorganisasjoner og yrkessammenslutninger",940,940,940,940,,94_96,,tjllers,,T,CPA_S94
+942000,1970,9999,87300,"Tj. arbeidstaker","Tjenester fra arbeidstakerorganisasjoner",940,940,940,940,,94_96,,tjllers,,T,CPA_S94
+949910,1970,9999,87400,Tj.frivillig.org,"Tjenester fra religiøse, partipolitiske og andre organisasjoner",940,940,940,940,,94_96,,tjllers,,T,CPA_S94
+949920,1970,9999,87300,"Fond/legater alm","Fond/legater som støtter allmennyttige formål",940,940,940,940,,94_96,,tjllers,,T,CPA_S94
+951000,1970,9999,87300,Rep.data+persbr.,"Reparasjon av datamaskiner og kommunikasjonsutstyr til personlig bruk",950,950,950,950,,94_96,,tjllers,U,T,CPA_S95
+952000,1970,9999,87300,Rep.var.persbruk,"Reparasjon av varer til personlig bruk",950,950,950,950,,94_96,,tjllers,,T,CPA_S95
+960100,1970,9999,87300,"Vask/renseri tj.","Vaskeri- og renseritjenester",960,960,960,960,,94_96,,tjllers,,T,CPA_S96
+960200,1970,9999,87400,"Frisør,skjønnhet","Frisør og skjønnhetspleie",960,960,960,960,,94_96,,tjllers,I,T,CPA_S96
+960300,1970,9999,87400,Begrav.byråtj.mv,"Begravelsesbyråer og kirkegårder, tjenester og drift",960,960,960,960,,94_96,,tjllers,,T,CPA_S96
+960400,1970,9999,87400,Kropp.fysisk.vel,"Virksomhet knyttet til kroppspleie og fysisk velvære",960,960,960,960,,94_96,,tjllers,,T,CPA_S96
+960900,1970,9999,87300,"Personl. tj INAS","Personlig tjenesteyting ellers (Før 930500)",960,960,960,960,,94_96,,tjllers,U,T,CPA_S96
+960990,1970,9999,87400,Prostitusjon,Prostitusjon,960,960,960,960,,94_96,,tjllers,U,T,CPA_S96
+970000,1970,9999,87400,"Lønnet husarbeid","Lønnet husarbeid",970,970,970,970,,97_98,,tjllers,,T,CPA_T

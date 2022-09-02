@@ -1,0 +1,649 @@
+NAERING,GYLDIG_FOM,GYLDIG_TOM,NAERING_KORT,NAERING_LANG,TYPE,GRLNAERING,KNRNAERING,A64N_NAERING,A64_NAERING,A64NP,PUBAGG,A38NP,A21NP,A64EU_NAERING,A88
+23690,1970,9999,"Tj.jus,regnskap","Juridisk og regnskapsmessig tjenesteyting",B,23695,2370,2370,2369,2X69_70,2X69_75,2X69_71,2X69_75,M69_70,2X69
+23700,1970,9999,Hvdkont.adm.råd,"Hovedkontortjenester, administrativ rådgivning",B,23695,2370,2370,2369,2X69_70,2X69_75,2X69_71,2X69_75,M69_70,2X70
+23710,1970,9999,Arkitekt.tek.kon,"Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse",B,23695,2370,2371,2371,2X71,2X69_75,2X69_71,2X69_75,M71,2X71
+23720,1970,9999,"FoU arb","Forskning og utviklingsarbeid",B,23720,2372,2372,2372,2X72,2X69_75,2X72,2X69_75,M72,2X72
+23730,1970,9999,Reklame.mark.un,"Annonse- og reklamevirksomhet og markedsundersøkelser",B,23730,2373,2373,2373,2X73,2X69_75,2X73_75,2X69_75,M73,2X73
+23740,1970,9999,Fag.vit.teknINAS,"Annen faglig, vitenskapelig og teknisk virksomhet",B,23740,2373,2374,2374,2X74_75,2X69_75,2X73_75,2X69_75,M74_75,2X74
+23750,1970,9999,Veterinærtj.,Veterinærtjenester,B,23750,2373,2374,2374,2X74_75,2X69_75,2X73_75,2X69_75,M74_75,2X75
+23770,1970,9999,"Utleie,leasing","Utleie- og leasingvirksomhet",B,23779,2377,2377,2377,2X77,2X77_82,2X77_82,2X77_82,N77,2X77
+23780,1970,9999,Arbeidskrafttjen,Arbeidskrafttjenester,B,23779,2377,2378,2378,2X78,2X77_82,2X77_82,2X77_82,N78,2X78
+23791,1970,9999,Reisebyråer,"Reisebyråvirksomhet, turistkontor samt tilknyttede tjenester",B,23790,2377,2379,2379,2X79,2X77_82,2X77_82,2X77_82,N79,2X79
+23792,1970,9999,Reise/akt.arrang,"Reisearrangørvirksomhet og andre aktivitetsarrangører",B,23790,2377,2379,2379,2X79,2X77_82,2X77_82,2X77_82,N79,2X79
+23800,1970,9999,Vakttj.etterfors,"Vakttjeneste og etterforsking",B,23779,2377,2380,2380,2X80_82,2X77_82,2X77_82,2X77_82,N80T82,2X80
+23810,1970,9999,"Tj. Eiend.drift","Tjenester tilknyttet eiendomsdrift",B,23779,2377,2380,2380,2X80_82,2X77_82,2X77_82,2X77_82,N80T82,2X81
+23820,1970,9999,"Forret.tj. INAS","Annen forretningsmessig tjenesteyting",B,23779,2377,2380,2380,2X80_82,2X77_82,2X77_82,2X77_82,N80T82,2X82
+23850,1970,9999,Undervisning,Undervisning,B,23850,2385,2385,2385,2X85,2X85,2X85,2X85,P85,2X85
+23860,1970,9999,Helsetjenester,Helsetjenester,B,23860,2386,2386,2386,2X86,2X86_88,2X86,2X86_88,Q86,2X86
+23870,2011,9999,Omsorgstjenester,Omsorgstjenester,B,23870,2387,2387,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X87
+23882,1970,9999,"Barnehager, SFO","Barnehager og SFO",B,23882,2387,2387,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X88
+23889,1970,9999,Vekstbedrifter,Vekstbedrifter,B,23889,2387,2387,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X88
+23900,1970,9999,Kunst.Vir&underh,"Kunstnerisk virksomhet og underholdningsvirksomhet",B,23905,2390,2390,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X90
+23910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",B,23905,2390,2390,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X91
+23920,1970,9999,"Lotteri og spill","Lotteri og totalisatorspill",B,23905,2390,2390,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X92
+23930,1970,9999,Sport-fritidsakt,"Sports- og fritidsaktiviteter",B,23930,2390,2393,2393,2X93,2X90_97,2X90_93,2X90_93,R93,2X93
+23940,1970,9999,Akt.medl.org,"Aktiviteter i medlemsorganisasjoner + internasjonale organisasjoner",B,23940,2394,2394,2394,2X94,2X90_97,2X94_96,2X94_96,S94,2X94
+23950,1970,9999,"Rep.vare pers.br","Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk",B,23950,2394,2395,2395,2X95,2X90_97,2X94_96,2X94_96,S95,2X95
+23960,1970,9999,A.pers.tj.yt,"Annen personlig tjenesteyting",B,23960,2394,2396,2396,2X96,2X90_97,2X94_96,2X94_96,S96,2X96
+24841,1970,9999,"Offentlig adm.","Offentlig administrasjon og forvaltning, og trygdeordninger underlagt offentlig forvaltning",B,24841,2484,2484,2384,2X84,2X84,2X84,2X84,O84,2X84
+24842,1970,9999,Forsvaret,Forsvaret,B,24842,2482,2482,2384,2X84,2X84,2X84,2X84,O84,2X84
+24844,1970,9999,A.off.tj.yting,"Annen offentlig tjenesteyting",B,24844,2484,2484,2384,2X84,2X84,2X84,2X84,O84,2X84
+24850,1970,9999,Undervisning,Undervisning,B,24850,2485,2485,2385,2X85,2X85,2X85,2X85,P85,2X85
+24860,1970,9999,Helsetjenester,Helsetjenester,B,24860,2486,2486,2386,2X86,2X86_88,2X86,2X86_88,Q86,2X86
+24870,1970,9999,Omsorgstjenester,Omsorgstjenester,B,24870,2487,2487,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X87
+24910,1970,9999,Kultur,"Kulturell tjenesteyting",B,24905,2490,2490,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X91
+25360,1970,9999,"Vannforsyning mm","Uttak fra kilde, rensing og distribusjon av vann",B,25360,2538,2538,2336,2X36,2X36_39,2X36_39,2X36_39,E36,2X36
+25370,1970,9999,Saml.beha.avløp,"Oppsamling og behandling av avløpsvann",B,25379,2538,2539,2337,2X37_39,2X36_39,2X36_39,2X36_39,E37T39,2X37
+25380,1970,9999,Inns.fjern.avfal,"Innsamling, behandling, disponering og fjerning av avfall",B,25379,2538,2539,2337,2X37_39,2X36_39,2X36_39,2X36_39,E37T39,2X38
+25841,1970,9999,"Offentlig adm.","Offentlig administrasjon og forvaltning, og trygdeordninger underlagt offentlig forvaltning",B,25841,2584,2584,2384,2X84,2X84,2X84,2X84,O84,2X84
+25850,1970,9999,Undervisning,Undervisning,B,25850,2585,2585,2385,2X85,2X85,2X85,2X85,P85,2X85
+25860,1970,9999,Helsetjenester,Helsetjenester,B,25860,2586,2586,2386,2X86,2X86_88,2X86,2X86_88,Q86,2X86
+25870,1970,9999,Omsorgstjenester,Omsorgstjenester,B,25870,2587,2587,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X87
+25882,1970,9999,"Barnehager, SFO","Barnehager og SFO",B,25882,2587,2587,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X88
+25910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",B,25905,2590,2590,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X91
+26850,1970,9999,Undervisning,Undervisning,B,26850,2685,2685,2385,2X85,2X85,2X85,2X85,P85,2X85
+26860,1970,9999,Helsetjenester,Helsetjenester,B,26860,2686,2686,2386,2X86,2X86_88,2X86,2X86_88,Q86,2X86
+26870,1970,9999,Omsorgstjenester,Omsorgstjenester,B,26870,2687,2687,2387,2X87_88,2X86_88,2X87_88,2X86_88,Q87_88,2X87
+26900,1970,9999,Kunst.Vir&underh,"Kunstnerisk virksomhet og underholdningsvirksomhet",B,26905,2690,2690,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X90
+26910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",B,26905,2690,2690,2390,2X90_92,2X90_97,2X90_93,2X90_93,R90T92,2X91
+26930,1970,9999,Sport/fritidsakt,"Sports- og fritidsaktiviteter",B,26930,2690,2693,2393,2X93,2X90_97,2X90_93,2X90_93,R93,2X93
+26940,1970,9999,Akt.medl.org,"Aktiviteter i medlemsorganisasjoner + internasjonale organisasjoner",B,26940,2694,2694,2394,2X94,2X90_97,2X94_96,2X94_96,S94,2X94
+27014,1970,9999,Matv.e.kantiner,"Matvarer til egne kantiner, institusjoner, skip o.l",B,27014,,,,,,,,,
+27016,1970,9999,Repr.Forr.reiser,Representasjonskostnader,B,27016,,,,,,,,,
+27018,1970,9999,"Arb.tøy,verkt.mv","Arbeidstøy, verneutstyr og verktøy til skogbruk, olje og gass, industrien og bygg og anlegg",B,27018,,,,,,,,,
+27020,1970,9999,Rekv.rengj.midl.,"Kontorrekvisita,arbeidstøy, uniformer jule- påske pynt, rengjøringsmidler, lyspærer og andre små artikler",B,27020,,,,,,,,,
+27026,1970,9999,Bank/off.gebyr++,"Bank og forsikringstjenester, offentlige gebyrer og aviser.",B,27026,,,,,,,,,
+27030,1970,9999,Godstr.,"Godstransport, lasting, lagring",B,27030,,,,,,,,,
+27031,1970,9999,"Div tj.yting","Post, Telefontjenester og internett og andre forretningsmessige tjenester, (regnskap, it, reklame, rettshjelp, teknisk konsulenttjenester)",B,27031,,,,,,,,,
+27033,1970,9999,"hotell+/ turisme","Hoteltjenester og persontransport, turismerelatert",B,27033,,,,,,,,,
+27035,1970,9999,"Andre reiseutg.","Persontransport, ikke tursismerelatert",B,27035,,,,,,,,,
+27040,1970,9999,Utleie,"Leie av  maskiner, inventar, tranportmidler og lignende",B,27040,,,,,,,,,
+27045,1970,9999,Entreprenørlev.,Entreprenørleveranser,B,27045,,,,,,,,,
+27050,2009,2011,Fj.kost.oljeinnr,"Fjerningskostnader for olje- og gassinnretninger",B,27050,,,,,,,,,
+27076,1970,9999,Emballasje,Emballasje,B,27076,,,,,,,,,
+27150,1970,9999,"Rep.maskin mv.","Reparasjon av maskiner,inventar, utstyr mv.",B,27150,,,,,,,,,
+27160,1970,9999,"Rep.av B&A","Reparasjon av bygg og anlegg",B,27160,,,,,,,,,
+27500,1970,9999,Avanser,"Avanse, transportmarginer",B,27500,2750,2750,2750,,,,,OTTM,
+28100,1970,9999,Boliger,"Boliger,leiligheter,fritidshus",B,2810,2815,2810,,2810,,,,,
+28108,1970,9999,"Bolig egn invarb","Boliger egne investereingsarbeider",B,2810,2815,2810,,2810,,,,,
+28180,1970,9999,"Br.bolig tr.kost","Brukte boliger, transaksjonskostnader",B,2810,2815,2810,,2810,,,,,
+28190,1970,9999,Tr.kost.grunn,"Transaksjonskostnader, tomter og grunn",B,2810,2815,2810,,2810,,,,,
+28200,1970,9999,Næringsbygg,Næringsbygg,B,2820,2815,2820,,2820,,,,,
+28208,1970,9999,"Nær.byg.egn inv","Næringsbygg, egne investeringsarbeider",B,2820,2815,2820,,2820,,,,,
+28290,1970,9999,Br.nær.byg.tr.ko,"Brukte næringsbygg, transaksjonskostnader",B,2820,2815,2820,,2820,,,,,
+28300,1970,9999,Gr.frb.jord.skog,"Grunnforbedringer i jord- og skogbruk",B,2831,2815,2830,,2830,,,,,
+28308,1970,9999,Gr.frb.lan.e.inv,"Grunnforbedringer i jord- og skogbruk, egne investeringsarbeider",B,2831,2815,2830,,2830,,,,,
+28310,1970,9999,"Jernbane ol.","Jernbane, medregnet forstadsbane og bruer",B,2831,2815,2830,,2830,,,,,
+28320,1970,9999,Kraftoverf.linje,Kraftoverføringslinje,B,2832,2815,2830,,2830,,,,,
+28328,1970,9999,Kraft.overf.einv,"Kraftoverføringslinje, egne investeringsarbeider",B,2832,2815,2830,,2830,,,,,
+28330,1970,9999,Kraft.prod.anleg,Kraftproduksjonsanlegg,B,2833,2815,2830,,2830,,,,,
+28338,1970,9999,Kraftprod.e.inv.,"Kraftproduksjonsanlegg,egne investeringsarbeider",B,2833,2815,2830,,2830,,,,,
+28340,1970,9999,"Veier og gater","Veier og gater",B,2831,2815,2830,,2830,,,,,
+28348,1970,9999,"Veier egn.inv.","Veier og gater, egne investeringsarbeider",B,2831,2815,2830,,2830,,,,,
+28350,1970,9999,"Andre anlegg","Andre anlegg",B,2831,2815,2830,,2830,,,,,
+28358,1970,9999,"A.anlegg,egn inv","Andre anlegg, egne investeringsarbeider",B,2831,2815,2830,,2830,,,,,
+28370,1970,9999,"Prod.hull olje","Produksjonshull for olje- og gassutvinning",B,2837,2837,2837,,2837,,,,,
+28378,1970,9999,Pr.hul.olj+e.inv,"Produksjonshull for olje- og gassutvinning, egne investeringsarbeider",B,2837,2837,2837,,2837,,,,,
+28380,1970,9999,"Oljeutv.plat mm","Oljeutvinningsplattformer, borerigger og moduler",B,2838,2838,2838,,2838,,,,,
+28388,1970,9999,Olj.utv.pl.e.inv,"Oljeutvinningsplattformer, borerigger og moduler, egne investeringsarbeider",B,2838,2838,2838,,2838,,,,,
+28389,1970,9999,Fj.kost.oljeinnr,"Fjerningskostnader for olje- og gassinnretninger",B,2838,2838,2838,,2838,,,,,
+28390,1970,9999,Olje-gassrørled,"Olje- og gassrørledninger",B,2839,2839,2839,,2839,,,,,
+28398,1970,9999,Olj.gasled.e.inv,"Olje- og gassrørledninger, egne investeringsarbeider",B,2839,2839,2839,,2839,,,,,
+28410,1970,9999,"Skip og båter","Skip og båter",B,2841,2841,2841,,2841,,,,,
+28420,1970,9999,"Fly,helikoptre","Fly og helikoptre",B,2842,2842,2842,,2842,,,,,
+28430,1970,9999,Personbiler,"Personbiler, stasjonsvogner",B,2843,2843,2843,,2843,,,,,
+28440,1970,9999,Busser,Busser,B,2843,2843,2843,,2843,,,,,
+28450,1970,9999,"Lastebiler o.l.","Varebiler, lastebiler, kranbiler, trekkvogner mv.",B,2843,2843,2843,,2843,,,,,
+28460,1970,9999,"Persbiler utleie","Personbiler til yrkesmessig utleie",B,2843,2843,2843,,2843,,,,,
+28470,1970,9999,Lokomotiv.vogner,"Lokomotiver, passasjer- og godsvogner mv.",B,2843,2843,2843,,2843,,,,,
+28508,1970,9999,Mask.utst.e.inv,"Maskiner og utstyr, egne investeringsarbeider",B,2850,2855,2855,,2855,,,,,
+28510,1970,9999,Land.skog.mask.,"Landbruks- og skogbruksmaskiner",B,2850,2855,2855,,2855,,,,,
+28520,1970,9999,Bergv.ind.mask,"Maskiner og utstyr til bergverk og industri",B,2850,2855,2855,,2855,,,,,
+28530,1970,9999,Elektr.gas.mask,"Maskiner og utstyr til elektrisitets- og gassverk",B,2850,2855,2855,,2855,,,,,
+28540,1970,9999,"B&A mask.utst","Maskiner og utstyr til bygge- og anleggsverksomhet",B,2850,2855,2855,,2855,,,,,
+28550,1970,9999,A.nær.mask.utst.,"Maskiner og utstyr til andre næringer",B,2850,2855,2855,,2855,,,,,
+28560,1970,9999,EDB/kont.utstyr,"EDB-utstyr, kontorutstyr og kontormaskiner ellers",B,2856,2855,2856,,2856,,,,,
+28570,1970,9999,"Utstyr til tele","Utstyr til telekommunikasjon",B,2850,2855,2857,,2857,,,,,
+28590,1970,9999,Våpensystemer,Våpensystemer,B,2859,2855,2859,,2859,,,,,
+28610,1970,9999,"Endring i livdyr","Endring i livdyrbestand",B,2860,2860,2860,,2860,,,,,
+28650,1970,9999,"Endring frukttre","Endring i frukttrebestand",B,2860,2860,2860,,2860,,,,,
+28710,1970,9999,"Leting olje mm.","Leting etter olje, gass og mineraler",B,2871,2871,2871,,2871,,,,,
+28718,1970,9999,Let.olj.mm.e.inv,"Leting etter olje, gass og mineraler, egne investeringsarbeider",B,2871,2871,2871,,2871,,,,,
+28720,1970,9999,FoU,"Forskning og utvikling",B,2879,2879,2872,,2872,,,,,
+28728,1970,9999,"FoU e. inv.","Forskning og utvikling, egne investeringsarbeider",B,2879,2879,2872,,2872,,,,,
+28740,1970,9999,EDB-programvare,EDB-programvare,B,2879,2879,2874,,2874,,,,,
+28748,1970,9999,EDB-prg.e.inv.,"EDB-programvare, egne investeringsarbeider",B,2879,2879,2874,,2874,,,,,
+28760,1970,9999,Lit.kunst.org.v,"Litterære og kunstneriske orginalverk",B,2879,2879,2876,,2876,,,,,
+28768,1970,9999,Lit.kun.org.e.i.,"Litterære og kunstneriske orginalverk, egne investeringsarbeider",B,2879,2879,2876,,2876,,,,,
+28790,1970,9999,A.f.imat.realkap,"Annen fast immateriell realkapital",B,2879,2879,2879,,2879,,,,,
+28990,1970,9999,Verdigjenstander,"Antikviteter, kunstgjenstander og andre verdigjenstander",B,2890,2890,2899,,2899,,,,,
+29501,1970,9999,Merverdiavgift,"Innkreving av merverdiavgift",T,29501,2951,2951,2950,2950,,,,D21X31,
+29502,1970,2003,Investeringsavgi,"Innkreving av investeringsavgift",T,29502,2952,2952,2950,2950,,,,D21X31,
+29504,1970,9999,Produktsubsidier,"Utbetaling av produktsubsidier",T,29504,2954,2954,2950,2950,,,,D21X31,
+29507,1970,9999,Korr.moms,"Korreksjon ikke innbetalt moms",T,29507,2957,2957,2950,2950,,,,D21X31,
+29508,1970,9999,Produktskatter,"Innkreving av produktskatter",T,29508,2958,2958,2950,2950,,,,D21X31,
+29900,1970,9999,"Korrek. fastpr.","Korreksjoner i faste priser",T,29900,2959,2959,2950,2950,,,,D21X31,
+51100,2010,9999,"Eksport iflg HS","Eksport ifølge handelsstat.",A,51000,5100,5100,5100,,,,,P6,
+51110,1970,2009,"Eksport iflg HS","Eksport ifølge handelsstat.",A,51000,5100,5100,5100,,,,,P6,
+51140,1970,2009,"Varer utenom HS","Eksport av varer utenom handelsstatistikken",A,51000,5100,5100,5100,,,,,P6,
+51200,2010,9999,"Eksp utenom HS","Eksport utenom handelsstat.",A,51000,5100,5100,5100,,,,,P6,
+51210,1970,2009,Bruttofr.skipsf.,"Bruttofrakter opptjent i skipsfart",A,51000,5100,5100,5100,,,,,P6,
+51220,1970,2009,"Utl.forbr.i Norg","Utlendingers forbruk i Norge",A,51000,5100,5100,5100,,,,,P6,
+51230,1970,2009,"Tj. ellers","Tjenester ellers",A,51000,5100,5100,5100,,,,,P6,
+52100,2010,9999,"Import iflg HS","Import ifølge handesstat.",T,52000,5200,5200,5200,,,,,P7,
+52110,1970,2009,"Import iflg HS","Import ifølge handesstat.",T,52000,5200,5200,5200,,,,,P7,
+52140,1970,2009,"Import utenom HS","Import av varer utenom handelsstatistikken",T,52000,5200,5200,5200,,,,,P7,
+52200,2010,9999,"Import utenom HS","Import utenom handesstat.",T,52000,5200,5200,5200,,,,,P7,
+52210,1970,2009,Skipsf.utg.utl.,"Skipsfartens utgifter i utlandet",T,52000,5200,5200,5200,,,,,P7,
+52220,1970,2009,Nordm.forbr.utl.,"Nordmenns forbruk i utlandet",T,52000,5200,5200,5200,,,,,P7,
+52230,1970,2009,"Tjenester ellers","Tjenester ellers",T,52000,5200,5200,5200,,,,,P7,
+61A11,1970,9999,"Brød, kornprod.","Brød og kornprodukter",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A12,1970,9999,"Kjøtt og kjøttv.","Kjøtt og kjøttvarer",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A13,1970,9999,Fisk,"Fersk fisk, fiskefileter og andre fiskevarer",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A14,1970,9999,"Melk,ost,egg","Melk,ost og egg",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A15,1970,9999,"Smør,margarin,ol","Smør, margarin, oljer o.l.",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A16,1970,9999,"Frukt og bær","Frukt og bær",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A17,1970,9999,"Gr.sak.& potet","Grønnsaker og poteter",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A18,1970,9999,"Sukker,sjoko mv.","Sukker, sjokolade, iskrem og andre sukkervarer",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A19,1970,9999,Kryd./andr.matv.,"Krydder og andre matvarer",A,61A10,61A1,61A1,6100,61A1,61A,,,P3S14,
+61A21,1970,9999,"Kaffe,te & kakao","Kaffe,te og kakao",A,61A21,61A2,61A1,6100,61A2,61A,,,P3S14,
+61A22,1970,9999,"Miner.vann,brus","Mineralvann, brus o.l.",A,61A22,61A2,61A1,6100,61A2,61A,,,P3S14,
+61B11,1970,9999,"Brennevin& sprit","Brennevin og sprit",A,61B11,61B1,61B1,6100,61B1,61B,,,P3S14,
+61B12,1970,9999,Vin,Vin,A,61B12,61B1,61B1,6100,61B1,61B,,,P3S14,
+61B13,1970,9999,Øl,Øl,A,61B13,61B1,61B1,6100,61B1,61B,,,P3S14,
+61B20,1970,9999,Tobakksvarer,"Sigaretter, røyketobakk og andre tobakksvarer",A,61B20,61B2,61B2,6100,61B2_3,61B,,,P3S14,
+61B30,1970,9999,Narkotika,Narkotika,A,61B30,61B2,61B2,6100,61B2_3,61B,,,P3S14,
+61C11,1970,9999,"Tøy.,tekst.&garn","Tøyer, tekstilprodukter og garn",A,61C1,61C1,61C1,6100,61C1,61C,,,P3S14,
+61C12,1970,9999,"Klær,nattøy mv.","Skjorter, nattøy, undertøy, kåper, kjoler, frakker, dresser mv.",A,61C1,61C1,61C1,6100,61C1,61C,,,P3S14,
+61C13,1970,9999,"Hodpl.,skje.,sl.","Hodeplagg, skjerf, slips mv.",A,61C1,61C1,61C1,6100,61C1,61C,,,P3S14,
+61C14,1970,9999,"Utleie&rep. klær","Utleie og reparasjon av klær",A,61C2,61C2,61C2,6100,61C1,61C,,,P3S14,
+61C21,1970,9999,Skotøy,Skotøy,A,61C1,61C1,61C1,6100,61C2,61C,,,P3S14,
+61C22,1970,9999,"Rep. av skot.","Reparasjoner av skotøy",A,61C2,61C2,61C2,6100,61C2,61C,,,P3S14,
+61D10,1970,9999,Huslei.bet.bolig,"Husleie betalt av leietaker for bolig",A,61D10,61D1,61D1,6100,61D1,61D,,,P3S14,
+61D20,1970,9999,Huslei.ber.bolig,"Beregnet husleie for selveiere for bolig",A,61D20,61D1,61D1,6100,61D2,61D,,,P3S14,
+61D31,1970,9999,"Mat.rep.i eg.bol","Materialer for reparasjon i leid bolig",A,61D31,61D2,61D2,6100,61D3,61D,,,P3S14,
+61D32,1970,9999,Arb.kost.rep.bol,"Arbeidskostnader for reparasjoner i leid bolig",A,61D41,61D3,61D3,6100,61D3,61D,,,P3S14,
+61D40,1970,9999,A.v&tj.ifm.bolig,"Andre varer og tjenester tilknyttet bolig(VAR mv.)",A,61D41,61D3,61D3,6100,61D4,61D,,,P3S14,
+61D51,1970,9999,Elektrisitet,Elektrisitet,A,61D51,61D4,61D4,6100,61D5,61D,,,P3S14,
+61D52,1970,9999,Gass,Gass,A,61D52,61D5,61D5,6100,61D5,61D,,,P3S14,
+61D53,1970,9999,Paraf.&fyr.olje,"Parafin og fyringsoljer",A,61D53,61D5,61D5,6100,61D5,61D,,,P3S14,
+61D54,1970,9999,"Ved,torv,kull,ko","Ved, torv, kull, koks",A,61D54,61D5,61D5,6100,61D5,61D,,,P3S14,
+61D55,1970,9999,"Fjernvarme mv.","Fjernvarme mv.",A,61D55,61D5,61D5,6100,61D5,61D,,,P3S14,
+61E11,1970,9999,"Møbler mv.","Møbler, innrednings- og dekorartikler",A,61E11,61E1,61E1,6100,61E1,61E,,,P3S14,
+61E12,1970,9999,"Tepper mv.","Tepper og annet gulvbelegg",A,61E12,61E1,61E1,6100,61E1,61E,,,P3S14,
+61E13,1970,9999,"Rep. av møbler","Reparasjon av møbler",A,61E13,61E3,61E3,6100,61E1,61E,,,P3S14,
+61E20,1970,9999,Tekstil-&utstyrv,"Tekstilvarer og utstyrsvarer",A,61E21,61E2,61E2,6100,61E2,61E,,,P3S14,
+61E31,1970,9999,"Komf.,kjølsk.ol.","Komfyrer, kjøleskap, vaskemaskiner o.l.",A,61E31,61E1,61E1,6100,61E3,61E,,,P3S14,
+61E32,1970,9999,Andr.hushold.mas,"Andre husholdningsmaskiner",A,61E32,61E2,61E2,6100,61E3,61E,,,P3S14,
+61E33,1970,9999,Rep.el.hush.uts.,"Reparasjon av elektrisk husholdningsutstyr",A,61E33,61E3,61E3,6100,61E3,61E,,,P3S14,
+61E40,1970,9999,"Kjk.uts.,glass","Kjøkkenutstyr, glass, dekketøy mv.",A,61E41,61E2,61E2,6100,61E4,61E,,,P3S14,
+61E51,1970,9999,"Plenkl.,el.vkt.","Plenklippere, elektrisk verktøy mv.",A,61E51,61E1,61E1,6100,61E5,61E,,,P3S14,
+61E52,1970,9999,"Småverktøy mv.","Småverktøy mv.",A,61E52,61E2,61E2,6100,61E5,61E,,,P3S14,
+61E61,1970,9999,"Vaskepulver mv.","Rengjøringsmidler og andre husholdningsartikler",A,61E61,61E4,61E4,6100,61E6,61E,,,P3S14,
+61E62,1970,9999,"Lønnet husarb.","Lønnet husarbeid",A,61E62,61E3,61E3,6100,61E6,61E,,,P3S14,
+61F11,1970,9999,Legemidler,"Legemidler og helseartikler",A,61F11,61F1,61F1,6100,61F1,61F,,,P3S14,
+61F12,1970,9999,Helseartikler,Helseartikler,A,61F12,61F1,61F1,6100,61F1,61F,,,P3S14,
+61F13,1970,9999,"Briller,ort.uts.","Briller, ortopedisk utstyr mv.",A,61F13,61F2,61F2,6100,61F1,61F,,,P3S14,
+61F21,1970,9999,Legehjelp,Legehjelp,A,61F21,61F3,61F3,6100,61F2,61F,,,P3S14,
+61F22,1970,9999,Tannlegehjelp,Tannlegehjelp,A,61F22,61F3,61F3,6100,61F2,61F,,,P3S14,
+61F23,1970,9999,"Andre helsetjen.","Andre helsetjenester utenom institusjon",A,61F23,61F3,61F3,6100,61F2,61F,,,P3S14,
+61F30,1970,9999,Sykehustjenester,Sykehustjenester,A,61F30,61F3,61F3,6100,61F3,61F,,,P3S14,
+61G11,1970,9999,"Kjøp av bil","Kjøp av bil",A,61G1,61G1,61G1,6100,61G1,61G,,,P3S14,
+61G12,1970,9999,"Kjøp motorsykler","Kjøp av motorsykler og sykler",A,61G1,61G1,61G1,6100,61G1,61G,,,P3S14,
+61G13,1970,9999,Sykler,"Kjøp av sykler",A,61G1,61G1,61G1,6100,61G1,61G,,,P3S14,
+61G21,1970,9999,"Res.del.,dekk mv","Reservedeler, dekk, slanger mv.",A,61G2,61G2,61G2,6100,61G2,61G,,,P3S14,
+61G22,1970,9999,"Bensin og olje","Bensin og olje",A,61G3,61G3,61G3,6100,61G2,61G,,,P3S14,
+61G23,1970,9999,Verkst.rep.,Verkstedsreparasjoner,A,61G5,61G5,61G5,6100,61G2,61G,,,P3S14,
+61G24,1970,9999,"Park.,bomp.,bilu","Parkering, bompenger, bilutleie mv.",A,61G5,61G5,61G5,6100,61G2,61G,,,P3S14,
+61G31,1970,9999,Pas.jernbane,"Passasjertransport jernbane,T-bane, trikk",A,61G31,61G4,61G4,6100,61G3,61G,,,P3S14,
+61G32,1970,9999,Pas.landevei,"Passasjertransport landevei",A,61G32,61G4,61G4,6100,61G3,61G,,,P3S14,
+61G33,1970,9999,Pas.fly,"Passasjertransport fly",A,61G33,61G4,61G4,6100,61G3,61G,,,P3S14,
+61G34,1970,9999,Pas.båt,"Passasjertransport, båt",A,61G34,61G4,61G4,6100,61G3,61G,,,P3S14,
+22010,1970,9999,"Jordbruk,jakt ol","Jordbruk, jakt og viltstell",B,22010,2301,2301,2301,2X01,2X01_02,2X01_03,2X01_03,A01,2X01
+22031,1970,9999,"Fiske og fangst","Fiske og fangst",B,22031,2303,2303,2303,2X03A,2X03,2X01_03,2X01_03,A03,2X03
+22412,1970,9999,"Oppføring bygg","Oppføringer av bygninger",B,22412,2342,2342,2341,2X41_43,2X41_43,2X41_43,2X41_43,F,2X41
+22688,1970,9999,"Boligtjenester,","Boligtjenester, egen bolig,  borettslag og sameie",B,22688,2368,2368,2368,2X68B,2X68B,2X68,2X68,L68A,2X68
+22970,1970,9999,Løn.arb.priv.hus,"Lønnet arbeid i private husholdninger",B,23970,2397,2397,2397,2X97,2X90_97,2X97_98,2X97_98,T,2X97
+23010,1970,9999,"Jordbruk,jakt ol","Jordbruk, jakt og viltstell",B,23011,2301,2301,2301,2X01,2X01_02,2X01_03,2X01_03,A01,2X01
+23016,1970,9999,"Tj. jordbruk","Tjenester tilknyttet jordbruk",B,23011,2301,2301,2301,2X01,2X01_02,2X01_03,2X01_03,A01,2X01
+23020,1970,9999,Skogbruk,Skogbruk,B,23021,2302,2302,2302,2X02,2X01_02,2X01_03,2X01_03,A02,2X02
+23024,1970,9999,"Tj. skogbruk","Tjenester tilknyttet skogbruk",B,23021,2302,2302,2302,2X02,2X01_02,2X01_03,2X01_03,A02,2X02
+23031,1970,9999,"Fiske og fangst","Fiske og fangst",B,23031,2303,2303,2303,2X03A,2X03,2X01_03,2X01_03,A03,2X03
+23032,1970,9999,Aquakultur,Aquakultur,B,23032,2304,2304,2303,2X03B,2X03,2X01_03,2X01_03,A03,2X03
+23050,1970,9999,"Bryting av kull","Bryting av steinkull og brunkull",B,23050,2305,2305,2306,2X05,2X05,2X05_09,2X05_09,B,2X05
+23060,1970,9999,"Utv.råolje, gass","Utvinning av råolje og naturgass",B,23060,2306,2306,2306,2X06,2X06,2X05_09,2X05_09,B,2X06
+23070,1970,9999,"Brytning av malm","Brytning av metallholdig malm",B,23075,2305,2305,2306,2X05,2X05,2X05_09,2X05_09,B,2X07
+23080,1970,9999,Brytn.ikke-malm,"Brytning av ikke metallholdig malm",B,23075,2305,2305,2306,2X05,2X05,2X05_09,2X05_09,B,2X08
+23091,1970,9999,Utvinningstj.,"Tjenester tilknyttet utvinning av råolje og naturgass",B,23091,2307,2307,2306,2X09,2X09,2X05_09,2X05_09,B,2X09
+23099,1970,9999,BergverksTj.,"Tjenester tilknyttet annen bergverksdrift",B,23075,2305,2305,2306,2X05,2X05,2X05_09,2X05_09,B,2X09
+23101,1970,9999,Bearb.kjøt(vare),"Produksjon, bearbeiding og konservering av kjøtt og kjøttvarer",B,23101,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23102,1970,9999,"Bearb. Fisk mv.","Bearbeiding og konservering av fisk, skalldyr og bløtdyr",B,23102,2312,2312,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23103,1970,9999,"Barb.frukt,grsak","Bearbeiding og konservering av frukt og grønnsaker",B,23103,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23104,1970,9999,"Oljer og fettsto","Produksjon av vegetabilske og animalske oljer og fettstoffer",B,23104,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23105,1970,9999,Meierivar.iskrem,"Produksjon av meierivarer og iskrem",B,23105,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23106,1970,9999,"Kornvare,stivels","Produksjon av kornvarer, stivelse og stivelsesprodukter",B,23106,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23107,1970,9999,Bakeri/pastavare,"Produksjon av bakeri- og pastavarer",B,23119,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23108,1970,9999,A.næringsmiddel,"Produksjon av andre næringsmidler",B,23119,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23109,1970,9999,Forvarer,"Produksjon av forvarer",B,23119,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X10
+23110,1970,9999,Drikkevarer,"Produksjon av drikkevarer",B,23110,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X11
+23120,1970,9999,Tobakksvarer,"Produksjon av tobakksvarer",B,23120,2310,2310,2310,2X10_12,2X10_12,2X10_12,2X10_33,C10T12,2X12
+23130,1970,9999,Tekstiler,"Produksjon av tekstiler",B,23130,2313,2313,2313,2X13_15,2X13_15,2X13_15,2X10_33,C13T15,2X13
+23140,1970,9999,Klær,"Produksjon av klær",B,23140,2313,2313,2313,2X13_15,2X13_15,2X13_15,2X10_33,C13T15,2X14
+23150,1970,9999,"Lær og lærvarer","Produksjon av lær og lærvarer, skotøy",B,23150,2313,2313,2313,2X13_15,2X13_15,2X13_15,2X10_33,C13T15,2X15
+23160,1970,9999,"Trelast,trevarer","Produksjon av trelast og varer av tre unntatt møbler",B,23160,2315,2316,2316,2X16,2X16_17,2X16_18,2X10_33,C16,2X16
+23170,1970,9999,"Papir, papirvare","Produksjon av papir og papirvarer",B,23170,2316,2317,2317,2X17,2X16_17,2X16_18,2X10_33,C17,2X17
+23180,1970,9999,"Tj.trykking mv","Trykking og tjenester tilknyttet trykking og reproduksjon av innspilte opptak",B,23180,2317,2318,2318,2X18,2X18,2X16_18,2X10_33,C18,2X18
+23190,1970,9999,Raff.petroprod,"Produksjon av kull- og raffinerte petroleumsprodukter",B,23190,2318,2319,2319,2X19,2X19_21,2X19,2X10_33,C19,2X19
+23201,1970,9999,"Kjemiske råvarer","Produksjon av kjemiske råvarer",B,23201,2319,2320,2320,2X20,2X19_21,2X20,2X10_33,C20,2X20
+23207,1970,9999,"Kjemiske prod","Produksjon av kjemiske produkter",B,23207,2320,2320,2320,2X20,2X19_21,2X20,2X10_33,C20,2X20
+23208,1970,9999,"Basisplast med m","Produksjon av basisplast og syntetisk gummi",B,23208,2320,2320,2320,2X20,2X19_21,2X20,2X10_33,C20,2X20
+23210,1970,9999,"Farmasøytiske pr","Produksjon av farmasøytiske råvarer og preparater",B,23210,2321,2321,2321,2X21,2X19_21,2X21,2X10_33,C21,2X21
+23220,1970,9999,"Gummi/plast prod","Produksjon av gummi- og plastprodukter",B,23220,2322,2322,2322,2X22,2X22_23,2X22_23,2X10_33,C22,2X22
+23231,1970,9999,Glassprodukter,"Produksjon av glass og glassprodukter",B,23239,2323,2323,2323,2X23,2X22_23,2X22_23,2X10_33,C23,2X23
+23232,1970,9999,"Keramiske produk","Produksjon av ildfaste produkter, byggevarer av brent leire og andre keramiske produkter",B,23239,2323,2323,2323,2X23,2X22_23,2X22_23,2X10_33,C23,2X23
+23235,1970,9999,"Sement,kalk,gips","Produksjon av sement, kalk og gips",B,23235,2323,2323,2323,2X23,2X22_23,2X22_23,2X10_33,C23,2X23
+23236,1970,9999,Ik-metal.mineral,"Betong,sement,gips,hogging/bearbeiding av monument/bygningsstein,A.ikke-metallholdige mineralprodukter",B,23239,2323,2323,2323,2X23,2X22_23,2X22_23,2X10_33,C23,2X23
+23241,1970,9999,"Jern,stål,ferrol","Produksjon av jern, stål og ferrolegeringer",B,23241,2324,2324,2324,2X24,2X24,2X24_25,2X10_33,C24,2X24
+23243,1970,9999,Aluminium,"Produksjon av aluminium",B,23243,2324,2324,2324,2X24,2X24,2X24_25,2X10_33,C24,2X24
+23244,1970,9999,A.ik-jernh.metal,"Produksjon av ikke-jernholdige metaller ellers",B,23246,2324,2324,2324,2X24,2X24,2X24_25,2X10_33,C24,2X24
+23245,1970,9999,"Støping metaller","Støping av metaller",B,23246,2324,2324,2324,2X24,2X24,2X24_25,2X10_33,C24,2X24
+23251,1970,9999,Metallkonstr.mv,"Produksjon av metallkonstruksjoner, tanker, cisterner, dampkjeler og lignende",B,23250,2325,2325,2325,2X25,2X25_28,2X24_25,2X10_33,C25,2X25
+23259,1970,9999,"Metallvarer INAS","Produksjon av andre metallvarer",B,23250,2325,2325,2325,2X25,2X25_28,2X24_25,2X10_33,C25,2X25
+23260,1970,9999,Elektronisk.prod,"Produksjon av datamaskiner, elektroniske og optiske produkter",B,23260,2326,2326,2326,2X26,2X25_28,2X26,2X10_33,C26,2X26
+23270,1970,9999,"Elektrisk utstyr","Produksjon av elektrisk utstyr",B,23270,2327,2327,2327,2X27,2X25_28,2X27,2X10_33,C27,2X27
+23280,1970,9999,"Mask.utst INAS","Produksjon av maskiner og utstyr til generell bruk, INAS",B,23280,2328,2328,2328,2X28,2X25_28,2X28,2X10_33,C28,2X28
+23290,1970,9999,"Motorvogn,tilhen","Produksjon av motorvogner og tilhengere",B,23290,2329,2329,2329,2X29,2X29_30,2X29_30,2X10_33,C29,2X29
+23301,1970,9999,"Skip og båter","Bygging av skip og båter",B,23301,2330,2330,2330,2X30,2X29_30,2X29_30,2X10_33,C30,2X30
+23302,1970,9999,Oljepl.form.modu,"Bygging av oljeplattformer og moduler",B,23302,2331,2331,2330,2X30,2X29_30,2X29_30,2X10_33,C30,2X30
+23309,1970,9999,"Trsp.midl. INAS","Produksjon av transportmidler ellers",B,23309,2329,2329,2329,2X30,2X29_30,2X29_30,2X10_33,C29,2X30
+23310,1970,9999,Møbler,"Produksjon av møbler",B,23310,2332,2332,2331,2X31_32,2X31_32,2X31_33,2X10_33,C31_32,2X31
+23320,1970,9999,"Industri INAS","Annen industriproduksjon",B,23320,2332,2332,2331,2X31_32,2X31_32,2X31_33,2X10_33,C31_32,2X32
+23331,1970,9999,Rep.metalpr.mask,"Reparasjon av metallprodukter, maskiner og utstyr",B,23331,2333,2333,2333,2X33,2X33,2X31_33,2X10_33,C33,2X33
+23332,1970,9999,Instal.ind.mask.,"Installasjon av industrimaskiner og utstyr",B,23332,2333,2333,2333,2X33,2X33,2X31_33,2X10_33,C33,2X33
+23350,1970,9999,Elektrisitet,"Produksjon av elektrisitet",B,23350,2335,2335,2335,2X35,2X35,2X35,2X35,D35,2X35
+23351,1970,9999,Oms.distr.elektr,"Overføring og distribusjon av og handel med elektrisitet",B,23351,2336,2336,2335,2X35,2X35,2X35,2X35,D35,2X35
+23352,1970,9999,"Gass gj. ledning","Produksjon og distribusjon av gass gjennom ledningsnett",B,23355,2337,2337,2335,2X35,2X35,2X35,2X35,D35,2X35
+23353,1970,9999,Damp/varmtvann,"Damp- og varmtvannsforsyning",B,23355,2337,2337,2335,2X35,2X35,2X35,2X35,D35,2X35
+23360,1970,9999,Vanut.rens.distr,"Uttak fra kilde, rensing og distribusjon av vann",B,23360,2338,2338,2336,2X36,2X36_39,2X36_39,2X36_39,E36,2X36
+23370,1970,9999,Saml.beha.avløp,"Oppsamling og behandling av avløpsvann",B,23379,2338,2339,2337,2X37_39,2X36_39,2X36_39,2X36_39,E37T39,2X37
+23380,1970,9999,Ins.beh.gjenvavf,"Innsamling, behandling, disponering og gjenvinning av avfall",B,23379,2338,2339,2337,2X37_39,2X36_39,2X36_39,2X36_39,E37T39,2X38
+23390,1970,9999,Miljø-rydd/rens,"Miljørydding, miljørensing og lignende virksomhet",B,23379,2338,2339,2337,2X37_39,2X36_39,2X36_39,2X36_39,E37T39,2X39
+23411,1970,9999,Utv.byggerprosj.,"Utvikling av byggeprosjekter",B,23411,2341,2341,2341,2X41_43,2X41_43,2X41_43,2X41_43,F,2X41
+23412,1970,9999,"Oppføring bygg","Oppføringer av bygninger",B,23415,2342,2342,2341,2X41_43,2X41_43,2X41_43,2X41_43,F,2X41
+23420,1970,9999,Anleggsvirksomh.,Anleggsvirksomhet,B,23415,2342,2342,2341,2X41_43,2X41_43,2X41_43,2X41_43,F,2X42
+23430,1970,9999,"Spesialisert B&A","Spesialisert bygge- og anleggsvirksomhet",B,23415,2342,2342,2341,2X41_43,2X41_43,2X41_43,2X41_43,F,2X43
+23450,1970,9999,"Handel,rep.bil m","Handel med og reparasjoner av motorvogner",B,23455,2344,2343,2345,2X45,2X45_47,2X45_47,2X45_47,G45,2X45
+23460,1970,9999,"Agentur/engro ha","Agentur- og engroshandel, unntatt med motorvogner",B,23455,2344,2344,2346,2X46,2X45_47,2X45_47,2X45_47,G46,2X46
+23470,1970,9999,Detaljhandel,"Detaljhandel, unntatt med motorvogner",B,23455,2344,2345,2347,2X47,2X45_47,2X45_47,2X45_47,G47,2X47
+23491,1970,9999,Jernbanetransp.,"Passasjer- og godstransport med jernbane",B,23491,2346,2346,2349,2X49A,2X49A_52,2X49_53,2X49_53,H49,2X49
+23492,1970,9999,Drosjebiltransp.,Drosjebiltransport,B,23492,2346,2346,2349,2X49A,2X49A_52,2X49_53,2X49_53,H49,2X49
+23493,1970,9999,A.landtrsp.passa,"Annen landtransport med passasjerer",B,23493,2346,2346,2349,2X49A,2X49A_52,2X49_53,2X49_53,H49,2X49
+23494,1970,9999,"Godstrsp. vei","Godstransport på vei",B,23494,2347,2347,2349,2X49A,2X49A_52,2X49_53,2X49_53,H49,2X49
+23495,1970,9999,"Rørtransport,","Rørtransport,",B,23495,2348,2348,2349,2X49B,2X49B,2X49_53,2X49_53,H49,2X49
+23501,1970,9999,"UR sjøfart gods","Utenriks sjøfart, godstransport",B,23505,2349,2349,2350,2X50A,2X50A,2X49_53,2X49_53,H50,2X50
+23502,1970,9999,"UR sjøfart pass","Utenriks sjøfart, passasjertransport",B,23505,2349,2349,2350,2X50A,2X50A,2X49_53,2X49_53,H50,2X50
+23503,1970,9999,"Inenriks sjøfart","Innenriks sjøfart",B,23506,2350,2350,2350,2X50B,2X49A_52,2X49_53,2X49_53,H50,2X50
+23504,2004,9999,Supplyvirksomhet,Supplyvirksomhet,B,23506,2350,2350,2350,2X50B,2X49A_52,2X49_53,2X49_53,H50,2X50
+23510,1970,9999,Lufttransport,Lufttransport,B,23510,2351,2351,2351,2X51,2X49A_52,2X49_53,2X49_53,H51,2X51
+23521,1970,9999,"Tj. sjøtransport","Tjenester tilknyttet sjøtransport",B,23521,2352,2352,2352,2X52,2X49A_52,2X49_53,2X49_53,H52,2X52
+23522,1970,9999,"Tj. transp.INAS","Tjenester tilknyttet transport ellers",B,23522,2352,2352,2352,2X52,2X49A_52,2X49_53,2X49_53,H52,2X52
+23523,1970,9999,Tj.lufttransport,"Tjenester tilknyttet lufttransport",B,23523,2352,2352,2352,2X52,2X49A_52,2X49_53,2X49_53,H52,2X52
+23530,1970,9999,Post.distrib.Vir,"Post og distribusjonsvirksomhet",B,23530,2353,2353,2353,2X53,2X53,2X49_53,2X49_53,H53,2X53
+23550,1970,9999,Overnattingsvirk,Overnattingsvirksomhet,B,23555,2356,2356,2355,2X55_56,2X55_56,2X55_56,2X55_56,I,2X55
+23560,1970,9999,Serveringsvirks.,Serveringsvirksomhet,B,23555,2356,2356,2355,2X55_56,2X55_56,2X55_56,2X55_56,I,2X56
+23580,1970,9999,Forlag,Forlagsvirksomhet,B,23580,2358,2358,2358,2X58,2X58_63,2X58_60,2X58_63,J58,2X58
+23590,1970,9999,"Film,TV,mus.utgi","Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak",B,23595,2358,2359,2359,2X59_60,2X58_63,2X58_60,2X58_63,J59_60,2X59
+23600,1970,9999,"Radio-TV Kringk","Radio- og fjernsynskringkasting",B,23595,2358,2359,2359,2X59_60,2X58_63,2X58_60,2X58_63,J59_60,2X60
+23610,1970,9999,Telekommunikasj.,Telekommunikasjon,B,23610,2361,2361,2361,2X61,2X58_63,2X61,2X58_63,J61,2X61
+23620,1970,9999,Tj.inform.tekno.,"Tjenester tilknyttet informasjonsteknologi",B,23625,2362,2362,2362,2X62_63,2X58_63,2X62_63,2X58_63,J62_63,2X62
+23630,1970,9999,Tj.informasjon,Informasjonstjenester,B,23625,2362,2362,2362,2X62_63,2X58_63,2X62_63,2X58_63,J62_63,2X63
+23641,1970,9999,Sentralbankvirk,Sentralbankvirksomhet,B,23640,2364,2364,2364,2X64,2X64_66,2X64_66,2X64_66,K64,2X64
+23642,1970,9999,"Bankvirk. INAS","Bankvirksomhet ellers",B,23640,2364,2364,2364,2X64,2X64_66,2X64_66,2X64_66,K64,2X64
+23649,1970,9999,"A.finansiell tj","Annen finansiell tjenesteyting",B,23669,2364,2364,2364,2X64,2X64_66,2X64_66,2X64_66,K64,2X64
+23651,1970,9999,Livsforsikring,Livsforsikring,B,23651,2364,2365,2365,2X65,2X64_66,2X64_66,2X64_66,K65,2X65
+23652,1970,9999,Skadeforsikring,Skadeforsikring,B,23652,2364,2365,2365,2X65,2X64_66,2X64_66,2X64_66,K65,2X65
+23653,1970,9999,Pensjonskasser,Pensjonskasser,B,23653,2364,2365,2365,2X65,2X64_66,2X64_66,2X64_66,K65,2X65
+23660,1970,9999,Fin.forsikr.tj,"Tjenester tilknyttet finansierings- og forsikringsvirksomhet",B,23669,2364,2366,2366,2X66,2X64_66,2X64_66,2X64_66,K66,2X66
+23680,1970,9999,"Oms.drift,eiend.","Omsetning og drift av fast eiendom",B,23680,2367,2367,2367,2X68A,2X68A,2X68,2X68,L68B,2X68
+23688,1970,9999,"Boligtjenester,","Boligtjenester, egen bolig,  borettslag og sameie",B,23688,2369,2367,2367,2X68B,2X68B,2X68,2X68,L68B,2X68
+61G36,1970,9999,Flytteutg.&frakt,"Flytteutgifter og frakt",A,61G5,61G5,61G5,6100,61G3,61G,,,P3S14,
+61H10,1970,9999,"Postale tjen.","Postale tjenester",A,61H1,61H1,61H1,6100,61H1,61H,,,P3S14,
+61H20,1970,9999,Teleutstyr,Teleutstyr,A,61H2,61H2,61H2,6100,61H2,61H,,,P3S14,
+61H30,1970,9999,Telefontjenester,Telefontjenester,A,61H1,61H1,61H1,6100,61H3,61H,,,P3S14,
+61I11,1970,9999,Utst.lyd&bilder,"Utstyr for gjengivelse av lyd og bilder",A,61I1,61I1,61I1,6100,61I1,61I,,,P3S14,
+61I12,1970,9999,"Fotouts.,kikk.mv","Fotoutstyr, kikkerter mv.",A,61I1,61I1,61I1,6100,61I1,61I,,,P3S14,
+61I13,1970,9999,"EDB-uts.,kalk.mv","EDB-utstyr, kalkulatorer mv.",A,61I1,61I1,61I1,6100,61I1,61I,,,P3S14,
+61I14,1970,9999,"Plat.,lydb.&film","Grammofonplater, lydbånd og film mv.",A,61I2,61I2,61I2,6100,61I1,61I,,,P3S14,
+61I15,1970,9999,Rep.audiovisuelt,"Reparasjon av audiovisuelt utstyr",A,61I3,61I3,61I3,6100,61I1,61I,,,P3S14,
+61I21,1970,9999,"Båter, mv.","Større varige forbruksgoder for utendørs fritidsaktiviteter",A,61I4,61I4,61I4,6100,61I2,61I,,,P3S14,
+61I22,1970,9999,Fritidsakt.varer,"Musikkinstrumenter og annet varig utstyr for fritidsaktiviteter",A,61I4,61I4,61I4,6100,61I2,61I,,,P3S14,
+61I23,1970,9999,Rep.fritidsvarer,"Reparasjon av fritidsvarer",A,61I3,61I3,61I3,6100,61I2,61I,,,P3S14,
+61I31,1970,9999,Leketøy&hobbyart,"Leketøy og hobbyartikler",A,61I2,61I2,61I2,6100,61I3,61I,,,P3S14,
+61I32,1970,9999,Sports-&camp.ut.,"Sports- og campingutstyr mv.",A,61I2,61I2,61I2,6100,61I3,61I,,,P3S14,
+61I33,1970,9999,Blomst.prydbusk,"Blomster, prydbusker",A,61I5,61I5,61I5,6100,61I3,61I,,,P3S14,
+61I34,1970,9999,Kjæledyr,kjæledyr,A,61I5,61I5,61I5,6100,61I3,61I,,,P3S14,
+61I35,1970,9999,"Veterinær mv.","Veterinær- og andre tjenester knyttet til kjæledyr",A,61I3,61I3,61I3,6100,61I3,61I,,,P3S14,
+61I41,1970,9999,"Sport,fritid tj.","Sport og fritidstjenester",A,61I3,61I3,61I3,6100,61I4,61I,,,P3S14,
+61I42,1970,9999,"Kulturelle tjen.","Kulturelle tjenester, underholdning",A,61I3,61I3,61I3,6100,61I4,61I,,,P3S14,
+61I43,1970,9999,"Lotteri & totsp.","Lotteri og totalisatorspill",A,61I3,61I3,61I3,6100,61I4,61I,,,P3S14,
+61I51,1970,9999,Bøker,Bøker,A,61I2,61I2,61I2,6100,61I5,61I,,,P3S14,
+61I52,1970,9999,"Avis,ukeb.,tids.","Aviser, ukeblad, tidsskrift mv.",A,61I5,61I5,61I5,6100,61I5,61I,,,P3S14,
+61I54,1970,9999,Skrivemateriell,Skrivemateriell,A,61I5,61I5,61I5,6100,61I5,61I,,,P3S14,
+61I60,1970,9999,Pakketur,Pakketur,A,61I3,61I3,61I3,6100,61I6,61I,,,P3S14,
+61J10,1970,9999,Utd.før-&gr.sko.,"Utdanning i førskoler og grunnskoler",A,61J10,61J1,61J1,6100,61J1,61J,,,P3S14,
+61J20,1970,9999,"Utd.i vdg.skole","Utdanning i videregående skoler",A,61J20,61J1,61J1,6100,61J2,61J,,,P3S14,
+61J30,1970,9999,Voksenopplæring,Voksenopplæring,A,61J30,61J1,61J1,6100,61J3,61J,,,P3S14,
+61J40,1970,9999,"Høyere utdann.","Høyere utdanning",A,61J40,61J1,61J1,6100,61J4,61J,,,P3S14,
+61K11,1970,9999,"Utg.rest.,kaf.ol","Utgifter på restauranter, kafeer o.l.",A,61K1,61K1,61K1,6100,61K1,61K,,,P3S14,
+61K12,1970,9999,Kantiner,Kantiner,A,61K1,61K1,61K1,6100,61K1,61K,,,P3S14,
+61K20,1970,9999,"Utg.hot.,pens.ol","Utgifter ved hoteller, pensjonater o.l.",A,61K1,61K1,61K1,6100,61K2,61K,,,P3S14,
+61L11,1970,9999,Hårpleie&skj.pl.,"Hårpleie og skjønnhetspleie",A,61L0,61L1,61L1,6100,61L1,61L,,,P3S14,
+61L12,1970,9999,"Barbermas.,hårf.","Barbermaskiner, hårfønere mv.",A,61L2,61L2,61L2,6100,61L1,61L,,,P3S14,
+61L13,1970,9999,Kosm.-toalettart,"Kosmetikk- og toalettpreparater mv.",A,61L3,61L3,61L3,6100,61L1,61L,,,P3S14,
+61L20,1970,9999,Prostitusjon,Prostitusjon,A,61L0,61L1,61L1,6100,61L2,61L,,,P3S14,
+61L31,1970,9999,"Ur og smykker","Ur og smykker",A,61L2,61L2,61L2,6100,61L3,61L,,,P3S14,
+61L32,1970,9999,"Andre pers.varer","Andre personlige varer",A,61L4,61L4,61L4,6100,61L3,61L,,,P3S14,
+61L40,1970,9999,Barneh.oms.tj.,"Barnehage- og omsorgstjenester",A,61L40,61L1,61L1,6100,61L4,61L,,,P3S14,
+61L50,1970,9999,Forsikring,Forsikring,A,61L5,61L5,61L5,6100,61L5,61L,,,P3S14,
+61L60,1970,2008,"Finansielle tje.","Finansielle tjenester ellers",A,61L5,61L5,61L5,6100,61L6,61L,,,P3S14,
+61L61,2003,9999,"Finans tje. bet.","Finansielle tjenester ellers, betalte",A,61L5,61L5,61L5,6100,61L6,61L,,,P3S14,
+61L62,2003,9999,FISIM,"FISIM;Indirekte målte finanstjenester",A,61L6,61L6,61L5,6100,61L6,61L,,,P3S14,
+61L70,1970,9999,"Andre pers.tjen.","Juridiske, forretningsmessige og andre personlige tjenester",A,61L7,61L7,61L7,6100,61L7,61L,,,P3S14,
+61L91,1970,9999,"Nordm.kons.i utl","Nordmenns konsum i utlandet",A,61L8,61L8,61L8,6100,61L8,61L8,,,P3S14,
+61L92,1970,9999,Utl.kons.Norge,"Utlendingers konsum i Norge (teknisk)",A,61L9,61L9,61L9,6100,61L9,61L9,,,P3S14,
+64A11,1970,9999,Off.adm.unt.pol.,"Offentlig administrasjon unntatt politi og rettsvesen mv.",A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A12,1970,9999,Utviklingshjelp,Utviklingshjelp,A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A13,1970,9999,"Generell tjn.yt.","Generell tjenesteyting",A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A14,1970,9999,Grunnforskning,Grunnforskning,A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A15,1970,9999,"FoU Alm. tjen.","FoU Alminnelig tjenesteyting",A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A16,1970,9999,"Alminn. tje.yt.","Alminnelig tjenesteyting ellers",A,64A,6403,6403,6400,64A1,,,,P3S13,
+64A17,1970,9999,Off.gjeldstr.,"Offentlige gjeldstransaksjoner",A,64A,6403,6403,6400,64A1,,,,P3S13,
+64B21,1970,9999,"Militært forsvar","Militært forsvar",A,64B,6401,6401,6400,64B2,,,,P3S13,
+64B22,1970,9999,Sivilforsvar,Sivilforsvar,A,64B,6401,6401,6400,64B2,,,,P3S13,
+64B23,1970,9999,Utenl.mil.bist.,"Utenlandsk militær bistand",A,64B,6401,6401,6400,64B2,,,,P3S13,
+64B24,1970,9999,"FoU Forsvar","FoU Forsvar",A,64B,6401,6401,6400,64B2,,,,P3S13,
+64B25,1970,9999,"Forsvar ellers","Forsvar ellers",A,64B,6401,6401,6400,64B2,,,,P3S13,
+64C31,1970,9999,Politi,Politi,A,64C,6403,6403,6400,64C3,,,,P3S13,
+64C32,1970,9999,Brannvesen,Brannvesen,A,64C,6403,6403,6400,64C3,,,,P3S13,
+64C33,1970,9999,Rettsvesen,Rettsvesen,A,64C,6403,6403,6400,64C3,,,,P3S13,
+64C34,1970,9999,Fengselsvesen,Fengselsvesen,A,64C,6403,6403,6400,64C3,,,,P3S13,
+64C35,1970,9999,"FoU rettsv. mv.","FoU Politi, rettsvesen mv.",A,64C,6403,6403,6400,64C3,,,,P3S13,
+64C36,1970,9999,"Politi, rettsv.","Politi, rettsvesen mv. ellers",A,64C,6403,6403,6400,64C3,,,,P3S13,
+64D41,1970,9999,Gen.næringsøkon.,"Generelle næringsøkonomiske formål",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D42,1970,9999,"Jordb.skog,fiske","Jordbruk, skogbruk, fiske og fangst",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D43,1970,9999,"Energi, brensel","Energi og brensel",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D44,1970,9999,"Industri, anlegg","Bergverk, industri, bygge- og anleggsvirksomhet",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D45,1970,9999,Transport,Transport,A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D46,1970,9999,"Post og tele","Post og telekommunikasjoner",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D47,1970,9999,"Andre næringer","Andre næringer",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D48,1970,9999,"FoU Næringsøkon.","FoU Næringsøkonomiske formål",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64D49,1970,9999,Næringsøk.ellers,"Næringsøkonomiske formål ellers",A,64D,6403,6403,6400,64D4,,,,P3S13,
+64E51,1970,9999,Avfallsbehandl.,Avfallsbehandling,A,64E,6403,6403,6400,64E5,,,,P3S13,
+64E52,1970,9999,"Avløp, spillvann","Avløp og spillvann",A,64E,6403,6403,6400,64E5,,,,P3S13,
+64E53,1970,9999,Forurensn.bekj.,Forurensingsbekjempelse,A,64E,6403,6403,6400,64E5,,,,P3S13,
+64E54,1970,9999,"Landskapsvern,bi","Landskapsvern og biologisk mangfold",A,64E,6403,6403,6400,64E5,,,,P3S13,
+64E55,1970,9999,"FoU Miljøvern","FoU Miljøvern",A,64E,6403,6403,6400,64E5,,,,P3S13,
+64E56,1970,9999,"Miljøvern ellers","Miljøvern ellers",A,64E,6403,6403,6400,64E5,,,,P3S13,
+64F61,1970,9999,Boligformål,Boligformål,A,64F,6403,6403,6400,64F6,,,,P3S13,
+64F62,1970,9999,Utbyggingsformål,Utbyggingsformål,A,64F,6403,6403,6400,64F6,,,,P3S13,
+64F63,1970,9999,Vannforsyning,Vannforsyning,A,64F,6403,6403,6400,64F6,,,,P3S13,
+64F64,1970,9999,Gatebelysning,Gatebelysning,A,64F,6403,6403,6400,64F6,,,,P3S13,
+64F65,1970,9999,"FoU Boliger","FoU Boliger og nærmiljø ellers",A,64F,6403,6403,6400,64F6,,,,P3S13,
+64F66,1970,9999,"Boliger,nær.elle","Boliger og nærmiljø ellers",A,64F,6403,6403,6400,64F6,,,,P3S13,
+64G71,1970,9999,"Medis.& hj.utst.","Medisiner og hjelpeutstyr",A,64G1,6404,6404,6400,64G7,,,,P3S13,
+64G72,1970,9999,"Polikliniske tj.","Polikliniske tjenester",A,64G1,6404,6404,6400,64G7,,,,P3S13,
+64G73,1970,9999,Sykehustjeneser,Sykehustjeneser,A,64G1,6404,6404,6400,64G7,,,,P3S13,
+64G74,1970,9999,Off.helse.ellers,"Offentlige helseformål ellers",A,64G1,6404,6404,6400,64G7,,,,P3S13,
+64G75,1970,9999,"FoU Helsepleie","FoU Helsepleie",A,64G2,6405,6405,6400,64G7,,,,P3S13,
+64G76,1970,9999,"Helsepl. ellers","Helsepleie ellers",A,64G2,6405,6405,6400,64G7,,,,P3S13,
+64H81,1970,9999,"Fritid og sport","Fritid og sport",A,64H1,6402,6402,6400,64H8,,,,P3S13,
+64H82,1970,9999,"Kulturelle tj.","Kulturelle tjenester",A,64H1,6402,6402,6400,64H8,,,,P3S13,
+64H83,1970,9999,Kringkasting,"Kringkasting og forlagsvirksomhet",A,64H2,6403,6403,6400,64H8,,,,P3S13,
+64H84,1970,9999,Religion,"Religiøse og andre fellesskapsaktiviteter",A,64H2,6403,6403,6400,64H8,,,,P3S13,
+64H85,1970,9999,"FoU Frtid, kult.","FoU Fritid, kultur og religion",A,64H2,6403,6403,6400,64H8,,,,P3S13,
+64H86,1970,9999,"Fritid ellers","Fritid, kultur og religion ellers",A,64H2,6403,6403,6400,64H8,,,,P3S13,
+64I91,1970,9999,Grunn-&førskole,"Grunnskoler og førskoler",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I92,1970,9999,"Videregå. skole","Videregående skoler",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I93,1970,9999,Etterutdanning,"Etterutdanning unntatt høyere utdanning",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I94,1970,9999,"Univ.& høyskole","Universiteter og høyskoler",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I95,1970,9999,"Nivåuavh. utd.","Utdanning uavhengig av nivå",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I96,1970,9999,Tjen.tilk.und.v.,"Tjenester tilknyttet undervisning",A,64I1,6406,6406,6400,64I9,,,,P3S13,
+64I97,1970,9999,"FoU Utdanning","FoU Utdanning",A,64I2,6407,6407,6400,64I9,,,,P3S13,
+64I98,1970,9999,"Utdanning ellers","Utdanning ellers",A,64I2,6407,6407,6400,64I9,,,,P3S13,
+64J01,1970,9999,"Sykdom, uførhet","Sykdom og uførhet",A,64J1,6408,6404,6400,64J0,,,,P3S13,
+64J02,1970,9999,Alderdom,Alderdom,A,64J1,6408,6404,6400,64J0,,,,P3S13,
+64J03,1970,9999,Etterlatte,Etterlatte,A,64J1,6408,6404,6400,64J0,,,,P3S13,
+64J04,1970,9999,"Barn og familie","Barn og familie",A,64J2,6408,6404,6400,64J0,,,,P3S13,
+64J05,1970,9999,Arbeidsledighet,Arbeidsledighet,A,64J2,6408,6404,6400,64J0,,,,P3S13,
+64J06,1970,9999,Boligstøtte,Boligstøtte,A,64J2,6408,6404,6400,64J0,,,,P3S13,
+64J07,1970,9999,"Annen sos. støtt","Sosialstøtte ellers",A,64J2,6408,6404,6400,64J0,,,,P3S13,
+64J08,1970,9999,"FoU omsorgstjen.","FoU omsorgstjenester",A,64J3,6405,6405,6400,64J0,,,,P3S13,
+64J09,1970,9999,Omsorgstj.ellers,"Omsorgstjenester ellers",A,64J3,6405,6405,6400,64J0,,,,P3S13,
+65A11,1970,9999,Off.adm.unt.pol.,"Offentlig administrasjon unntatt politi og rettsvesen mv.",A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A12,9998,9999,Utviklingshjelp,Utviklingshjelp,A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A13,1970,9999,"Generell tjn.yt.","Generell tjenesteyting",A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A14,9998,9999,Grunnforskning,Grunnforskning,A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A15,9998,9999,"FoU Alm. tjen.","FoU Alminnelig tjenesteyting",A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A16,9998,9999,"Alminn. tje.yt.","Alminnelig tjenesteyting ellers",A,65A,6503,6503,6400,65A1,,,,P3S13,
+65A17,1970,9999,Off.gjeldstr.,"Offentlige gjeldstransaksjoner",A,65A,6503,6503,6400,65A1,,,,P3S13,
+65C32,1970,9999,Brann.redn.tjen.,"Brannvern og redningstjeneste",A,65A,6503,6503,6400,65C3,,,,P3S13,
+65D41,1970,9999,Gen.næringsøkon.,"Generelle næringsøkonomiske formål",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D42,9998,9999,"Jordb.skog,fiske","Jordbruk, skogbruk, fiske og fangst",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D43,1970,2006,"Energi, brensel","Energi og brensel",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D44,9998,9999,"Industri, anlegg","Bergverk, industri, bygge- og anleggsvirksomhet",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D45,1970,9999,Transport,Transport,A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D46,9998,9999,"Post og tele","Post og telekommunikasjoner",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D47,9998,9999,"Andre næringer","Andre næringer",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D48,9998,9999,"FoU Næringsøkon.","FoU Næringsøkonomiske formål",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65D49,1970,9999,Næringsøk.ellers,"Næringsøkonomiske formål ellers",A,65D,6503,6503,6400,65D4,,,,P3S13,
+65E51,1970,9999,Avfallsbehandl.,Avfallsbehandling,A,65E1,6501,6503,6400,65E5,,,,P3S13,
+65E52,1970,9999,"Avløp, spillvann","Avløp og spillvann",A,65E1,6501,6503,6400,65E5,,,,P3S13,
+65E53,9998,9999,Forurensn.bekj.,Forurensingsbekjempelse,A,65E2,6503,6503,6400,65E5,,,,P3S13,
+65E55,9998,9999,"FoU Miljøvern","FoU Miljøvern",A,65E2,6503,6503,6400,65E5,,,,P3S13,
+65E56,1970,9999,"Miljøvern ellers","Miljøvern ellers",A,65E2,6503,6503,6400,65E5,,,,P3S13,
+65F61,1970,9999,Boligformål,Boligformål,A,65F2,6503,6503,6400,65F6,,,,P3S13,
+65F62,1970,9999,Utbyggingsformål,Utbyggingsformål,A,65F2,6503,6503,6400,65F6,,,,P3S13,
+65F63,1970,9999,Vannforsyning,Vannforsyning,A,65F1,6501,6503,6400,65F6,,,,P3S13,
+65F64,9998,9999,Gatebelysning,Gatebelysning,A,65F2,6503,6503,6400,65F6,,,,P3S13,
+65F65,9998,9999,"FoU Boliger","FoU Boliger og nærmiljø ellers",A,65F2,6503,6503,6400,65F6,,,,P3S13,
+65F66,1970,2000,"Boliger,nær.elle","Boliger og nærmiljø ellers",A,65F2,6503,6503,6400,65F6,,,,P3S13,
+65G71,1970,9999,"Medis.& hj.utst.","Medisiner og hjelpeutstyr",A,65G1,6504,6504,6400,65G7,,,,P3S13,
+65G72,1970,9999,"Polikliniske tj.","Polikliniske tjenester",A,65G1,6504,6504,6400,65G7,,,,P3S13,
+65G73,1970,9999,Sykehustjeneser,Sykehustjeneser,A,65G0,6508,6504,6400,65G7,,,,P3S13,
+65G74,1970,9999,Off.helse.ellers,"Offentlige helseformål ellers",A,65G1,6504,6504,6400,65G7,,,,P3S13,
+65G75,9998,9999,"FoU Helsepleie","FoU Helsepleie",A,65G2,6505,6505,6400,65G7,,,,P3S13,
+65G76,1970,9999,"Helsepl. ellers","Helsepleie ellers",A,65G2,6505,6505,6400,65G7,,,,P3S13,
+65H81,1970,9999,"Fritid og sport","Fritid og sport",A,65H1,6502,6502,6400,65H8,,,,P3S13,
+65H82,1970,9999,"Kulturelle tj.","Kulturelle tjenester",A,65H1,6502,6502,6400,65H8,,,,P3S13,
+65H83,1970,2006,Kringkasting,"Kringkasting og forlagsvirksomhet",A,65H2,6503,6503,6400,65H8,,,,P3S13,
+65H84,1970,9999,Religion,"Religiøse og andre fellesskapsaktiviteter",A,65H2,6503,6503,6400,65H8,,,,P3S13,
+65H85,9998,9999,"FoU Frtid, kult.","FoU Fritid, kultur og religion",A,65H2,6503,6503,6400,65H8,,,,P3S13,
+65H86,1970,9999,"Fritid ellers","Fritid, kultur og religi",A,65H2,6503,6503,6400,65H8,,,,P3S13,
+65I91,1970,9999,Grunn-&førskole,"Grunnskoler og førskoler",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I92,1970,9999,"Videregå. skole","Videregående skoler",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I93,9998,9999,Etterutdanning,"Etterutdanning unntatt høyere utdanning",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I94,9998,9999,"Univ.& høyskole","Universiteter og høyskoler",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I95,1970,9999,"Nivåuavh. utd.","Utdanning uavhengig av nivå",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I96,1970,9999,Tjen.tilk.und.v.,"Tjenester tilknyttet undervisning",A,65I1,6506,6506,6400,65I9,,,,P3S13,
+65I97,9998,9999,"FoU Utdanning","FoU Utdanning",A,65I2,6507,6507,6400,65I9,,,,P3S13,
+65I98,1970,9999,"Utdanning ellers","Utdanning ellers",A,65I2,6507,6507,6400,65I9,,,,P3S13,
+65J01,1970,9999,"Sykdom, uførhet","Sykdom og uførhet",A,65J1,6508,6504,6400,65J0,,,,P3S13,
+65J02,1970,9999,Alderdom,Alderdom,A,65J1,6508,6504,6400,65J0,,,,P3S13,
+65J03,9998,9999,Etterlatte,Etterlatte,A,65J1,6508,6504,6400,65J0,,,,P3S13,
+65J04,1970,9999,"Barn og familie","Barn og familie",A,65J2,6508,6504,6400,65J0,,,,P3S13,
+65J05,9998,9999,Arbeidsledighet,Arbeidsledighet,A,65J2,6508,6504,6400,65J0,,,,P3S13,
+65J06,1970,9999,Boligstøtte,Boligstøtte,A,65J2,6508,6504,6400,65J0,,,,P3S13,
+65J07,1970,9999,"Annen sos.støtte","Sosialstøtte ellers",A,65J2,6508,6504,6400,65J0,,,,P3S13,
+65J08,1970,9999,"FoU omsorgstjen.","FoU omsorgstjenester",A,65J3,6505,6505,6400,65J0,,,,P3S13,
+65J09,1970,9999,Omsorgstj.ellers,"Omsorgstjenester ellers",A,65J3,6505,6505,6400,65J0,,,,P3S13,
+66F00,1970,9999,Helsepleie,Helsepleie,A,6640,6601,6605,6600,66F0,,,,P3S15,
+66I40,1970,9999,"Kultur og fritid","Kultur og fritid",A,6662,6602,6606,6600,66I4,,,,P3S15,
+66J00,1970,9999,Undervisning,Undervisning,A,6671,6603,6604,6600,66J0,,,,P3S15,
+66L41,1970,9999,Omsorgstjenester,Omsorgstjenester,A,6694,6604,6605,6600,66L4,,,,P3S15,
+66L70,1970,9999,Rel.medl.org.fm.,"Religion, medlemsorganisasjonsformål",A,6696,6605,6606,6600,66L7,,,,P3S15,
+82010,1970,9999,"Jordbruk,jakt ol","Jordbruk, jakt og viltstell",A,82010,8301,8301,8301,8X01,8X01_02,8X01_03,2X01_03,A01,2X01
+82031,1970,9999,"Fiske og fangst","Fiske og fangst",A,82031,8303,8303,8303,8X03A,8X03,8X01_03,2X01_03,A03,2X03
+82412,1970,9999,"Oppføring bygg","Oppføringer av bygninger",A,82412,8342,8342,8341,8X41_43,8X41_43,8X41_43,2X41_43,F,2X41
+82688,1970,9999,"Boligtjenester,","Boligtjenester, egen bolig,  borettslag og sameie",A,82688,8368,8368,8368,8X68B,8X68B,8X68,2X68,L68A,2X68
+82970,1970,9999,Løn.arb.priv.hus,"Lønnet arbeid i private husholdninger",A,83970,8397,8397,8397,8X97,8X90_97,8X97_98,2X97_98,T,2X97
+83010,1970,9999,"Jordbruk,jakt ol","Jordbruk, jakt og viltstell",A,83011,8301,8301,8301,8X01,8X01_02,8X01_03,2X01_03,A01,2X01
+83016,1970,9999,"Tj. jordbruk","Tjenester tilknyttet jordbruk",A,83011,8301,8301,8301,8X01,8X01_02,8X01_03,2X01_03,A01,2X01
+83020,1970,9999,Skogbruk,Skogbruk,A,83021,8302,8302,8302,8X02,8X01_02,8X01_03,2X01_03,A02,2X02
+83024,1970,9999,"Tj. skogbruk","Tjenester tilknyttet skogbruk",A,83021,8302,8302,8302,8X02,8X01_02,8X01_03,2X01_03,A02,2X02
+83031,1970,9999,"Fiske og fangst","Fiske og fangst",A,83031,8303,8303,8303,8X03A,8X03,8X01_03,2X01_03,A03,2X03
+83032,1970,9999,Aquakultur,Aquakultur,A,83032,8304,8304,8303,8X03B,8X03,8X01_03,2X01_03,A03,2X03
+83050,1970,9999,"Bryting av kull","Bryting av steinkull og brunkull",A,83050,8305,8305,8306,8X05,8X05,8X05_09,2X05_09,B,2X05
+83060,1970,9999,"Utv.råolje, gass","Utvinning av råolje og naturgass",A,83060,8306,8306,8306,8X06,8X06,8X05_09,2X05_09,B,2X06
+83070,1970,9999,"Brytning av malm","Brytning av metallholdig malm",A,83075,8305,8305,8306,8X05,8X05,8X05_09,2X05_09,B,2X07
+83080,1970,9999,Brytn.ikke-malm,"Brytning av ikke metallholdig malm",A,83075,8305,8305,8306,8X05,8X05,8X05_09,2X05_09,B,2X08
+83091,1970,9999,Utvinningstj.,"Tjenester tilknyttet utvinning av råolje og naturgass",A,83091,8307,8307,8306,8X09,8X09,8X05_09,2X05_09,B,2X09
+83099,1970,9999,BergverksTj.,"Tjenester tilknyttet annen bergverksdrift",A,83075,8305,8305,8306,8X05,8X05,8X05_09,2X05_09,B,2X09
+83101,1970,9999,Bearb.kjøt(vare),"Produksjon, bearbeiding og konservering av kjøtt og kjøttvarer",A,83101,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83102,1970,9999,"Bearb. Fisk mv.","Bearbeiding og konservering av fisk, skalldyr og bløtdyr",A,83102,8312,8312,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83103,1970,9999,"Barb.frukt,grsak","Bearbeiding og konservering av frukt og grønnsaker",A,83103,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83104,1970,9999,"Oljer og fettsto","Produksjon av vegetabilske og animalske oljer og fettstoffer",A,83104,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83105,1970,9999,Meierivar.iskrem,"Produksjon av meierivarer og iskrem",A,83105,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83106,1970,9999,"Kornvare,stivels","Produksjon av kornvarer, stivelse og stivelsesprodukter",A,83106,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83107,1970,9999,Bakeri/pastavare,"Produksjon av bakeri- og pastavarer",A,83119,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83108,1970,9999,A.næringsmiddel,"Produksjon av andre næringsmidler",A,83119,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83109,1970,9999,Forvarer,"Produksjon av forvarer",A,83119,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X10
+83110,1970,9999,Drikkevarer,"Produksjon av drikkevarer",A,83110,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X11
+83120,1970,9999,Tobakksvarer,"Produksjon av tobakksvarer",A,83120,8310,8310,8310,8X10_12,8X10_12,8X10_12,2X10_33,C10T12,2X12
+83130,1970,9999,Tekstiler,"Produksjon av tekstiler",A,83130,8313,8313,8313,8X13_15,8X13_15,8X13_15,2X10_33,C13T15,2X13
+83140,1970,9999,Klær,"Produksjon av klær",A,83140,8313,8313,8313,8X13_15,8X13_15,8X13_15,2X10_33,C13T15,2X14
+83150,1970,9999,"Lær og lærvarer","Produksjon av lær og lærvarer, skotøy",A,83150,8313,8313,8313,8X13_15,8X13_15,8X13_15,2X10_33,C13T15,2X15
+83160,1970,9999,"Trelast,trevarer","Produksjon av trelast og varer av tre unntatt møbler",A,83160,8315,8316,8316,8X16,8X16_17,8X16_18,2X10_33,C16,2X16
+83170,1970,9999,"Papir, papirvare","Produksjon av papir og papirvarer",A,83170,8316,8317,8317,8X17,8X16_17,8X16_18,2X10_33,C17,2X17
+83180,1970,9999,"Tj.trykking mv","Trykking og tjenester tilknyttet trykking og reproduksjon av innspilte opptak",A,83180,8317,8318,8318,8X18,8X18,8X16_18,2X10_33,C18,2X18
+83190,1970,9999,Raff.petroprod,"Produksjon av kull- og raffinerte petroleumsprodukter",A,83190,8318,8319,8319,8X19,8X19_21,8X19,2X10_33,C19,2X19
+83201,1970,9999,"Kjemiske råvarer","Produksjon av kjemiske råvarer",A,83201,8319,8320,8320,8X20,8X19_21,8X20,2X10_33,C20,2X20
+83207,1970,9999,"Kjemiske prod","Produksjon av kjemiske produkter",A,83207,8320,8320,8320,8X20,8X19_21,8X20,2X10_33,C20,2X20
+83208,1970,9999,"Basisplast med m","Produksjon av basisplast og syntetisk gummi",A,83208,8320,8320,8320,8X20,8X19_21,8X20,2X10_33,C20,2X20
+83210,1970,9999,"Farmasøytiske pr","Produksjon av farmasøytiske råvarer og preparater",A,83210,8321,8321,8321,8X21,8X19_21,8X21,2X10_33,C21,2X21
+83220,1970,9999,"Gummi/plast prod","Produksjon av gummi- og plastprodukter",A,83220,8322,8322,8322,8X22,8X22_23,8X22_23,2X10_33,C22,2X22
+83231,1970,9999,Glassprodukter,"Produksjon av glass og glassprodukter",A,83239,8323,8323,8323,8X23,8X22_23,8X22_23,2X10_33,C23,2X23
+83232,1970,9999,"Keramiske produk","Produksjon av ildfaste produkter, byggevarer av brent leire og andre keramiske produkter",A,83239,8323,8323,8323,8X23,8X22_23,8X22_23,2X10_33,C23,2X23
+83235,1970,9999,"Sement,kalk,gips","Produksjon av sement, kalk og gips",A,83235,8323,8323,8323,8X23,8X22_23,8X22_23,2X10_33,C23,2X23
+83236,1970,9999,Ik-metal.mineral,"Betong,sement,gips,hogging/bearbeiding av monument/bygningsstein,A.ikke-metallholdige mineralprodukter",A,83239,8323,8323,8323,8X23,8X22_23,8X22_23,2X10_33,C23,2X23
+83241,1970,9999,"Jern,stål,ferrol","Produksjon av jern, stål og ferrolegeringer",A,83241,8324,8324,8324,8X24,8X24,8X24_25,2X10_33,C24,2X24
+83243,1970,9999,Aluminium,"Produksjon av aluminium",A,83243,8324,8324,8324,8X24,8X24,8X24_25,2X10_33,C24,2X24
+83244,1970,9999,A.ik-jernh.metal,"Produksjon av ikke-jernholdige metaller ellers",A,83246,8324,8324,8324,8X24,8X24,8X24_25,2X10_33,C24,2X24
+83245,1970,9999,"Støping metaller","Støping av metaller",A,83246,8324,8324,8324,8X24,8X24,8X24_25,2X10_33,C24,2X24
+83251,1970,9999,Metallkonstr.mv,"Produksjon av metallkonstruksjoner, tanker, cisterner, dampkjeler og lignende",A,83250,8325,8325,8325,8X25,8X25_28,8X24_25,2X10_33,C25,2X25
+83259,1970,9999,"Metallvarer INAS","Produksjon av andre metallvarer",A,83250,8325,8325,8325,8X25,8X25_28,8X24_25,2X10_33,C25,2X25
+83260,1970,9999,Elektronisk.prod,"Produksjon av datamaskiner, elektroniske og optiske produkter",A,83260,8326,8326,8326,8X26,8X25_28,8X26,2X10_33,C26,2X26
+83270,1970,9999,"Elektrisk utstyr","Produksjon av elektrisk utstyr",A,83270,8327,8327,8327,8X27,8X25_28,8X27,2X10_33,C27,2X27
+83280,1970,9999,"Mask.utst INAS","Produksjon av maskiner og utstyr til generell bruk, INAS",A,83280,8328,8328,8328,8X28,8X25_28,8X28,2X10_33,C28,2X28
+83290,1970,9999,"Motorvogn,tilhen","Produksjon av motorvogner og tilhengere",A,83290,8329,8329,8329,8X29,8X29_30,8X29_30,2X10_33,C29,2X29
+83301,1970,9999,"Skip og båter","Bygging av skip og båter",A,83301,8330,8330,8330,8X30,8X29_30,8X29_30,2X10_33,C30,2X30
+83302,1970,9999,Oljepl.form.modu,"Bygging av oljeplattformer og moduler",A,83302,8331,8331,8330,8X30,8X29_30,8X29_30,2X10_33,C30,2X30
+83309,1970,9999,"Trsp.midl. INAS","Produksjon av transportmidler ellers",A,83309,8329,8329,8329,8X30,8X29_30,8X29_30,2X10_33,C29,2X30
+83310,1970,9999,Møbler,"Produksjon av møbler",A,83310,8332,8332,8331,8X31_32,8X31_32,8X31_33,2X10_33,C31_32,2X31
+83320,1970,9999,"Industri INAS","Annen industriproduksjon",A,83320,8332,8332,8331,8X31_32,8X31_32,8X31_33,2X10_33,C31_32,2X32
+83331,1970,9999,Rep.metalpr.mask,"Reparasjon av metallprodukter, maskiner og utstyr",A,83331,8333,8333,8333,8X33,8X33,8X31_33,2X10_33,C33,2X33
+83332,1970,9999,Instal.ind.mask.,"Installasjon av industrimaskiner og utstyr",A,83332,8333,8333,8333,8X33,8X33,8X31_33,2X10_33,C33,2X33
+83350,1970,9999,Elektrisitet,"Produksjon av elektrisitet",A,83350,8335,8335,8335,8X35,8X35,8X35,2X35,D35,2X35
+83351,1970,9999,Oms.distr.elektr,"Overføring og distribusjon av og handel med elektrisitet",A,83351,8336,8336,8335,8X35,8X35,8X35,2X35,D35,2X35
+83352,1970,9999,"Gass gj. ledning","Produksjon og distribusjon av gass gjennom ledningsnett",A,83355,8337,8337,8335,8X35,8X35,8X35,2X35,D35,2X35
+83353,1970,9999,Damp/varmtvann,"Damp- og varmtvannsforsyning",A,83355,8337,8337,8335,8X35,8X35,8X35,2X35,D35,2X35
+83360,1970,9999,Vanut.rens.distr,"Uttak fra kilde, rensing og distribusjon av vann",A,83360,8338,8338,8336,8X36,8X36_39,8X36_39,2X36_39,E36,2X36
+83370,1970,9999,Saml.beha.avløp,"Oppsamling og behandling av avløpsvann",A,83379,8338,8339,8337,8X37_39,8X36_39,8X36_39,2X36_39,E37T39,2X37
+83380,1970,9999,Ins.beh.gjenvavf,"Innsamling, behandling, disponering og gjenvinning av avfall",A,83379,8338,8339,8337,8X37_39,8X36_39,8X36_39,2X36_39,E37T39,2X38
+83390,1970,9999,Miljø-rydd/rens,"Miljørydding, miljørensing og lignende virksomhet",A,83379,8338,8339,8337,8X37_39,8X36_39,8X36_39,2X36_39,E37T39,2X39
+83411,1970,9999,Utv.byggerprosj.,"Utvikling av byggeprosjekter",A,83411,8341,8341,8341,8X41_43,8X41_43,8X41_43,2X41_43,F,2X41
+83412,1970,9999,"Oppføring bygg","Oppføringer av bygninger",A,83415,8342,8342,8341,8X41_43,8X41_43,8X41_43,2X41_43,F,2X41
+83420,1970,9999,Anleggsvirksomh.,Anleggsvirksomhet,A,83415,8342,8342,8341,8X41_43,8X41_43,8X41_43,2X41_43,F,2X42
+83430,1970,9999,"Spesialisert B&A","Spesialisert bygge- og anleggsvirksomhet",A,83415,8342,8342,8341,8X41_43,8X41_43,8X41_43,2X41_43,F,2X43
+83450,1970,9999,"Handel,rep.bil m","Handel med og reparasjoner av motorvogner",A,83455,8344,8343,8345,8X45,8X45_47,8X45_47,2X45_47,G45,2X45
+83460,1970,9999,"Agentur/engro ha","Agentur- og engroshandel, unntatt med motorvogner",A,83455,8344,8344,8346,8X46,8X45_47,8X45_47,2X45_47,G46,2X46
+83470,1970,9999,Detaljhandel,"Detaljhandel, unntatt med motorvogner",A,83455,8344,8345,8347,8X47,8X45_47,8X45_47,2X45_47,G47,2X47
+83491,1970,9999,Jernbanetransp.,"Passasjer- og godstransport med jernbane",A,83491,8346,8346,8349,8X49A,8X49A_52,8X49_53,2X49_53,H49,2X49
+83492,1970,9999,Drosjebiltransp.,Drosjebiltransport,A,83492,8346,8346,8349,8X49A,8X49A_52,8X49_53,2X49_53,H49,2X49
+83493,1970,9999,A.landtrsp.passa,"Annen landtransport med passasjerer",A,83493,8346,8346,8349,8X49A,8X49A_52,8X49_53,2X49_53,H49,2X49
+83494,1970,9999,"Godstrsp. vei","Godstransport på vei",A,83494,8347,8347,8349,8X49A,8X49A_52,8X49_53,2X49_53,H49,2X49
+83495,1970,9999,"Rørtransport,","Rørtransport,",A,83495,8348,8348,8349,8X49B,8X49B,8X49_53,2X49_53,H49,2X49
+83501,1970,9999,"UR sjøfart gods","Utenriks sjøfart, godstransport",A,83505,8349,8349,8350,8X50A,8X50A,8X49_53,2X49_53,H50,2X50
+83502,1970,9999,"UR sjøfart pass","Utenriks sjøfart, passasjertransport",A,83505,8349,8349,8350,8X50A,8X50A,8X49_53,2X49_53,H50,2X50
+83503,1970,9999,"Inenriks sjøfart","Innenriks sjøfart",A,83506,8350,8350,8350,8X50B,8X49A_52,8X49_53,2X49_53,H50,2X50
+83504,2004,9999,Supplyvirksomhet,Supplyvirksomhet,A,83506,8350,8350,8350,8X50B,8X49A_52,8X49_53,2X49_53,H50,2X50
+83510,1970,9999,Lufttransport,Lufttransport,A,83510,8351,8351,8351,8X51,8X49A_52,8X49_53,2X49_53,H51,2X51
+83521,1970,9999,"Tj. sjøtransport","Tjenester tilknyttet sjøtransport",A,83521,8352,8352,8352,8X52,8X49A_52,8X49_53,2X49_53,H52,2X52
+83522,1970,9999,"Tj. transp.INAS","Tjenester tilknyttet transport ellers",A,83522,8352,8352,8352,8X52,8X49A_52,8X49_53,2X49_53,H52,2X52
+83523,1970,9999,Tj.lufttransport,"Tjenester tilknyttet lufttransport",A,83523,8352,8352,8352,8X52,8X49A_52,8X49_53,2X49_53,H52,2X52
+83530,1970,9999,Post.distrib.Vir,"Post og distribusjonsvirksomhet",A,83530,8353,8353,8353,8X53,8X53,8X49_53,2X49_53,H53,2X53
+83550,1970,9999,Overnattingsvirk,Overnattingsvirksomhet,A,83555,8356,8356,8355,8X55_56,8X55_56,8X55_56,2X55_56,I,2X55
+83560,1970,9999,Serveringsvirks.,Serveringsvirksomhet,A,83555,8356,8356,8355,8X55_56,8X55_56,8X55_56,2X55_56,I,2X56
+83580,1970,9999,Forlag,Forlagsvirksomhet,A,83580,8358,8358,8358,8X58,8X58_63,8X58_60,2X58_63,J58,2X58
+83590,1970,9999,"Film,TV,mus.utgi","Film-, video- og fjernsynsprogramproduksjon, utgivelse av musikk- og lydopptak",A,83595,8358,8359,8359,8X59_60,8X58_63,8X58_60,2X58_63,J59_60,2X59
+83600,1970,9999,"Radio-TV Kringk","Radio- og fjernsynskringkasting",A,83595,8358,8359,8359,8X59_60,8X58_63,8X58_60,2X58_63,J59_60,2X60
+83610,1970,9999,Telekommunikasj.,Telekommunikasjon,A,83610,8361,8361,8361,8X61,8X58_63,8X61,2X58_63,J61,2X61
+83620,1970,9999,Tj.inform.tekno.,"Tjenester tilknyttet informasjonsteknologi",A,83625,8362,8362,8362,8X62_63,8X58_63,8X62_63,2X58_63,J62_63,2X62
+83630,1970,9999,Tj.informasjon,Informasjonstjenester,A,83625,8362,8362,8362,8X62_63,8X58_63,8X62_63,2X58_63,J62_63,2X63
+83641,1970,9999,Sentralbankvirk,Sentralbankvirksomhet,A,83640,8364,8364,8364,8X64,8X64_66,8X64_66,2X64_66,K64,2X64
+83642,1970,9999,"Bankvirk. INAS","Bankvirksomhet ellers",A,83640,8364,8364,8364,8X64,8X64_66,8X64_66,2X64_66,K64,2X64
+83649,1970,9999,"A.finansiell tj","Annen finansiell tjenesteyting",A,83669,8364,8364,8364,8X64,8X64_66,8X64_66,2X64_66,K64,2X64
+83651,1970,9999,Livsforsikring,Livsforsikring,A,83651,8364,8365,8365,8X65,8X64_66,8X64_66,2X64_66,K65,2X65
+83652,1970,9999,Skadeforsikring,Skadeforsikring,A,83652,8364,8365,8365,8X65,8X64_66,8X64_66,2X64_66,K65,2X65
+83653,1970,9999,Pensjonskasser,Pensjonskasser,A,83653,8364,8365,8365,8X65,8X64_66,8X64_66,2X64_66,K65,2X65
+83660,1970,9999,Fin.forsikr.tj,"Tjenester tilknyttet finansierings- og forsikringsvirksomhet",A,83669,8364,8366,8366,8X66,8X64_66,8X64_66,2X64_66,K66,2X66
+83680,1970,9999,"Oms.drift,eiend.","Omsetning og drift av fast eiendom",A,83680,8367,8367,8367,8X68A,8X68A,8X68,2X68,L68B,2X68
+83688,1970,9999,"Boligtjenester,","Boligtjenester, egen bolig,  borettslag og sameie",A,83688,8369,8367,8367,8X68B,8X68B,8X68,2X68,L68B,2X68
+83690,1970,9999,"Tj.jus,regnskap","Juridisk og regnskapsmessig tjenesteyting",A,83695,8370,8370,8369,8X69_70,8X69_75,8X69_71,2X69_75,M69_70,2X69
+83700,1970,9999,Hvdkont.adm.råd,"Hovedkontortjenester, administrativ rådgivning",A,83695,8370,8370,8369,8X69_70,8X69_75,8X69_71,2X69_75,M69_70,2X70
+83710,1970,9999,Arkitekt.tek.kon,"Arkitektvirksomhet og teknisk konsulentvirksomhet, og teknisk prøving og analyse",A,83695,8370,8371,8371,8X71,8X69_75,8X69_71,2X69_75,M71,2X71
+83720,1970,9999,"FoU arb","Forskning og utviklingsarbeid",A,83720,8372,8372,8372,8X72,8X69_75,8X72,2X69_75,M72,2X72
+83730,1970,9999,Reklame.mark.un,"Annonse- og reklamevirksomhet og markedsundersøkelser",A,83730,8373,8373,8373,8X73,8X69_75,8X73_75,2X69_75,M73,2X73
+83740,1970,9999,Fag.vit.teknINAS,"Annen faglig, vitenskapelig og teknisk virksomhet",A,83740,8373,8374,8374,8X74_75,8X69_75,8X73_75,2X69_75,M74_75,2X74
+83750,1970,9999,Veterinærtj.,Veterinærtjenester,A,83750,8373,8374,8374,8X74_75,8X69_75,8X73_75,2X69_75,M74_75,2X75
+83770,1970,9999,"Utleie,leasing","Utleie- og leasingvirksomhet",A,83779,8377,8377,8377,8X77,8X77_82,8X77_82,2X77_82,N77,2X77
+83780,1970,9999,Arbeidskrafttjen,Arbeidskrafttjenester,A,83779,8377,8378,8378,8X78,8X77_82,8X77_82,2X77_82,N78,2X78
+83791,1970,9999,Reisebyråer,"Reisebyråvirksomhet, turistkontor samt tilknyttede tjenester",A,83790,8377,8379,8379,8X79,8X77_82,8X77_82,2X77_82,N79,2X79
+83792,1970,9999,Reise/akt.arrang,"Reisearrangørvirksomhet og andre aktivitetsarrangører",A,83790,8377,8379,8379,8X79,8X77_82,8X77_82,2X77_82,N79,2X79
+83800,1970,9999,Vakttj.etterfors,"Vakttjeneste og etterforsking",A,83779,8377,8380,8380,8X80_82,8X77_82,8X77_82,2X77_82,N80T82,2X80
+83810,1970,9999,"Tj. Eiend.drift","Tjenester tilknyttet eiendomsdrift",A,83779,8377,8380,8380,8X80_82,8X77_82,8X77_82,2X77_82,N80T82,2X81
+83820,1970,9999,"Forret.tj. INAS","Annen forretningsmessig tjenesteyting",A,83779,8377,8380,8380,8X80_82,8X77_82,8X77_82,2X77_82,N80T82,2X82
+83850,1970,9999,Undervisning,Undervisning,A,83850,8385,8385,8385,8X85,8X85,8X85,2X85,P85,2X85
+83860,1970,9999,Helsetjenester,Helsetjenester,A,83860,8386,8386,8386,8X86,8X86_88,8X86,2X86_88,Q86,2X86
+83870,2011,9999,Omsorgstjenester,Omsorgstjenester,A,83870,8387,8387,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X87
+83882,1970,9999,"Barnehager, SFO","Barnehager og SFO",A,83882,8387,8387,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X88
+83889,1970,9999,Vekstbedrifter,Vekstbedrifter,A,83889,8387,8387,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X88
+83900,1970,9999,Kunst.Vir&underh,"Kunstnerisk virksomhet og underholdningsvirksomhet",A,83905,8390,8390,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X90
+83910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",A,83905,8390,8390,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X91
+83920,1970,9999,"Lotteri og spill","Lotteri og totalisatorspill",A,83905,8390,8390,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X92
+83930,1970,9999,Sport-fritidsakt,"Sports- og fritidsaktiviteter",A,83930,8390,8393,8393,8X93,8X90_97,8X90_93,2X90_93,R93,2X93
+83940,1970,9999,Akt.medl.org,"Aktiviteter i medlemsorganisasjoner + internasjonale organisasjoner",A,83940,8394,8394,8394,8X94,8X90_97,8X94_96,2X94_96,S94,2X94
+83950,1970,9999,"Rep.vare pers.br","Reparasjon av datamaskiner, husholdningsvarer og varer til personlig bruk",A,83950,8394,8395,8395,8X95,8X90_97,8X94_96,2X94_96,S95,2X95
+83960,1970,9999,A.pers.tj.yt,"Annen personlig tjenesteyting",A,83960,8394,8396,8396,8X96,8X90_97,8X94_96,2X94_96,S96,2X96
+84841,1970,9999,"Offentlig adm.","Offentlig administrasjon og forvaltning, og trygdeordninger underlagt offentlig forvaltning",A,84841,8484,8484,8384,8X84,8X84,8X84,2X84,O84,2X84
+84842,1970,9999,Forsvaret,Forsvaret,A,84842,8482,8482,8384,8X84,8X84,8X84,2X84,O84,2X84
+84844,1970,9999,A.off.tj.yting,"Annen offentlig tjenesteyting",A,84844,8484,8484,8384,8X84,8X84,8X84,2X84,O84,2X84
+84850,1970,9999,Undervisning,Undervisning,A,84850,8485,8485,8385,8X85,8X85,8X85,2X85,P85,2X85
+84860,1970,9999,Helsetjenester,Helsetjenester,A,84860,8486,8486,8386,8X86,8X86_88,8X86,2X86_88,Q86,2X86
+84870,1970,9999,Omsorgstjenester,Omsorgstjenester,A,84870,8487,8487,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X87
+84910,1970,9999,Kultur,"Kulturell tjenesteyting",A,84905,8490,8490,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X91
+85360,1970,9999,"Vannforsyning mm","Uttak fra kilde, rensing og distribusjon av vann",A,85360,8538,8538,8336,8X36,8X36_39,8X36_39,2X36_39,E36,2X36
+85370,1970,9999,Saml.beha.avløp,"Oppsamling og behandling av avløpsvann",A,85379,8538,8539,8337,8X37_39,8X36_39,8X36_39,2X36_39,E37T39,2X37
+85380,1970,9999,Inns.fjern.avfal,"Innsamling, behandling, disponering og fjerning av avfall",A,85379,8538,8539,8337,8X37_39,8X36_39,8X36_39,2X36_39,E37T39,2X38
+85841,1970,9999,"Offentlig adm.","Offentlig administrasjon og forvaltning, og trygdeordninger underlagt offentlig forvaltning",A,85841,8584,8584,8384,8X84,8X84,8X84,2X84,O84,2X84
+85850,1970,9999,Undervisning,Undervisning,A,85850,8585,8585,8385,8X85,8X85,8X85,2X85,P85,2X85
+85860,1970,9999,Helsetjenester,Helsetjenester,A,85860,8586,8586,8386,8X86,8X86_88,8X86,2X86_88,Q86,2X86
+85870,1970,9999,Omsorgstjenester,Omsorgstjenester,A,85870,8587,8587,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X87
+85882,1970,9999,"Barnehager, SFO","Barnehager og SFO",A,85882,8587,8587,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X88
+85910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",A,85905,8590,8590,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X91
+86850,1970,9999,Undervisning,Undervisning,A,86850,8685,8685,8385,8X85,8X85,8X85,2X85,P85,2X85
+86860,1970,9999,Helsetjenester,Helsetjenester,A,86860,8686,8686,8386,8X86,8X86_88,8X86,2X86_88,Q86,2X86
+86870,1970,9999,Omsorgstjenester,Omsorgstjenester,A,86870,8687,8687,8387,8X87_88,8X86_88,8X87_88,2X86_88,Q87_88,2X87
+86900,1970,9999,Kunst.Vir&underh,"Kunstnerisk virksomhet og underholdningsvirksomhet",A,86905,8690,8690,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X90
+86910,1970,9999,Bibl.mus.a.kultu,"Drift av biblioteker, arkiver, museer og annen kulturvirksomhet",A,86905,8690,8690,8390,8X90_92,8X90_97,8X90_93,2X90_93,R90T92,2X91
+86930,1970,9999,Sport/fritidsakt,"Sports- og fritidsaktiviteter",A,86930,8690,8693,8393,8X93,8X90_97,8X90_93,2X90_93,R93,2X93
+86940,1970,9999,Akt.medl.org,"Aktiviteter i medlemsorganisasjoner + internasjonale organisasjoner",A,86940,8694,8694,8394,8X94,8X90_97,8X94_96,2X94_96,S94,2X94
+87000,1970,9999,"Residual,varer","Residual, varer, lagerendring.",A,87000,8700,8700,8700,,,,,P52,
+87300,1970,9999,"Residual,tjen,","Residual, tjenester",A,87000,8700,8730,8700,,,,,P52,
+87400,1970,9999,Tjen.u/residual,"Tjenester som ikke skal ha residual",A,87000,8700,8740,8700,,,,,P52,
+87910,1970,9999,"Varer u.arb,olje","Varer under arbeid, moduler, skip",A,87000,8700,8791,8700,,,,,P52,
+87920,1970,9999,"Varer u.arb.ell.","Varer under arbeid, ellers",A,87000,8700,8792,8700,,,,,P52,
+87930,1970,9999,Husdyrbest.hogs.,"Lagerendring, husdyrbestand, hogstkvantum, fiskeoppdrett o.l.",A,87000,8700,8793,8700,,,,,P52,
+87940,1970,9999,Endr.v.dyrk.skog,"Lagerendring, vekst i dyrket skog",A,87000,8700,8794,8700,,,,,P52,
+87950,1970,9999,"Tjenester u.arb.","Tjenester under arbeid",A,87000,8700,8795,8700,,,,,P52,
+87970,1970,9999,"lagerend. mva.","Lagerendring merverdiavgift og investeringsavgivt",A,87000,8700,8797,8700,,,,,P52,
+87990,1970,9999,"Korr. fastp.","Korreksjon i faste priser",A,87000,8700,8799,8700,,,,,P52,
