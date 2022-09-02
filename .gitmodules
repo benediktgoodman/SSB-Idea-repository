@@ -1,0 +1,3 @@
+[submodule "Python/utils/NR_helpefuncs"]
+	path = Python/utils/NR_helpefuncs
+	url = https://github.com/benediktgoodman/NR_helperfuncs/
